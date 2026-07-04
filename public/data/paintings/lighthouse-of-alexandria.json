@@ -1,0 +1,141 @@
+{
+  "artistId": "lighthouse-of-alexandria",
+  "paintings": [
+    {
+      "id": "qasr-libya-mosaic",
+      "title": "The Pharos on a Byzantine mosaic from Qasr Libya",
+      "year": "6th century AD",
+      "medium": "mosaic (photograph)",
+      "location": "Qasr Libya Museum, Libya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mosaic_Ancient_Lighthouse_of_Alexandria.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Mosaic_Ancient_Lighthouse_of_Alexandria.jpg",
+      "width": 597,
+      "height": 606,
+      "story": "A rare surviving ancient depiction of the lighthouse, labelled 'O ΦΑΡΟϹ' — 'the Pharos' — in Greek tesserae: a Byzantine mosaic from Qasr Libya (ancient Olbia, refounded as Theodorias), whose museum preserves fifty mosaics excavated from the town's churches. Made while the Pharos still stood and worked, it shows the crenellated tower with figures at its summit — testimony from an age that could still sail past the wonder itself.",
+      "funFacts": [
+        "The lighthouse has been estimated at no less than 100 metres in overall height.",
+        "For many centuries it was one of the world's tallest man-made structures."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+    },
+    {
+      "id": "pharos-roman-coins",
+      "title": "The Pharos on Roman coins of Alexandria, 2nd century AD",
+      "year": "2nd century AD",
+      "medium": "bronze coins (photograph)",
+      "location": "struck at the Alexandrian mint under Antoninus Pius and Commodus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/PhareAlexandrie.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/PhareAlexandrie.jpg",
+      "width": 592,
+      "height": 294,
+      "story": "Roman coins struck at Alexandria under the emperors Antoninus Pius and Commodus show the lighthouse as its own contemporaries knew it — one even shows a galley under full sail passing the tower. Wikipedia notes that these extant coins reveal a statue of a Triton positioned on each of the building's four corners, with a statue of Poseidon or Zeus standing on top.",
+      "funFacts": [
+        "The lighthouse was built by the Ptolemaic Kingdom during the reign of Ptolemy II Philadelphus (280–247 BC).",
+        "Coins like these are primary evidence for reconstructing the tower's form, alongside descriptions by Arab travellers."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+    },
+    {
+      "id": "book-of-wonders-pharos",
+      "title": "The Pharos in an Arabic 'Book of Wonders', c. 1390–1450",
+      "year": "c. 1390–1450",
+      "medium": "manuscript illumination",
+      "location": "from a 15th-century Arabic collectaneous manuscript",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Book_of_Wonders_folio_36a_cropped.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Book_of_Wonders_folio_36a_cropped.jpg",
+      "width": 528,
+      "height": 819,
+      "story": "A medieval Arabic manuscript painting of the lighthouse, made while ruined portions of the tower still stood at Alexandria: a slender tiered column crowned by a great disc — the legendary mirror of the Pharos — with a face peering out beside it. Arab travellers and scholars left the fullest surviving descriptions of the lighthouse, including measurements taken on visits, and their accounts underpin every modern reconstruction.",
+      "funFacts": [
+        "Medieval Arab accounts describe a mirror at the apex that reflected sunlight during the day, with a fire lit at night.",
+        "The lighthouse was severely damaged by three earthquakes between AD 956 and 1303 and became an abandoned ruin."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+    },
+    {
+      "id": "heemskerck-pharos",
+      "title": "The Pharos of Alexandria — Philips Galle after Maarten van Heemskerck, 1572",
+      "year": "1572",
+      "medium": "engraving",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Vuurtoren_van_Alexandri%C3%AB_Pharos_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16449.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vuurtoren_van_Alexandri%C3%AB_Pharos_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16449.jpg/1920px-Vuurtoren_van_Alexandri%C3%AB_Pharos_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16449.jpg",
+      "width": 1920,
+      "height": 1529,
+      "story": "Heemskerck's plate for the 1572 wonder series raises a round, tiered tower blazing on a rocky crag, while in the foreground the crowned king — the Latin verse names Ptolemy — confers with a builder over a tablet of plans. Engraved a century after the lighthouse's last stones had been reused in the Citadel of Qaitbay, it is imagination shaped by classical texts rather than the square, octagonal and cylindrical stages recorded by coins and Arab descriptions.",
+      "funFacts": [
+        "The Pharos was the third longest-surviving ancient wonder, outlasted only by the Mausoleum and the still-standing Great Pyramid.",
+        "The 1572 series to which this plate belongs, Octo Mundi Miracula, established the canonical list of Seven Wonders."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+    },
+    {
+      "id": "devos-pharos",
+      "title": "Pharos — the van de Passe workshop after Maerten de Vos, 1614",
+      "year": "1614",
+      "medium": "engraving",
+      "location": "from the series 'Die sieben Weltwunder' (The Seven Wonders of the World), 1614",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/PPN783779828_Pharos_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/PPN783779828_Pharos_%28Die_sieben_Weltwunder%29_%281614%29.jpg/1920px-PPN783779828_Pharos_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "width": 1920,
+      "height": 1635,
+      "story": "The 1614 series after Maerten de Vos — this plate signed by Magdalena van de Passe — crowns its many-storeyed Pharos with streaming smoke while a laurelled architect displays the plans to a turbaned king in the foreground. Like the rest of the series it is a Flemish invention: by 1614 the lighthouse had been gone for over a century, and the Citadel of Qaitbay stood on its foundations.",
+      "funFacts": [
+        "In 1994 French archaeologists diving in Alexandria's Eastern Harbour discovered remains of the lighthouse on the sea floor.",
+        "Egypt has planned to turn the submerged ruins of ancient Alexandria, including those of the Pharos, into an underwater museum."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+    },
+    {
+      "id": "tempesta-pharos",
+      "title": "The Lighthouse at Alexandria — Antonio Tempesta, published 1610",
+      "year": "1610",
+      "medium": "etching",
+      "location": "Los Angeles County Museum of Art",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/The_Lighthouse_at_Alexandria_LACMA_65.37.294.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/The_Lighthouse_at_Alexandria_LACMA_65.37.294.jpg/1920px-The_Lighthouse_at_Alexandria_LACMA_65.37.294.jpg",
+      "width": 1920,
+      "height": 1477,
+      "story": "Tempesta's 1610 etching sets a smoking, wedding-cake tower of arcaded tiers on a low island while boaters in the foreground point it out and camel caravans pass on the shore — a Baroque vision of a monument no European had seen intact for generations. The print belongs to his Seven Wonders series, the imaginative canon through which early modern Europe knew the wonders.",
+      "funFacts": [
+        "The lighthouse stood on the island of Pharos, whose name became the word for lighthouse in Greek and survives in French 'phare' and Italian and Spanish 'faro'.",
+        "A well-preserved ancient tomb at Abusir, 48 km southwest of Alexandria, is thought to be a scaled-down model of the Pharos."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+    },
+    {
+      "id": "erlach-pharos",
+      "title": "The Pharos of Alexandria — Johann Bernhard Fischer von Erlach, 1721",
+      "year": "1721",
+      "medium": "copperplate engraving (hand-coloured copy)",
+      "location": "from 'Entwurff einer historischen Architectur', 1721",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pharos_Alexandria_%28Fischer_von_Erlach%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pharos_Alexandria_%28Fischer_von_Erlach%29.jpg",
+      "width": 1024,
+      "height": 647,
+      "story": "Fischer von Erlach reconstructs the Pharos for his 1721 comparative history of architecture as a stately tiered tower rising from a round fortified base on its promontory, smoke streaming from the lantern over the city and harbour of Alexandria. His scholarly Baroque vision, drawn from ancient descriptions, stands halfway between the fantasies of the Renaissance engravers and the coin-based reconstructions of modern archaeology.",
+      "funFacts": [
+        "Fischer von Erlach's 'A Plan of Civil and Historical Architecture' (1721) was one of the first and most popular comparative studies of world architecture.",
+        "The lighthouse survived in part until 1480, when the last of its stones were built into the Citadel of Qaitbay."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+    },
+    {
+      "id": "thiersch-pharos",
+      "title": "The Pharos of Alexandria — Hermann Thiersch's reconstruction, 1909",
+      "year": "1909",
+      "medium": "reconstruction drawing",
+      "location": "published in Hermann Thiersch's 'Pharos', 1909",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lighthouse_-_Thiersch.png",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Lighthouse_-_Thiersch.png",
+      "width": 1500,
+      "height": 1276,
+      "story": "The German archaeologist Hermann Thiersch published this reconstruction drawing in 1909, synthesising the Arabic descriptions, the Alexandrian coins and the surviving evidence into the three-stage tower — square base, octagonal midsection, cylindrical top — that has defined the lighthouse's image ever since.",
+      "funFacts": [
+        "The three-stage form matches the ancient tomb at Abusir thought to be modelled on the Pharos: a square base, an octagonal midsection and a cylindrical upper section.",
+        "In 2025, entrance, threshold and foundation stones of the lighthouse were raised from the harbour to aid a digital reconstruction effort."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+    }
+  ]
+}

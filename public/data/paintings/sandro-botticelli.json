@@ -1,0 +1,157 @@
+{
+  "artistId": "sandro-botticelli",
+  "paintings": [
+    {
+      "id": "the-birth-of-venus",
+      "title": "The Birth of Venus",
+      "year": "c. 1484–1486",
+      "medium": "tempera on canvas",
+      "location": "Uffizi Gallery, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1920px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+      "width": 1920,
+      "height": 1206,
+      "story": "Probably executed in the mid-1480s, the painting depicts the goddess Venus arriving at the shore after her birth, having emerged from the sea fully grown. As a depiction of a classical myth on a very large scale it was virtually unprecedented in Western art since antiquity, as was the size and prominence of its nude female figure. Long thought to have been commissioned by a member of the Medici family, though this is now uncertain, it has become one of the most famous paintings in the world.",
+      "funFacts": [
+        "Though not conceived as a pair, it is inevitably discussed together with Botticelli's other huge mythology, the Primavera, also in the Uffizi.",
+        "The subject of Venus emerging from the sea is known as Venus Anadyomene, a theme reaching back to ancient painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Birth_of_Venus"
+    },
+    {
+      "id": "primavera",
+      "title": "Primavera",
+      "year": "late 1470s or early 1480s",
+      "medium": "tempera on panel",
+      "location": "Uffizi Gallery, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Botticelli-primavera.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Botticelli-primavera.jpg/1920px-Botticelli-primavera.jpg",
+      "width": 1920,
+      "height": 1261,
+      "story": "This large panel of figures from classical mythology gathered in a garden has been described as one of the most written about, and most controversial, paintings in the world. No single story has been found that brings this particular group together; most critics agree it is an allegory of the lush growth of Spring, with many readings invoking the Renaissance Neoplatonism that fascinated Florentine intellectual circles. The art historian Giorgio Vasari, who saw it at Villa Castello by 1550, was the first to call it Primavera.",
+      "funFacts": [
+        "Its precise meaning is still debated — no classical or Renaissance text has been found that unites all its figures.",
+        "It is one of the most popular paintings in Western art."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Primavera_(Botticelli)"
+    },
+    {
+      "id": "adoration-of-the-magi",
+      "title": "Adoration of the Magi",
+      "year": "c. 1475–1476",
+      "medium": "tempera on panel",
+      "location": "Uffizi Gallery, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Botticelli_-_Adoration_of_the_Magi_%28Zanobi_Altar%29_-_Uffizi.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Botticelli_-_Adoration_of_the_Magi_%28Zanobi_Altar%29_-_Uffizi.jpg/1920px-Botticelli_-_Adoration_of_the_Magi_%28Zanobi_Altar%29_-_Uffizi.jpg",
+      "width": 1920,
+      "height": 1565,
+      "story": "Botticelli painted this altarpiece around 1475 for the funerary chapel of Gaspare di Zanobi del Lama, a Florentine banker and broker, in the church of Santa Maria Novella. It depicts the Three Magi, having followed the star, worshipping the newborn Christ and presenting gifts of gold, frankincense and myrrh, with the Virgin, Child and Saint Joseph at the centre surrounded by a crowd of onlookers.",
+      "funFacts": [
+        "The patron, son of a barber from Empoli, made his fortune as a financial broker in Florence."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Botticelli)"
+    },
+    {
+      "id": "venus-and-mars",
+      "title": "Venus and Mars",
+      "year": "c. 1485",
+      "medium": "tempera and oil on poplar panel",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Venus_and_Mars_National_Gallery.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Venus_and_Mars_National_Gallery.jpg/1920px-Venus_and_Mars_National_Gallery.jpg",
+      "width": 1920,
+      "height": 767,
+      "story": "Painted about 1485, the panel shows the Roman gods Venus, goddess of love, and Mars, god of war, reclining in a forest setting in an allegory of beauty and valour, surrounded by playful baby satyrs. Its wide format and close view of the figures suggest it was made to commemorate a wedding, set into panelling or furniture adorning the couple's bedroom. Botticelli likely worked out its learned allusions with an advisor such as Poliziano, the Medici house poet.",
+      "funFacts": [
+        "The painting is widely seen as an ideal representation of sensuous love.",
+        "Its dating rests entirely on style, as the picture has never been convincingly tied to a documented commission."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Venus_and_Mars_(Botticelli)"
+    },
+    {
+      "id": "pallas-and-the-centaur",
+      "title": "Pallas and the Centaur",
+      "year": "c. 1482",
+      "medium": "tempera on canvas",
+      "location": "Uffizi Gallery, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Pallade_col_Centauro%2C_Sandro_Botticelli_%281482%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pallade_col_Centauro%2C_Sandro_Botticelli_%281482%29.jpg/1920px-Pallade_col_Centauro%2C_Sandro_Botticelli_%281482%29.jpg",
+      "width": 1920,
+      "height": 2710,
+      "story": "In this allegory of c. 1482, a female figure holding an elaborate halberd clutches the hair of a centaur who was evidently about to shoot from his bow. The earliest record of the painting, a 1499 inventory, calls her Camilla, while a 1516 inventory calls her Minerva — the Roman Pallas Athene — which remains her usual modern identification. It has been proposed as a companion piece to the Primavera.",
+      "funFacts": [
+        "The fine cloth of her dress is decorated with the Medici's three-ring insignia.",
+        "Arthur Frothingham suggested the figure personifies Florence itself."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pallas_and_the_Centaur"
+    },
+    {
+      "id": "madonna-of-the-magnificat",
+      "title": "Madonna of the Magnificat",
+      "year": "1481",
+      "medium": "tempera",
+      "location": "Uffizi Gallery, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Magnificat_Madonna_-_Botticelli_%28uffici%29_b.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Magnificat_Madonna_-_Botticelli_%28uffici%29_b.jpg/1920px-Magnificat_Madonna_-_Botticelli_%28uffici%29_b.jpg",
+      "width": 1920,
+      "height": 1908,
+      "story": "In this celebrated tondo, the Virgin Mary writes the opening of the Magnificat with her right hand while holding a pomegranate in her left, as two of five angels crown her with the Christ Child on her lap. The painting's early history is unknown; the Uffizi acquired it from a private collection in 1784, and it may have come from one of the monasteries suppressed by Archduke Pietro Leopoldo.",
+      "funFacts": [
+        "It is also known as the Virgin and Child with Five Angels.",
+        "Copies exist in the Louvre and the Morgan Library in New York; in the Louvre's copy one crowning angel is erased entirely."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Madonna_of_the_Magnificat"
+    },
+    {
+      "id": "the-mystical-nativity",
+      "title": "The Mystical Nativity",
+      "year": "c. 1500–1501",
+      "medium": "oil on canvas",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Mystic_Nativity%2C_Sandro_Botticelli.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mystic_Nativity%2C_Sandro_Botticelli.jpg/1920px-Mystic_Nativity%2C_Sandro_Botticelli.jpg",
+      "width": 1920,
+      "height": 2781,
+      "story": "Executed around 1500–1501, this is Botticelli's only signed work, and its iconography is highly unusual for a Nativity. A Greek inscription at the top declares that 'Alessandro' painted it 'at the end of the year 1500, in the troubles of Italy... in the second woe of the Apocalypse'. Botticelli appears to have believed he was living through the Great Tribulation, and the painting is connected with the influence of the fiery preacher Girolamo Savonarola.",
+      "funFacts": [
+        "It is the only work Botticelli ever signed.",
+        "The inscription references the Book of Revelation and the release of the devil 'for three and a half years'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Mystical_Nativity"
+    },
+    {
+      "id": "calumny-of-apelles",
+      "title": "The Calumny of Apelles",
+      "year": "c. 1494–1495",
+      "medium": "tempera on panel",
+      "location": "Uffizi Gallery, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sandro_Botticelli_La_calumnia_de_Apeles.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sandro_Botticelli_La_calumnia_de_Apeles.jpg/1920px-Sandro_Botticelli_La_calumnia_de_Apeles.jpg",
+      "width": 1920,
+      "height": 1286,
+      "story": "Completed about 1494–95, the panel recreates a lost painting by the ancient Greek painter Apelles, known only from a description by Lucian. Leon Battista Alberti had praised the subject and recommended it to artists in his influential De pictura of 1435, and Botticelli was neither the first nor the last Renaissance artist to attempt it. The work reflects Botticelli's fascination with resurrecting the lost glories of ancient Greek painting from classical literature.",
+      "funFacts": [
+        "Lucian's Greek description circulated widely: it was translated into Latin or Italian four times during the 15th century.",
+        "Botticelli's earlier Venus and Mars also borrows a motif — the infant satyrs playing with Mars' armour — from another description by Lucian."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Calumny_of_Apelles"
+    },
+    {
+      "id": "cestello-annunciation",
+      "title": "Cestello Annunciation",
+      "year": "1489",
+      "medium": "tempera on panel",
+      "location": "Uffizi Gallery, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Botticelli%2C_Cestello_Annunciation%2C_1489%2C_Uffizi.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Botticelli%2C_Cestello_Annunciation%2C_1489%2C_Uffizi.jpg/1920px-Botticelli%2C_Cestello_Annunciation%2C_1489%2C_Uffizi.jpg",
+      "width": 1920,
+      "height": 1920,
+      "story": "Painted in 1489 for the patron Benedetto di Ser Giovanni Guardi, the panel adorned the church of the Florentine monastery of Cestello, now Santa Maria Maddalena de' Pazzi. It shows the Archangel Gabriel announcing to the Virgin Mary that she has been chosen by God to bear the Christ Child.",
+      "funFacts": [
+        "The original frame carries words in Latin from St. Luke's Gospel: 'The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee.'",
+        "Botticelli painted at least two other Annunciations, now in the Metropolitan Museum of Art and the Kelvingrove Art Gallery in Glasgow."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cestello_Annunciation"
+    }
+  ]
+}

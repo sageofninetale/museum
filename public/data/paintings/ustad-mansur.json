@@ -1,0 +1,158 @@
+{
+  "artistId": "ustad-mansur",
+  "paintings": [
+    {
+      "id": "dodo",
+      "title": "The Dodo",
+      "year": "c. 1625",
+      "medium": "opaque watercolour on paper",
+      "location": "Hermitage Museum, St. Petersburg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/DodoMansur.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/DodoMansur.jpg",
+      "width": 966,
+      "height": 1553,
+      "story": "Mansur was the earliest artist to depict the dodo in colour, and this painting is a very important source for zoologists — among the rare few images of the bird made in colour from life. It is thought that the dodo was brought through Surat to Jahangir's court via Portuguese-controlled Goa; the English traveller Peter Mundy described two dodos at Surat, and the painting is thought to be based on one of them. The picture was discovered in the Hermitage at St. Petersburg and, although unsigned, has been thought to be the work of Mansur or a close contemporary.",
+      "funFacts": [
+        "The dodo shares the page with other carefully observed birds, in the naturalist manner that earned Mansur the title Nadir-al-'Asr, 'Unequalled of the Age'.",
+        "A crater on the planet Mercury is named in honour of Mansur."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ustad_Mansur"
+    },
+    {
+      "id": "siberian-crane",
+      "title": "Siberian Crane",
+      "year": "early 17th century",
+      "medium": "opaque watercolour on paper",
+      "location": "Indian Museum, Kolkata",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Siberian_Crane_by_Ustad_Mansur_%282%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Siberian_Crane_by_Ustad_Mansur_%282%29.jpg/1280px-Siberian_Crane_by_Ustad_Mansur_%282%29.jpg",
+      "width": 1123,
+      "height": 1601,
+      "story": "Mansur was the first artist to illustrate the Siberian crane, painting it well before the species was formally described and given a binomial name by Peter Simon Pallas in 1773. The painting is extremely detailed, showing the wrinkles on the bird's bare skin, the legs, and even a small feather stuck to its claw. The signed work is in the Indian Museum, Kolkata — and the species is now no longer a winter migrant to India.",
+      "funFacts": [
+        "When E. B. Havell showed this painting to Abanindranath Tagore, who examined its detail through a lens, the founder of the Bengal school was inspired to move away from oil on canvas to gouache on paper.",
+        "Jahangir considered Mansur and Abu'l Hasan to be his two exceptional artists."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ustad_Mansur"
+    },
+    {
+      "id": "turkey-cock",
+      "title": "Turkey Cock",
+      "year": "c. 1612",
+      "medium": "opaque watercolour and gold on paper",
+      "location": "Victoria and Albert Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Turkey_Cock%2C_by_Mansur%2C_opaque_watercolour_and_gold_on_paper%2C_Mughal%2C_ca._1612.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Turkey_Cock%2C_by_Mansur%2C_opaque_watercolour_and_gold_on_paper%2C_Mughal%2C_ca._1612.jpg",
+      "width": 492,
+      "height": 720,
+      "story": "In 1612 the emperor Jahangir received a turkey cock brought from Goa — a bird never before seen at the Mughal court — and ordered Mansur to illustrate it. In Mansur's characteristic style the single bird dominates the composition, observed with the precision of a naturalist. Jahangir's fascination with the natural world, recorded throughout his memoirs, made his reign the golden age of Mughal natural-history painting.",
+      "funFacts": [
+        "Mansur painted at least one hundred flowers of the Kashmir valley for Jahangir.",
+        "Several 17th–19th century artists imitated and copied Mansur's works — sometimes complete with his signature — especially for export to Europe."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ustad_Mansur"
+    },
+    {
+      "id": "chameleon",
+      "title": "A Chameleon",
+      "year": "c. 1612",
+      "medium": "opaque watercolour on paper",
+      "location": "Royal Collection, Windsor Castle",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Mansur._A_Chameleon._1612%2C_Royal_Collection%2C_Windsor_Castle..jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Mansur._A_Chameleon._1612%2C_Royal_Collection%2C_Windsor_Castle..jpg",
+      "width": 1500,
+      "height": 1193,
+      "story": "Mansur's chameleon, perched on a branch, is presumed to be an Indian chameleon on account of the highly detailed rendering of the feet — each foot exhibiting 'fused digits in opposed groups' — with a lighter band by the edge of the mouth and a line of white scales on the underside of the belly. Because so many later artists imitated and copied Mansur, the quality of such details is what allows scholars to judge a true work by his hand.",
+      "funFacts": [
+        "Not all of Mansur's creatures were real: early in his career he also painted fantasy birds in the style of his senior peers Miskina and Ikhlas.",
+        "The flowers and insects in his backgrounds are often juxtapositions created for artistic effect."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ustad_Mansur"
+    },
+    {
+      "id": "great-hornbill",
+      "title": "Great Hornbill (Shah Jahan Album)",
+      "year": "early 17th century",
+      "medium": "ink, opaque watercolour and gold on paper",
+      "location": "Metropolitan Museum of Art, New York",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/%22Great_Hornbill%22%2C_Folio_from_the_Shah_Jahan_Album_MET_DP246533.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%22Great_Hornbill%22%2C_Folio_from_the_Shah_Jahan_Album_MET_DP246533.jpg/1920px-%22Great_Hornbill%22%2C_Folio_from_the_Shah_Jahan_Album_MET_DP246533.jpg",
+      "width": 1600,
+      "height": 1095,
+      "story": "This study of a great hornbill was preserved in the Shah Jahan Album, one of the imperial muraqqas in which single paintings were mounted with calligraphy and ornamental borders. Mansur's illustrations focus on detail, with a single bird dominating the composition, standing or in a feeding stance, and the floral borders characteristic of Mughal works help scholars identify his art. Jahangir's menagerie of exotic creatures gave the court painters subjects no European naturalist of the age could match.",
+      "funFacts": [
+        "Mughal paintings were made as book illustrations or as single works to be kept in albums called muraqqa.",
+        "Mansur rose from work as a colourist on the Akbarnama to the title of ustad (master) by the end of Akbar's reign."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ustad_Mansur"
+    },
+    {
+      "id": "nilgai",
+      "title": "Study of a Nilgai (Blue Bull)",
+      "year": "early 17th century",
+      "medium": "ink, opaque watercolour and gold on paper",
+      "location": "Metropolitan Museum of Art, New York",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/%22Study_of_a_Nilgai_%28Blue_Bull%29%22%2C_Folio_from_the_Shah_Jahan_Album_MET_DP240655.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/%22Study_of_a_Nilgai_%28Blue_Bull%29%22%2C_Folio_from_the_Shah_Jahan_Album_MET_DP240655.jpg/1920px-%22Study_of_a_Nilgai_%28Blue_Bull%29%22%2C_Folio_from_the_Shah_Jahan_Album_MET_DP240655.jpg",
+      "width": 1600,
+      "height": 1041,
+      "story": "The nilgai, or blue bull, was a favourite quarry of the imperial hunt, and this study from the Shah Jahan Album shows Mansur's gift for animal portraiture at its calmest: the antelope stands in profile, every tone of its slate-blue coat observed. Although largely known for natural-history illustrations, Mansur also portrayed people, and his painting of the musician Naubat Khan shows he was a capable portrait artist as well.",
+      "funFacts": [
+        "Mansur was one of several Mughal artists who illustrated flora and fauna, alongside Abu'l Hasan, Farrukh Beg, Govardhan and Manohar.",
+        "His name was suffixed in some early miniatures as 'Naqqash', suggesting he came from a family in an artistic profession."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ustad_Mansur"
+    },
+    {
+      "id": "vultures",
+      "title": "Red-Headed Vulture and Long-Billed Vulture",
+      "year": "early 17th century",
+      "medium": "ink, opaque watercolour and gold on paper",
+      "location": "Metropolitan Museum of Art, New York",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/%22Red-Headed_Vulture_and_Long-Billed_Vulture%22%2C_Folio_from_the_Shah_Jahan_Album_MET_DP245154.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/%22Red-Headed_Vulture_and_Long-Billed_Vulture%22%2C_Folio_from_the_Shah_Jahan_Album_MET_DP245154.jpg",
+      "width": 1218,
+      "height": 1860,
+      "story": "Two vultures share a single folio from the Shah Jahan Album, their unlovely heads rendered with the same unsentimental care Mansur gave to cranes and falcons. The Metropolitan Museum's Emperors' Album catalogue documents Mansur's work in this imperial muraqqa. The Mughal emperors' albums scattered across the world's museums remain the chief record of his art.",
+      "funFacts": [
+        "Signed works by Mansur survive today in collections from the Indian Museum in Kolkata to the National Museum in Delhi and the Maharaja Sawai Man Singh II Museum in Jaipur.",
+        "In terms of zoology, his most significant paintings are considered to be those of the Siberian crane and the dodo."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ustad_Mansur"
+    },
+    {
+      "id": "diving-dipper",
+      "title": "Diving Dipper and Other Birds",
+      "year": "c. 1620",
+      "medium": "ink, opaque watercolour and gold on paper",
+      "location": "Metropolitan Museum of Art, New York",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/%22Diving_Dipper_and_Other_Birds%22%2C_Folio_from_the_Shah_Jahan_Album_MET_DP246541.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/%22Diving_Dipper_and_Other_Birds%22%2C_Folio_from_the_Shah_Jahan_Album_MET_DP246541.jpg/1280px-%22Diving_Dipper_and_Other_Birds%22%2C_Folio_from_the_Shah_Jahan_Album_MET_DP246541.jpg",
+      "width": 1079,
+      "height": 1601,
+      "story": "Visiting Kashmir in 1620, Jahangir was intrigued by a bird he saw diving in a stream: 'It dives and remains for a long time underneath and then comes up from a different place,' he wrote in his memoirs, ordering two or three caught so he could check whether their feet were webbed. Finding they were not, he 'ordered Nadirul-asr Ustad Mansur to draw its likeness'. The brown dipper thus entered the Shah Jahan Album beside its companion birds.",
+      "funFacts": [
+        "Jahangir's memoirs, the Tuzk-e-Jahangiri, record the emperor's own field observations of the birds Mansur painted.",
+        "During the same Kashmir visit Mansur painted his celebrated studies of the valley's flowers, including a famous red tulip whose species is still debated."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ustad_Mansur"
+    },
+    {
+      "id": "falcon",
+      "title": "Falcon on a Perch",
+      "year": "early 17th century",
+      "medium": "opaque watercolour on paper",
+      "location": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Mumbai",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Peregrine_Falcon_on_Perch_%28CSMVS_15.302%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Peregrine_Falcon_on_Perch_%28CSMVS_15.302%29.jpg/1280px-Peregrine_Falcon_on_Perch_%28CSMVS_15.302%29.jpg",
+      "width": 1110,
+      "height": 1600,
+      "story": "In 1619 Jahangir received a Barbary falcon as a gift from Shah Abbas of Persia; the emperor found it rare and beautifully patterned, and when it died he ordered that a likeness of the bird be made. Falcons were treasured at the Mughal court, and this poised study on its perch, held in the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya in Mumbai — one of the museums the Ustad Mansur literature records as holding his works — shows why the emperor trusted Mansur with such commissions.",
+      "funFacts": [
+        "Mansur's career is thought to have ended with the reign of Jahangir.",
+        "His earliest works were made as an assistant or colourist for the Baburnama of 1590–95."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ustad_Mansur"
+    }
+  ]
+}

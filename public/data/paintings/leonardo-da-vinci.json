@@ -1,0 +1,284 @@
+{
+  "artistId": "leonardo-da-vinci",
+  "paintings": [
+    {
+      "id": "mona-lisa",
+      "title": "Mona Lisa",
+      "year": "c. 1503–1506 (perhaps until 1517)",
+      "medium": "oil on poplar panel",
+      "location": "Louvre, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1280px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+      "width": 1074,
+      "height": 1601,
+      "story": "Traditionally identified as Lisa del Giocondo, wife of the Florentine silk merchant Francesco del Giocondo, the portrait is thought to have been commissioned for the couple's new home and to celebrate the birth of their second son — yet Leonardo never gave it to them, and may have kept working on it as late as 1517. King Francis I of France acquired it after Leonardo's death in 1519, and it has normally hung in the Louvre since 1797. Its enigmatic expression, achieved through sfumato so soft the forms have no outlines, helped make it 'the best known, the most visited, the most written about... work of art in the world'.",
+      "funFacts": [
+        "Its modern global fame owes much to its 1911 theft by Vincenzo Peruggia, who believed it should belong to Italy; the recovery in 1914 generated unprecedented publicity.",
+        "It holds the Guinness World Record for the highest known painting insurance valuation: US$100 million in 1962, equivalent to about $1 billion as of 2023.",
+        "A marginal note by Agostino Vespucci dated October 1503, discovered at Heidelberg University in 2005, confirms Leonardo was then at work on a portrait of Lisa del Giocondo."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mona_Lisa"
+    },
+    {
+      "id": "the-last-supper",
+      "title": "The Last Supper",
+      "year": "c. 1495–1498",
+      "medium": "tempera on gesso, pitch and mastic",
+      "location": "Santa Maria delle Grazie, Milan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg/1920px-The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg",
+      "width": 1600,
+      "height": 800,
+      "story": "Commissioned by Leonardo's patron Ludovico Sforza, Duke of Milan, for the wall of the convent refectory he planned as a family mausoleum, the mural captures the instant after Jesus announces that one of the Twelve will betray him — each apostle reacting with his own shock, anger or disbelief. Leonardo shunned true fresco so he could revise at leisure, sealing the wall and painting in tempera; the experiment failed, and despite numerous restorations — the last completed in 1999 — little of the original painting remains.",
+      "funFacts": [
+        "When the monastery's prior complained about delays, Leonardo wrote that he was struggling to find the perfect villainous face for Judas — and threatened to use the prior's.",
+        "At 460 by 880 centimetres it is Leonardo's largest work aside from the Sala delle Asse.",
+        "Judas is shown tipping over the salt cellar, possibly echoing the Near-Eastern expression 'to betray the salt'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)"
+    },
+    {
+      "id": "lady-with-an-ermine",
+      "title": "Lady with an Ermine",
+      "year": "c. 1489–1491",
+      "medium": "oil on walnut panel",
+      "location": "Czartoryski Museum, Kraków",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg/1280px-Lady_with_an_Ermine_-_Leonardo_da_Vinci_%28adjusted_levels%29.jpg",
+      "width": 1190,
+      "height": 1600,
+      "story": "Painted while Leonardo was court painter to the Sforza in Milan, the portrait shows Cecilia Gallerani, mistress of Duke Ludovico Sforza, turning toward an unseen presence beyond the frame while the ermine twists in her arms in matching contrapposto. It is the second of only four surviving portraits of women by Leonardo — the others being Ginevra de' Benci, La Belle Ferronnière and the Mona Lisa — and is considered one of Poland's national treasures.",
+      "funFacts": [
+        "Leonardo's fingerprints remain visible in the paint of the face and the animal's head.",
+        "The black background is an overpaint of the original bluish grey, probably added in the mid-18th century along with the spurious signature 'LEONARD D'AWINCI'.",
+        "The thin walnut panel is most likely from the same tree as the one used for La Belle Ferronnière."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lady_with_an_Ermine"
+    },
+    {
+      "id": "ginevra-de-benci",
+      "title": "Ginevra de' Benci",
+      "year": "c. 1474–1478",
+      "medium": "oil on panel",
+      "location": "National Gallery of Art, Washington, D.C.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg/1920px-Leonardo_da_Vinci_-_Ginevra_de%27_Benci_-_Google_Art_Project.jpg",
+      "width": 1510,
+      "height": 1600,
+      "story": "Leonardo painted the young Florentine aristocrat Ginevra de' Benci in Florence between 1474 and 1478, most likely to commemorate her betrothal at sixteen. The juniper bush framing her head puns on her name — ginepro in Italian — and symbolises female virtue, while the reverse of the panel bears the Latin motto 'Beauty Adorns Virtue'. Purchased from the Prince of Liechtenstein in 1967 for a then-record five to six million dollars, it is the only Leonardo painting on public view in the Americas.",
+      "funFacts": [
+        "Infrared examination revealed the motto of Bernardo Bembo, the Venetian ambassador and Ginevra's platonic admirer, hidden beneath her own — suggesting he had a hand in the commission.",
+        "The bottom of the panel was cut away at some point, presumably after damage, taking Ginevra's arms and hands with it."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ginevra_de%27_Benci"
+    },
+    {
+      "id": "virgin-of-the-rocks",
+      "title": "Virgin of the Rocks",
+      "year": "c. 1483–1486",
+      "medium": "oil on panel, transferred to canvas",
+      "location": "Louvre, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Leonardo_Da_Vinci_-_Vergine_delle_Rocce_%28Louvre%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Leonardo_Da_Vinci_-_Vergine_delle_Rocce_%28Louvre%29.jpg/1280px-Leonardo_Da_Vinci_-_Vergine_delle_Rocce_%28Louvre%29.jpg",
+      "width": 1009,
+      "height": 1600,
+      "story": "The Virgin Mary, the infant John the Baptist, the Christ Child and the angel Uriel gather in a rocky grotto in this altarpiece, generally accepted to have been produced to fulfil a commission of 1483 in Milan. Leonardo painted the subject twice in nearly identical compositions; the unrestored Louvre picture is considered the earlier, prime version, entirely by his hand, and is regarded as a perfect example of his sfumato technique. It is hypothesised that Leonardo sold this version privately and painted the London version later to satisfy the commission.",
+      "funFacts": [
+        "The London version was painted for the chapel of the Confraternity of the Immaculate Conception in Milan and was bought by the National Gallery in 1880.",
+        "The first certain record of the Louvre version dates from 1625, when it was in the French royal collection."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Virgin_of_the_Rocks"
+    },
+    {
+      "id": "the-virgin-and-child-with-saint-anne",
+      "title": "The Virgin and Child with Saint Anne",
+      "year": "c. 1501–1519",
+      "medium": "oil on wood",
+      "location": "Louvre, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg/1280px-Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg",
+      "width": 1193,
+      "height": 1600,
+      "story": "Commissioned as the high altarpiece for the Church of Santissima Annunziata in Florence — and likely ordered by King Louis XII of France after the birth of his daughter, though never delivered to him — this unfinished panel stacks three generations: Saint Anne, her daughter Mary seated on her lap, and the infant Jesus grasping a sacrificial lamb that symbolises his Passion. The theme preoccupied Leonardo for two decades, from the Burlington House Cartoon to this panel, still with him at the end of his life.",
+      "funFacts": [
+        "In 2008 a Louvre curator found faint sketches on the back of the panel — a horse's head, half a skull and an infant with a lamb — the first drawings ever found on the flip side of a Leonardo.",
+        "Freud built a famous psychoanalytic essay on a 'vulture' he perceived in the Virgin's garment — resting on a German mistranslation of the kite in Leonardo's childhood memory."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Virgin_and_Child_with_Saint_Anne_(Leonardo)"
+    },
+    {
+      "id": "saint-john-the-baptist",
+      "title": "Saint John the Baptist",
+      "year": "c. 1513–1516",
+      "medium": "oil on walnut panel",
+      "location": "Louvre, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg/1280px-Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+      "width": 1236,
+      "height": 1600,
+      "story": "Believed to be Leonardo's final painting, the saint emerges from the shadowy background through pure chiaroscuro, dressed in furs, right hand pointing up toward heaven, wearing an enigmatic smile reminiscent of the Mona Lisa. Kenneth Clark saw in the figure 'the eternal question mark, the enigma of creation'. The model was Salaì, Leonardo's long-time assistant.",
+      "funFacts": [
+        "In 1625 Charles I of England received it from Louis XIII of France in exchange for a Titian Holy Family and Holbein's Portrait of Erasmus; it returned to France under Louis XIV in 1661.",
+        "Leonardo's sfumato is considered to have reached its apogee in this painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_John_the_Baptist_(Leonardo)"
+    },
+    {
+      "id": "annunciation",
+      "title": "Annunciation",
+      "year": "c. 1472–1476",
+      "medium": "oil and tempera on poplar panel",
+      "location": "Uffizi, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Annunciation_%28Leonardo_c._1472%E2%80%931476%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Annunciation_%28Leonardo_c._1472%E2%80%931476%29.jpg/1920px-Annunciation_%28Leonardo_c._1472%E2%80%931476%29.jpg",
+      "width": 1600,
+      "height": 734,
+      "story": "Leonardo's earliest extant major work was completed while he was an apprentice in Andrea del Verrocchio's Florentine studio: the angel Gabriel kneels in a flowering courtyard, announcing to Mary that she will conceive the Son of God. The marble table before her probably derives from a Medici tomb Verrocchio was sculpting at the time. When the panel arrived at the Uffizi in 1867 it was attributed to Ghirlandaio; only in 1869 was it recognised as the work of the young Leonardo.",
+      "funFacts": [
+        "The keen naturalist painted Gabriel's wings to resemble those of a bird in flight — a later artist lengthened them dramatically.",
+        "The painting has left the museum only three times; a 2007 loan to Tokyo prompted some 300 politicians and art experts to protest.",
+        "Mary's oddly extended right arm may reflect Leonardo's early optical research, anticipating a viewer looking from the side."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Annunciation_(Leonardo)"
+    },
+    {
+      "id": "adoration-of-the-magi",
+      "title": "Adoration of the Magi",
+      "year": "1481 (unfinished)",
+      "medium": "charcoal, ink, watercolour and oil on wood",
+      "location": "Uffizi, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Adoration_of_the_Magi_%28Leonardo%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Adoration_of_the_Magi_%28Leonardo%29.jpg/1920px-Adoration_of_the_Magi_%28Leonardo%29.jpg",
+      "width": 1600,
+      "height": 1582,
+      "story": "The Augustinian monks of San Donato in Scopeto commissioned this altarpiece in 1481, but Leonardo departed for Milan the following year leaving little more than the preparatory underdrawing; the commission passed to Filippino Lippi, who painted his own Adoration in its place. The Virgin and Child sit encircled by awestruck figures, with the ruins of a pagan building and battling horsemen behind — the pagan world supplanted by the Christian one. It has been in the Uffizi since 1670.",
+      "funFacts": [
+        "The young man at the far right is considered by several critics the most credible self-portrait of Leonardo at about thirty.",
+        "A diagnostic study begun in 2002 by Maurizio Seracini concluded that none of the paint visible today was applied by Leonardo — only the elaborate underdrawing is his.",
+        "The ruin may allude to the Basilica of Maxentius, which medieval legend claimed would stand until a virgin gave birth."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Leonardo)"
+    },
+    {
+      "id": "saint-jerome-in-the-wilderness",
+      "title": "Saint Jerome in the Wilderness",
+      "year": "c. 1480–1490",
+      "medium": "tempera and oil on walnut panel",
+      "location": "Vatican Museums, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Leonardo_da_Vinci_%E2%80%94_Jerome.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Leonardo_da_Vinci_%E2%80%94_Jerome.jpg/1280px-Leonardo_da_Vinci_%E2%80%94_Jerome.jpg",
+      "width": 1135,
+      "height": 1600,
+      "story": "The penitent Jerome kneels in a rocky landscape, a stone in his right hand for beating his breast, his faithful lion curled in an 'S' at his feet — an unfinished monochrome draft whose neck and shoulder musculature is seen as the first of Leonardo's anatomical studies. After Leonardo's death the panel was cut into five pieces by the Roman dealer Pietro Camuccini, who extracted the head to sell separately; Cardinal Fesch, Napoleon's uncle, reunited head and panel and kept the restored picture above his favourite armchair as his most precious possession.",
+      "funFacts": [
+        "The four straight incisions made to cut out the head are still evident in infrared reflectography.",
+        "Pope Pius IX acquired the panel after the cardinal's posthumous sale and installed it in the Pinacoteca Vaticana."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saint_Jerome_in_the_Wilderness_(Leonardo)"
+    },
+    {
+      "id": "portrait-of-a-musician",
+      "title": "Portrait of a Musician",
+      "year": "c. 1483–1487",
+      "medium": "oil (and possibly tempera) on walnut panel",
+      "location": "Pinacoteca Ambrosiana, Milan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg/1280px-Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
+      "width": 1219,
+      "height": 1600,
+      "story": "Leonardo's only known male portrait shows a curly-haired young musician staring intently at something beyond the frame, his large glassy eyes lit so that the pupils dilate unequally — an effect that is not physically possible. Until the 20th century the sitter was thought to be Duke Ludovico Sforza; a restoration of 1904–1905 removed overpainting to reveal a hand holding folded sheet music, proving he was a musician, though which musician is still debated. It is Leonardo's only panel painting remaining in Milan.",
+      "funFacts": [
+        "Kenneth Clark judged it perhaps the best preserved of all Leonardo's surviving works.",
+        "Proposed sitters include Franchinus Gaffurius, favoured through the 20th century, and Atalante Migliorotti, favoured more recently."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Musician"
+    },
+    {
+      "id": "la-belle-ferronniere",
+      "title": "La Belle Ferronnière",
+      "year": "c. 1490–1496",
+      "medium": "oil on wood",
+      "location": "Louvre, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg/1280px-La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg",
+      "width": 1103,
+      "height": 1600,
+      "story": "This portrait of an unknown woman — tentatively identified as Lucrezia Crivelli, a lady-in-waiting at the Milanese court who became the Duke's mistress, or possibly Duchess Beatrice d'Este — takes its name from a seventeenth-century identification of the sitter as the wife or daughter of an ironmonger (a ferronnier), alluding to a reputed mistress of Francis I. The name later became entangled with the Lady with an Ermine, which once carried the same title.",
+      "funFacts": [
+        "In 1920 the dealer Sir Joseph Duveen pronounced an American copy a fake from a photograph alone; the owner sued for defamation of property in a notorious trial that ended in a $60,000 settlement.",
+        "That contested 'Hahn version' was finally sold at Sotheby's in 2010 for $1.5 million as the work of a follower of Leonardo."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Belle_Ferronni%C3%A8re"
+    },
+    {
+      "id": "the-baptism-of-christ",
+      "title": "The Baptism of Christ",
+      "year": "c. 1472–1475",
+      "medium": "oil and tempera on wood",
+      "location": "Uffizi, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/The_Baptism_of_Christ_%28Verrocchio_and_Leonardo%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Baptism_of_Christ_%28Verrocchio_and_Leonardo%29.jpg/1920px-The_Baptism_of_Christ_%28Verrocchio_and_Leonardo%29.jpg",
+      "width": 1340,
+      "height": 1600,
+      "story": "Finished around 1475 in the studio of Andrea del Verrocchio, where the young Leonardo trained, this altarpiece of Christ baptised by John in the Jordan is a collaboration: the youthful Leonardo painted the angel at the far left, and modern critics attribute much of the luminous background landscape to him as well, painted in oil while the rest of the picture is tempera. According to Vasari, Leonardo's angel was so impressive that Verrocchio quit painting altogether.",
+      "funFacts": [
+        "According to Antonio Billi, it was commissioned around 1468 by Verrocchio's brother Don Simone, head of the monastic Church of San Salvi.",
+        "Verrocchio's painting output does seem to have ceased abruptly — his last known painted work was handed to his assistant Lorenzo di Credi to complete."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Baptism_of_Christ_(Verrocchio_and_Leonardo)"
+    },
+    {
+      "id": "salvator-mundi",
+      "title": "Salvator Mundi",
+      "year": "c. 1499–1510",
+      "medium": "oil on walnut panel",
+      "location": "Private collection (reportedly in storage in Saudi Arabia)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg/1280px-Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg",
+      "width": 1087,
+      "height": 1600,
+      "story": "Long thought to be a copy of a lost original veiled with overpainting, this image of Christ blessing with his right hand while holding a transparent crystal orb was rediscovered, restored and included in the National Gallery's Leonardo exhibition of 2011–2012. In 2017 Christie's sold it in New York for US$450.3 million — a record for any painting at public auction — to a Saudi prince reportedly bidding for Crown Prince Mohammed bin Salman. It has not been publicly exhibited since, and leading specialists still dispute how much of it is by Leonardo's hand.",
+      "funFacts": [
+        "Its US$450.3 million sale on 15 November 2017 made it the most expensive painting ever sold at public auction.",
+        "Approximately thirty copies and variations by pupils and followers of Leonardo have been identified.",
+        "The crystal orb is painted as if it does not refract the drapery behind it."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvator_Mundi_(painting)"
+    },
+    {
+      "id": "la-scapigliata",
+      "title": "La Scapigliata",
+      "year": "c. 1506–1508",
+      "medium": "oil, umber and white lead on poplar panel",
+      "location": "Galleria Nazionale di Parma, Parma",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Leonardo_da_vinci_-_La_scapigliata.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Leonardo_da_vinci_-_La_scapigliata.jpg/1280px-Leonardo_da_vinci_-_La_scapigliata.jpg",
+      "width": 1067,
+      "height": 1601,
+      "story": "Nicknamed 'The Lady with Dishevelled Hair', this small poplar panel shows a woman's exquisitely finished face gazing downward while her tousled hair dissolves into loose strokes against a primed but unpainted ground. There is no consensus on her identity or the picture's purpose — theories range from a study for the lost Leda and the Swan or the London Virgin of the Rocks to a work left unfinished on purpose for its aesthetic value. It may have been owned by Isabella d'Este in 1531 and entered the Parma collection in 1826.",
+      "funFacts": [
+        "Her half-closed eyes and ambiguous smile are described as evocative of the Mona Lisa.",
+        "The scholar Carmen Bambach suggests it is best described as a 'brush drawing' or 'painted sketch'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Scapigliata"
+    },
+    {
+      "id": "benois-madonna",
+      "title": "Benois Madonna",
+      "year": "c. 1478–1480",
+      "medium": "oil on canvas",
+      "location": "Hermitage Museum, Saint Petersburg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Leonardo%2C_Madonna_Benois.JPG",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Leonardo%2C_Madonna_Benois.JPG/1280px-Leonardo%2C_Madonna_Benois.JPG",
+      "width": 999,
+      "height": 1600,
+      "story": "Likely the first work Leonardo painted independently of his master Verrocchio, this Madonna and Child with Flowers was one of two Madonnas he began in October 1478 — the other being the Madonna of the Carnation in Munich. Presumed lost for centuries, it had in fact been bought in Italy by a Russian general in the 1790s and passed by marriage into the Benois family, whose exhibition of it in Saint Petersburg in 1909 caused a sensation. The Imperial Hermitage bought it in 1914 for a record amount, with instalments still being paid after the October Revolution of 1917.",
+      "funFacts": [
+        "It was extensively copied by young painters, including Raphael, whose Madonna of the Pinks derives from it.",
+        "The child is thought to be guiding his mother's hand so the flower enters his central vision — a nod to Leonardo's fascination with sight and perspective.",
+        "Bernard Berenson savaged it — 'a young woman with a bald forehead and puffed cheeks, a toothless smile' — yet still had to acknowledge it as Leonardo's."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benois_Madonna"
+    }
+  ]
+}

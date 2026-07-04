@@ -1,0 +1,178 @@
+{
+  "artistId": "amrita-sher-gil",
+  "paintings": [
+    {
+      "id": "young-girls",
+      "title": "Young Girls",
+      "year": "1932",
+      "medium": "oil on canvas",
+      "location": "National Gallery of Modern Art, New Delhi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Young_Girls.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Young_Girls.jpg",
+      "width": 986,
+      "height": 1200,
+      "story": "Painted in Paris when Sher-Gil was 19 and studying at the Beaux-Arts, Young Girls depicts two women in close conversation in an affluent home: her sister Indira, upright and neatly dressed in Western clothes with a plate of cherries on her lap, and her friend Denise Proutaux, slouched, her blonde hair partially covering a naked breast. The work was awarded a gold medal at the 1933 Paris Salon and earned Sher-Gil an associate membership — she was the first Asian to be so honoured. Several commentators have seen the painting as reflecting Sher-Gil's divided identity: Indian, European, colonial subject, and female.",
+      "funFacts": [
+        "The associateship allowed her to exhibit two paintings every year at the Salon without the need for a jury; she wrote to Victor, 'I don't think very highly of them - they are very - haughty'.",
+        "It is a national art treasure under India's Antiquities and Art Treasures Act (1972).",
+        "Sher-Gil created over 60 oil paintings in Paris between 1930 and 1932."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Young_Girls_(painting)"
+    },
+    {
+      "id": "three-girls",
+      "title": "Three Girls (Group of Young Girls)",
+      "year": "1935",
+      "medium": "oil on canvas",
+      "location": "National Gallery of Modern Art, New Delhi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Group_of_Three_Girls_1935.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Group_of_Three_Girls_1935.jpg/1280px-Group_of_Three_Girls_1935.jpg",
+      "width": 1153,
+      "height": 1600,
+      "story": "Painted shortly after Sher-Gil returned to India from Europe, Three Girls shows three colourfully dressed young women — the daughters of Mahinder Kaur and Mangal Singh Mann — contemplating a destiny they are unable to change. Sher-Gil did not sensualise her women but portrayed them facing great adversity yet having the spirit to transcend it. The work marks her move from the academic realism she learned in Paris toward a flatter style, influenced by Gauguin, where line and colour are prominently used; the girls' surroundings are not shown at all.",
+      "funFacts": [
+        "The painting won the Gold Medal at the annual exhibition of the Bombay Art Society in 1937.",
+        "The Nawab Salar Jung of Hyderabad had it delivered to him but returned it, commenting that he had 'no use for these Cubist pictures'.",
+        "Sher-Gil wrote of her mission 'to interpret the life of Indians and particularly the poor Indians pictorially... to reproduce on canvas the impression those sad eyes created on me'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Three_Girls_(painting)"
+    },
+    {
+      "id": "brides-toilet",
+      "title": "Bride's Toilet",
+      "year": "1937",
+      "medium": "oil on canvas",
+      "location": "National Gallery of Modern Art, New Delhi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Amrita_Sger-Gil_Bride%27s_Toilet.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Amrita_Sger-Gil_Bride%27s_Toilet.jpg/1920px-Amrita_Sger-Gil_Bride%27s_Toilet.jpg",
+      "width": 1600,
+      "height": 944,
+      "story": "Bride's Toilet depicts a bride's chamber, where a young woman with mehndi-covered palms is seated, surrounded by two other women and two children — one dressing her hair, another holding a container, all with expressionless faces. Part of Sher-Gil's celebrated South Indian trilogy with Brahmacharis and South Indian Villagers Going to Market, it was painted after her visit to the Ajanta Caves, drawing influence from the Ajanta frescoes and Mughal miniatures in a masterful amalgam of Indian and European styles.",
+      "funFacts": [
+        "It was one of 33 works displayed at her solo exhibition at Faletti's Hotel in Lahore in November 1937.",
+        "The South Indian trilogy followed her conscious attempt to return to classical Indian art after seeing Ajanta."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bride%27s_Toilet"
+    },
+    {
+      "id": "brahmacharis",
+      "title": "Brahmacharis",
+      "year": "1937",
+      "medium": "oil on canvas",
+      "location": "National Gallery of Modern Art, New Delhi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Brahmacharis_1937.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Brahmacharis_1937.jpg/1920px-Brahmacharis_1937.jpg",
+      "width": 1600,
+      "height": 974,
+      "story": "In 1937 Sher-Gil toured South India and produced her South Indian trilogy of paintings — Bride's Toilet, Brahmacharis, and South Indian Villagers Going to Market — following her visit to the Ajanta Caves, when she made a conscious attempt to return to classical Indian art. The row of young ascetics reveals her passionate sense of colour and her empathy for her Indian subjects. By now, she said, she had found her artistic mission: to express the life of Indian people through her canvas.",
+      "funFacts": [
+        "Sher-Gil wrote from Saraya: 'I can only paint in India. Europe belongs to Picasso, Matisse, Braque.... India belongs only to me.'",
+        "She was greatly impressed and influenced by the Mughal and Pahari schools of painting and the cave paintings at Ajanta."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil"
+    },
+    {
+      "id": "south-indian-villagers-going-to-market",
+      "title": "South Indian Villagers Going to Market",
+      "year": "1937",
+      "medium": "oil on canvas",
+      "location": "National Gallery of Modern Art, New Delhi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Amrita_Sher-Gil_painting_South_Indian_Villagers_Going_to_Market_1937_Simla.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Amrita_Sher-Gil_painting_South_Indian_Villagers_Going_to_Market_1937_Simla.jpg/1920px-Amrita_Sher-Gil_painting_South_Indian_Villagers_Going_to_Market_1937_Simla.jpg",
+      "width": 1600,
+      "height": 1385,
+      "story": "The third panel of Sher-Gil's South Indian trilogy shows villagers filing to market, their forms simplified and monumental. These paintings reveal her passionate sense of colour and empathy for her Indian subjects, who are often depicted in their poverty and despair. The trilogy marked the completion of the transformation in her work that began when she returned to India in 1934, haunted by 'an intense longing to return to India feeling in some strange way that there lay her destiny as a painter'.",
+      "funFacts": [
+        "One of her Paris professors had said that, judging by the richness of her colouring, Sher-Gil was not in her element in the West and would find her true atmosphere in the East.",
+        "Her paintings were at one stage considered for use in Congress propaganda for village reconstruction."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil"
+    },
+    {
+      "id": "village-scene",
+      "title": "Village Scene",
+      "year": "1938",
+      "medium": "oil on canvas",
+      "location": "National Gallery of Modern Art, New Delhi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Amrita_Sher-Gil_Village_Scene_1938_Simla.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Amrita_Sher-Gil_Village_Scene_1938_Simla.jpg/1920px-Amrita_Sher-Gil_Village_Scene_1938_Simla.jpg",
+      "width": 1600,
+      "height": 1195,
+      "story": "Painted during her stay at the family home in Saraya, Village Scene portrays the leisurely rhythms of life in rural India and reflects influences of the Pahari school of painting. Sher-Gil was attracted to the poor, distressed and deprived, and her paintings of Indian villagers and women are a meditative reflection of their condition. In 2006 Village Scene sold for ₹6.9 crores at an auction in New Delhi — at the time the highest amount ever paid for a painting in India.",
+      "funFacts": [
+        "Sher-Gil's works are so important to Indian culture that the government has stipulated that when sold in India, the art must stay in the country.",
+        "Her impact on Indian art in this second phase is said to rival that of Rabindranath Tagore and Jamini Roy."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil"
+    },
+    {
+      "id": "in-the-ladies-enclosure",
+      "title": "In the Ladies' Enclosure",
+      "year": "1938",
+      "medium": "oil on canvas",
+      "location": "Private collection",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/In_the_Ladies_Enclosure_1938.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/In_the_Ladies_Enclosure_1938.jpg",
+      "width": 438,
+      "height": 297,
+      "story": "Painted during Sher-Gil's stay at Saraya, In the Ladies' Enclosure portrays the leisurely rhythms of life in rural India, together with Village Scene and Siesta. The painting reflects her experimentation with the Indian miniature school of painting, part of the quest for the rediscovery of the traditions of Indian art that she pursued from her return to India until her death.",
+      "funFacts": [
+        "Although acclaimed by the critics Karl Khandalavala and Charles Fabri as the greatest painter of the century, Sher-Gil's paintings found few buyers in her lifetime.",
+        "Nehru visited her at Saraya in October 1940; she never drew his portrait, supposedly because she thought he was 'too good looking'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil"
+    },
+    {
+      "id": "the-little-girl-in-blue",
+      "title": "The Little Girl in Blue",
+      "year": "1934",
+      "medium": "oil on canvas",
+      "location": "Private collection (auctioned by Sotheby's, Mumbai, 2018)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/The_Little_Girl_in_Blue_by_Amrita_Sher-Gil.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_Little_Girl_in_Blue_by_Amrita_Sher-Gil.jpg/1280px-The_Little_Girl_in_Blue_by_Amrita_Sher-Gil.jpg",
+      "width": 1142,
+      "height": 1600,
+      "story": "In December 1934, staying at her family's ancestral home near Amritsar, Sher-Gil painted eight-year-old Lalit Kaur Mann, nicknamed Babette, who lived across the road and could not stop fidgeting as she sat. The girl wears striking blue and stares into space, and the picture has been seen as Sher-Gil's transition from Paris, where blues and greens were typical, to India, where reds and browns soon took over. The girl's mother disliked the painting, seeing it as not a true likeness, and asked for it to be painted over.",
+      "funFacts": [
+        "In 2018 it was auctioned by Sotheby's, Mumbai, fetching US$2.67 million — then a record-breaking ₹18.69 crores.",
+        "It was priced at just ₹150 at Sher-Gil's 1937 Lahore exhibition, where it was bought by the Hungarian art critic Charles Fabri.",
+        "Under India's Antiquities and Art Treasures Act (1972), the work is a national art treasure and must stay in the country."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Little_Girl_in_Blue"
+    },
+    {
+      "id": "siesta",
+      "title": "Siesta",
+      "year": "1937",
+      "medium": "oil on canvas",
+      "location": "National Gallery of Modern Art, New Delhi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Siesta_1937.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Siesta_1937.jpg/1920px-Siesta_1937.jpg",
+      "width": 1600,
+      "height": 1082,
+      "story": "Siesta, painted during Sher-Gil's years at Saraya, portrays the leisurely rhythms of life in rural India — women resting through the heat of the day. Like In the Ladies' Enclosure, it reflects her experimentation with the Indian miniature school of painting, blending the lessons of her Paris training with the traditions she rediscovered in the Mughal and Pahari schools and the cave paintings at Ajanta.",
+      "funFacts": [
+        "Sher-Gil has been called India's Frida Kahlo because of the 'revolutionary' way she blended Western and traditional art forms.",
+        "UNESCO declared 2013, the centenary of her birth, the international year of Amrita Sher-Gil."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amrita_Sher-Gil"
+    },
+    {
+      "id": "mother-india",
+      "title": "Mother India",
+      "year": "1935",
+      "medium": "oil on canvas",
+      "location": "National Gallery of Modern Art, New Delhi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Mother_India_1935.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mother_India_1935.jpg/1920px-Mother_India_1935.jpg",
+      "width": 1281,
+      "height": 1600,
+      "story": "Painted in 1935, the year after Sher-Gil's return to India, Mother India shows a village mother with her two children, rendered in the flattened, colour-saturated manner of her Indian phase. She had realised her artistic mission — 'to interpret the life of Indians and particularly the poor Indians pictorially' — and her depiction of the plight of women has made her art a beacon for women in India and abroad.",
+      "funFacts": [
+        "The Government of India has declared her works National Art Treasures, and most are housed in the National Gallery of Modern Art in New Delhi.",
+        "Fewer than ten of her works have ever been sold globally."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/List_of_paintings_by_Amrita_Sher-Gil"
+    }
+  ]
+}

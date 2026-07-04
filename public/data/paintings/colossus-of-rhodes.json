@@ -1,0 +1,124 @@
+{
+  "artistId": "colossus-of-rhodes",
+  "paintings": [
+    {
+      "id": "heemskerck-colossus",
+      "title": "The Colossus of Rhodes — Philips Galle after Maarten van Heemskerck, 1572",
+      "year": "1572",
+      "medium": "engraving",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Kolos_van_Rhodos_Colossvs_Solis_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16451.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kolos_van_Rhodos_Colossvs_Solis_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16451.jpg/1920px-Kolos_van_Rhodos_Colossvs_Solis_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16451.jpg",
+      "width": 1920,
+      "height": 1580,
+      "story": "The most influential image of the Colossus ever made: Heemskerck plants the sun god astride the harbour mouth with ships gliding between his legs. Wikipedia is blunt about its accuracy — the harbour-straddling Colossus was 'a figment of medieval imaginations', and engineering analyses indicate a bronze statue could not have been built with its legs apart without collapsing under its own weight.",
+      "funFacts": [
+        "Shakespeare drew on this image when Cassius describes Caesar bestriding the narrow world 'like a Colossus'.",
+        "The real statue is thought to have stood on a 15-metre-high white marble pedestal near the harbour entrance — legs together."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes"
+    },
+    {
+      "id": "devos-colossus",
+      "title": "Colossus Solis — the van de Passe workshop after Maerten de Vos, 1614",
+      "year": "1614",
+      "medium": "engraving",
+      "location": "from the series 'Die sieben Weltwunder' (The Seven Wonders of the World), 1614",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/PPN784590419_Colossus_Solis_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/PPN784590419_Colossus_Solis_%28Die_sieben_Weltwunder%29_%281614%29.jpg/1920px-PPN784590419_Colossus_Solis_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "width": 1920,
+      "height": 1681,
+      "story": "The 1614 series after Maerten de Vos repeats the beloved medieval fiction — Helios straddling the harbour, torch held high, while ships sail beneath — but adds a sombre coda: in the foreground lie a colossal severed head, hand and foot, the wonder already in fragments. The straddling pose descends from the statue's dedication text, which spoke of Helios twice 'over land and sea', and from a 1395 Italian visitor who recorded a local tradition about where the statue's right foot had stood.",
+      "funFacts": [
+        "Emma Lazarus' 1883 sonnet 'The New Colossus', mounted inside the Statue of Liberty's pedestal, contrasts Liberty with the ancient giant.",
+        "The Colossus took twelve years to build and was completed in 280 BC."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes"
+    },
+    {
+      "id": "tempesta-colossus",
+      "title": "The Colossus of Rhodes — Antonio Tempesta, published 1610",
+      "year": "1610",
+      "medium": "etching",
+      "location": "Los Angeles County Museum of Art",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/The_Colossus_of_Rhodes_LACMA_65.37.290.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/The_Colossus_of_Rhodes_LACMA_65.37.290.jpg/1920px-The_Colossus_of_Rhodes_LACMA_65.37.290.jpg",
+      "width": 1920,
+      "height": 1486,
+      "story": "Alone among the great wonder series, Tempesta's plate shows the Colossus after its fall: the giant's severed feet still stand on their pedestal while his curly-haired head lies in the sand among camel caravans and marvelling onlookers, a second colossus rising intact in the distant city. It matches the ancient testimony — the statue snapped at the knees in the earthquake of 226 BC and lay where it fell for over 800 years, still exciting wonder.",
+      "funFacts": [
+        "Pliny the Elder wrote of the fallen statue that 'few men can clasp the thumb in their arms, and its fingers are larger than most statues'.",
+        "In 653 the remains were reportedly sold off by Arab conquerors — according to one account, carried away on 900 camels."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes"
+    },
+    {
+      "id": "erlach-colossus",
+      "title": "The Colossus of Rhodes — Johann Bernhard Fischer von Erlach, 1721",
+      "year": "1721",
+      "medium": "copperplate engraving",
+      "location": "from 'Entwurff einer historischen Architectur', 1721",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Fischer_von_Erlach_Architektur_003.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Fischer_von_Erlach_Architektur_003.jpg",
+      "width": 1500,
+      "height": 1052,
+      "story": "Fischer von Erlach's 1721 plate gives the straddling Colossus its grandest Baroque staging, a smoking beacon-bowl in the god's upraised hand and fleets crowding the harbour below — with an inset at the corner reproducing ancient Rhodian coins, the head of Helios and the rose of Rhodes. Even this scholarly architect accepted the harbour-straddling pose that modern engineering analysis has ruled impossible for a bronze figure of that size.",
+      "funFacts": [
+        "Had the statue really straddled the harbour mouth, the port would have been sealed shut during construction — and again when the statue fell across it; in fact the fallen Colossus lay on land.",
+        "Fischer von Erlach's book was among the first comparative studies of world architecture."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes"
+    },
+    {
+      "id": "barclay-colossus",
+      "title": "The Colossus of Rhodes — Sidney Barclay, 1880",
+      "year": "1880",
+      "medium": "wood engraving",
+      "location": "19th-century book illustration",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Colosse_de_Rhodes_%28Barclay%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Colosse_de_Rhodes_%28Barclay%29.jpg",
+      "width": 1170,
+      "height": 1600,
+      "story": "This 1880 wood engraving finally closes the giant's legs: the radiate-crowned Helios stands on a masonry pedestal at the harbour's edge, one arm stretched out over the passing galleys. It reflects the 19th century's more critical eye — scholars had come to reject the straddling pose as a medieval fable with no historic or scientific basis.",
+      "funFacts": [
+        "The statue stood for 54 years until the earthquake of 226 BC snapped it at the knees.",
+        "Ptolemy III offered to pay for its reconstruction, but the Oracle of Delphi made the Rhodians fear they had offended Helios, and they declined."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes"
+    },
+    {
+      "id": "knab-colossus",
+      "title": "The Colossus of Rhodes — Ferdinand Knab, 1886",
+      "year": "1886",
+      "medium": "painting (reproduction)",
+      "location": "from Ferdinand Knab's 1886 series of the Seven Wonders",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Colossus_of_Rhodes_by_Ferdinand_Knab_%281886%29.png",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Colossus_of_Rhodes_by_Ferdinand_Knab_%281886%29.png",
+      "width": 461,
+      "height": 582,
+      "story": "Knab's 1886 painting keeps faith with the old legend: his bronze giant bestrides the harbour mouth on two piers, torch flaming against a stormy sky, bow in hand, with a marble temple glowing on the hillside behind. Painted a year after the Statue of Liberty was completed, it shows how tenaciously the impossible pose — 'a figment of medieval imaginations', as Wikipedia puts it — held the modern imagination too.",
+      "funFacts": [
+        "According to the Suda, the Rhodians were called 'Colossaeans' because they erected the statue on the island.",
+        "In 653 an Arab force conquered Rhodes, and according to the Chronicle of Theophanes the Confessor the remains were sold off — a story some modern historians consider propaganda."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes"
+    },
+    {
+      "id": "rhodes-didrachm",
+      "title": "Didrachm of Rhodes with the head of Helios, 305–275 BCE",
+      "year": "305–275 BCE",
+      "medium": "silver coin (photograph)",
+      "location": "struck at Rhodes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Rhodes_Didrachm_Helios_305-275_BCE.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rhodes_Didrachm_Helios_305-275_BCE.jpg/1280px-Rhodes_Didrachm_Helios_305-275_BCE.jpg",
+      "width": 1280,
+      "height": 640,
+      "story": "A silver didrachm struck at Rhodes in the very decades the Colossus rose, bearing the radiate head of Helios and the rose that punned on the island's name. Wikipedia notes that while the statue's full appearance is unknown, scholars have a good idea of the head and face — curly-haired, of a standard rendering of the time, 'similar to the images found on contemporary Rhodian coins' like this one.",
+      "funFacts": [
+        "Construction of the Colossus began in 292 BC and took twelve years.",
+        "Much of its iron and bronze was reforged from the siege weapons Demetrius I's defeated army left behind."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "islands": [
+    { "id": "seven-wonders", "name": "Seven Wonders of the Ancient World", "startYear": -2560, "endYear": -280, "anchorYear": -600, "blurb": "", "wikipediaUrl": "" }
+  ],
+  "artists": [
+    { "id": "great-pyramid-of-giza", "name": "The Great Pyramid of Giza", "periodId": "seven-wonders", "birthYear": null, "deathYear": null, "activeStart": -2560, "activeEnd": 2026, "nationality": "Giza, Egypt", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "hanging-gardens-of-babylon", "name": "The Hanging Gardens of Babylon", "periodId": "seven-wonders", "birthYear": null, "deathYear": null, "activeStart": -600, "activeEnd": -100, "nationality": "Babylon, Mesopotamia", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "temple-of-artemis", "name": "The Temple of Artemis", "periodId": "seven-wonders", "birthYear": null, "deathYear": null, "activeStart": -550, "activeEnd": 262, "nationality": "Ephesus, Turkey", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "statue-of-zeus", "name": "The Statue of Zeus at Olympia", "periodId": "seven-wonders", "birthYear": null, "deathYear": null, "activeStart": -435, "activeEnd": 475, "nationality": "Olympia, Greece", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "mausoleum-at-halicarnassus", "name": "The Mausoleum at Halicarnassus", "periodId": "seven-wonders", "birthYear": null, "deathYear": null, "activeStart": -351, "activeEnd": 1494, "nationality": "Halicarnassus, Turkey", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "colossus-of-rhodes", "name": "The Colossus of Rhodes", "periodId": "seven-wonders", "birthYear": null, "deathYear": null, "activeStart": -280, "activeEnd": -226, "nationality": "Rhodes, Greece", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "lighthouse-of-alexandria", "name": "The Lighthouse of Alexandria", "periodId": "seven-wonders", "birthYear": null, "deathYear": null, "activeStart": -280, "activeEnd": 1480, "nationality": "Alexandria, Egypt", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false }
+  ]
+}

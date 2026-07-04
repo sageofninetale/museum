@@ -1,0 +1,23 @@
+{
+  "artistId": "andy-warhol",
+  "paintings": [
+    {
+      "id": "campbells-soup-cans",
+      "title": "Campbell's Soup Cans",
+      "year": "1961-1962",
+      "medium": "acrylic with metallic enamel paint on canvas (32 canvases)",
+      "location": "Museum of Modern Art, New York",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Campbell%27s_Soup_Cans_by_Andy_Warhol.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Campbell%27s_Soup_Cans_by_Andy_Warhol.jpg/1920px-Campbell%27s_Soup_Cans_by_Andy_Warhol.jpg",
+      "width": 1920,
+      "height": 1116,
+      "story": "Campbell's Soup Cans is a series of 32 paintings produced by Andy Warhol between 1961 and 1962, each depicting a different variety of Campbell's soup in a uniform 20-by-16-inch format. First exhibited in July 1962 at the Ferus Gallery in Los Angeles, the pop art works challenged traditional distinctions between fine art and commercial imagery. Contrary to later confusion, the original works were not silkscreens but traced and hand-painted canvases incorporating stamped details. The series catapulted Warhol to fame, and the original 32 canvases were preserved by art dealer Irving Blum and acquired by the Museum of Modern Art in 1996.",
+      "funFacts": [
+        "The Ferus Gallery exhibition closed on August 4, 1962, the same day Marilyn Monroe died; shortly afterward Warhol began producing his silkscreen portraits of Monroe.",
+        "Warhol used a rubber stamp to apply the gold fleur-de-lis near the lower portion of each image, and these were among the last works he painted largely by hand.",
+        "Fans frequently sought Warhol's signature on actual Campbell soup cans, and he often obliged."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Campbell%27s_Soup_Cans"
+    }
+  ]
+}

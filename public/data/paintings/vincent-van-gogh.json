@@ -1,0 +1,171 @@
+{
+  "artistId": "vincent-van-gogh",
+  "paintings": [
+    {
+      "id": "the-starry-night",
+      "title": "The Starry Night",
+      "year": "1889",
+      "medium": "oil on canvas",
+      "location": "Museum of Modern Art, New York",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1920px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1521,
+      "story": "Painted in June 1889, The Starry Night depicts the view from the east-facing window of Van Gogh's asylum room at Saint-Rémy-de-Provence just before sunrise, with the addition of an imaginary village. Van Gogh had voluntarily admitted himself to the Saint-Paul-de-Mausole asylum in May 1889, following a mental breakdown and his infamous act of self-mutilation in late December 1888. During his year-long stay he remained highly productive, creating many paintings including Irises, a self-portrait and this canvas.",
+      "funFacts": [
+        "Described as a 'touchstone of modern art', it is regarded as one of the most recognizable paintings in the Western canon.",
+        "It has been in the permanent collection of the Museum of Modern Art in New York since 1941, acquired through the Lillie P. Bliss Bequest."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Starry_Night"
+    },
+    {
+      "id": "sunflowers",
+      "title": "Sunflowers",
+      "year": "1888",
+      "medium": "oil on canvas",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Vincent_Willem_van_Gogh_127.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vincent_Willem_van_Gogh_127.jpg/1920px-Vincent_Willem_van_Gogh_127.jpg",
+      "width": 1920,
+      "height": 2423,
+      "story": "Sunflowers (French: Tournesols) is the title of two series of still lifes by Van Gogh: the first, painted in Paris in 1887, shows the flowers lying on the ground, while the second, made a year later in Arles, shows bouquets of sunflowers in a vase. In the artist's mind both sets were linked to his friend Paul Gauguin, who acquired two of the Paris versions. Van Gogh painted the Arles sunflowers as part of the decoration for the Yellow House, hoping to welcome and impress Gauguin in the guestroom where he was supposed to stay.",
+      "funFacts": [
+        "Gauguin acquired two of the Paris versions of the Sunflowers.",
+        "The Arles Sunflowers were painted as part of the 'Décoration' for the Yellow House, prepared for Gauguin's guestroom."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunflowers_(Van_Gogh_series)"
+    },
+    {
+      "id": "the-potato-eaters",
+      "title": "The Potato Eaters",
+      "year": "1885",
+      "medium": "oil on canvas",
+      "location": "Van Gogh Museum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/De_aardappeleters_-_s0005V1962_-_Van_Gogh_Museum.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/De_aardappeleters_-_s0005V1962_-_Van_Gogh_Museum.jpg/1920px-De_aardappeleters_-_s0005V1962_-_Van_Gogh_Museum.jpg",
+      "width": 1920,
+      "height": 1357,
+      "story": "The Potato Eaters was painted in April and May of 1885 in Nuenen, in the Netherlands, during Van Gogh's early Dutch period. The dark, earthy canvas of a peasant family at their evening meal is considered to be one of Van Gogh's masterpieces. It now hangs in the Van Gogh Museum in Amsterdam.",
+      "funFacts": [
+        "The original oil sketch for the painting is held at the Kröller-Müller Museum in Otterlo.",
+        "Van Gogh also made lithographs of the image, held in collections including the Museum of Modern Art in New York."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Potato_Eaters"
+    },
+    {
+      "id": "bedroom-in-arles",
+      "title": "Bedroom in Arles",
+      "year": "1888",
+      "medium": "oil on canvas",
+      "location": "Van Gogh Museum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg/1920px-Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1523,
+      "story": "The painting depicts Van Gogh's bedroom at 2, Place Lamartine in Arles, known as the Yellow House. The door to the left led to the guest room he held prepared for Gauguin, and the window looked onto Place Lamartine and its public gardens. Van Gogh's own title for the composition was simply 'The Bedroom', and he painted three authentic versions, easily distinguishable by the pictures on the wall to the right.",
+      "funFacts": [
+        "The room was not rectangular but trapezoid, with an obtuse angle in the left-hand corner of the front wall.",
+        "There are three authentic versions of the painting, described in Van Gogh's own letters."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bedroom_in_Arles"
+    },
+    {
+      "id": "cafe-terrace-at-night",
+      "title": "Café Terrace at Night",
+      "year": "1888",
+      "medium": "oil on canvas",
+      "location": "Kröller-Müller Museum, Otterlo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg/1920px-Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg",
+      "width": 1920,
+      "height": 2394,
+      "story": "Van Gogh painted Café Terrace at Night in Arles in mid-September 1888, looking south towards the artificially lit terrace of a popular coffee house on the Place du Forum. When first exhibited in 1891 it was entitled 'Coffeehouse, in the evening'. Visitors can still stand at the north-eastern corner of the Place du Forum, where the artist set up his easel; the site was refurbished in 1990 and 1991 to replicate the painting.",
+      "funFacts": [
+        "The painting is not signed, but Van Gogh described and mentioned it in three of his letters.",
+        "Visitors can stand at the exact spot on the Place du Forum where Van Gogh set up his easel in 1888."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Terrace_at_Night"
+    },
+    {
+      "id": "irises",
+      "title": "Irises",
+      "year": "1889",
+      "medium": "oil on canvas",
+      "location": "J. Paul Getty Museum, Los Angeles",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Irises-Vincent_van_Gogh.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Irises-Vincent_van_Gogh.jpg/1920px-Irises-Vincent_van_Gogh.jpg",
+      "width": 1920,
+      "height": 1468,
+      "story": "Irises was painted in 1889, one of a series of several hundred paintings Van Gogh made at the Saint Paul-de-Mausole asylum in Saint-Rémy-de-Provence in the last year before his death. The cropped composition shows vibrantly blooming irises in deep blues and violets, contrasting with lush green leaves, red-orange earth and yellow flowers behind. His characteristic impasto technique adds texture and movement, with the monumental rippled irises overflowing the borders of the canvas.",
+      "funFacts": [
+        "It has been in the permanent collection of The Getty in Los Angeles since 1990."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irises_(painting)"
+    },
+    {
+      "id": "almond-blossoms",
+      "title": "Almond Blossoms",
+      "year": "1890",
+      "medium": "oil on canvas",
+      "location": "Van Gogh Museum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg/1920px-Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1517,
+      "story": "Almond Blossoms belongs to a group of paintings of blossoming almond trees Van Gogh made in 1888 and 1890 in Arles and Saint-Rémy. Flowering trees were special to him: they represented awakening and hope, and he found joy in painting them. This canvas was made to celebrate the birth of his nephew and namesake, the son of his brother Theo and sister-in-law Jo.",
+      "funFacts": [
+        "The works reflect the influence of Impressionism, Divisionism and Japanese woodcuts.",
+        "It was made to celebrate the birth of Van Gogh's nephew and namesake, the son of Theo and Jo."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Almond_Blossoms"
+    },
+    {
+      "id": "wheatfield-with-crows",
+      "title": "Wheatfield with Crows",
+      "year": "1890",
+      "medium": "oil on canvas",
+      "location": "Van Gogh Museum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg/1920px-Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg",
+      "width": 1920,
+      "height": 919,
+      "story": "Wheatfield with Crows was painted in July 1890, in the final weeks of Van Gogh's life, and has been cited by several critics as one of his greatest works. It is commonly stated that this was his last painting, an association popularized by Vincente Minnelli's 1956 biopic Lust for Life, which depicts Van Gogh painting it immediately before shooting himself. The evidence of his letters suggests it was completed around 10 July and predates works such as Auvers Town Hall and Daubigny's Garden.",
+      "funFacts": [
+        "Despite the legend, Van Gogh's actual final painting is believed to be Tree Roots, not Wheatfield with Crows."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wheatfield_with_Crows"
+    },
+    {
+      "id": "starry-night-over-the-rhone",
+      "title": "Starry Night Over the Rhône",
+      "year": "1888",
+      "medium": "oil on canvas",
+      "location": "Musée d'Orsay, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1920px-Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1483,
+      "story": "Painted in September 1888, this view of the night sky over Arles was made on the bank of the Rhône, only a one or two-minute walk from the Yellow House that Van Gogh was renting at the time. It was first exhibited in 1889 at Paris' annual exhibition of the Société des Artistes Indépendants, where his brother Theo had it displayed alongside Irises. The night sky became the subject of some of Van Gogh's most famous paintings, including The Starry Night painted the following June.",
+      "funFacts": [
+        "A sketch of the painting is included in a letter Van Gogh sent to his friend Eugène Boch on 2 October 1888."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Starry_Night_Over_the_Rh%C3%B4ne"
+    },
+    {
+      "id": "self-portrait-with-bandaged-ear",
+      "title": "Self-Portrait with Bandaged Ear",
+      "year": "1889",
+      "medium": "oil on canvas",
+      "location": "Courtauld Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Vincent_van_Gogh_-_Self-portrait_with_bandaged_ear_%281889%2C_Courtauld_Institute%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Vincent_van_Gogh_-_Self-portrait_with_bandaged_ear_%281889%2C_Courtauld_Institute%29.jpg/1920px-Vincent_van_Gogh_-_Self-portrait_with_bandaged_ear_%281889%2C_Courtauld_Institute%29.jpg",
+      "width": 1920,
+      "height": 2334,
+      "story": "Van Gogh painted this self-portrait in January 1889, only weeks after the mental breakdown and infamous act of self-mutilation of late December 1888. The painting includes inspiration from Japanese woodblock printing. It is in the collection of the Courtauld Institute of Art and on display in the Gallery at Somerset House in London.",
+      "funFacts": [
+        "The painting shows the influence of Japanese woodblock printing, which Van Gogh collected and admired."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Self-Portrait_with_Bandaged_Ear"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "artistId": "diego-velazquez",
+  "paintings": [
+    {
+      "id": "las-meninas",
+      "title": "Las Meninas",
+      "year": "1656",
+      "medium": "oil on canvas",
+      "location": "Museo del Prado, Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/1920px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
+      "width": 1920,
+      "height": 2210,
+      "story": "Painted in 1656, Las Meninas presents figures of the Spanish court in a room believed to be in the Royal Alcázar of Madrid, captured as if in a snapshot: the five-year-old Infanta Margaret Theresa surrounded by her maids of honour, chaperone, bodyguard, two dwarfs and a dog, with Velázquez himself at work on a large canvas. It has become one of the most widely analyzed works in Western painting for the way its enigmatic composition raises questions about reality and illusion, and about the relationship between viewer and painting.",
+      "funFacts": [
+        "Velázquez portrays himself looking outwards, beyond the pictorial space, to exactly where a viewer of the painting would stand.",
+        "Some figures gaze out of the canvas at the viewer while others interact among themselves, deepening the picture's puzzle."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Las_Meninas"
+    },
+    {
+      "id": "the-surrender-of-breda",
+      "title": "The Surrender of Breda",
+      "year": "1634–1635",
+      "medium": "oil on canvas",
+      "location": "Museo del Prado, Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Velazquez-The_Surrender_of_Breda.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Velazquez-The_Surrender_of_Breda.jpg/1920px-Velazquez-The_Surrender_of_Breda.jpg",
+      "width": 1920,
+      "height": 1583,
+      "story": "Painted in 1634–35 and inspired by Velázquez's journey to Italy with Ambrogio Spinola, the Genoese-born Spanish general who had conquered Breda on 5 June 1625, the canvas depicts the moment the Dutch hand over the key of the besieged city to the Spanish. Velázquez composed the scene in two halves around the Dutch leader Justinus van Nassau and the magnanimous Spinola. Considered one of his finest works, it is also known as Las Lanzas, after its forest of upright Spanish lances.",
+      "funFacts": [
+        "The writer Jan Morris called it 'one of the most Spanish of all pictures'.",
+        "Velázquez had travelled to Italy in the company of Spinola, the very general the painting celebrates."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Surrender_of_Breda"
+    },
+    {
+      "id": "rokeby-venus",
+      "title": "Rokeby Venus",
+      "year": "1647–1651",
+      "medium": "oil on canvas",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Diego_Vel%C3%A1zquez_-_Rokeby_Venus.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Diego_Vel%C3%A1zquez_-_Rokeby_Venus.jpg/1920px-Diego_Vel%C3%A1zquez_-_Rokeby_Venus.jpg",
+      "width": 1920,
+      "height": 1317,
+      "story": "Completed between 1647 and 1651, probably during Velázquez's visit to Italy, the painting shows Venus lying on a bed with her back to the viewer, gazing into a mirror held by her son Cupid. Velázquez combined two established poses for Venus — recumbent and at her mirror — with the nudes of Giorgione and Titian as his great precedents. Though she is often described as admiring herself, the reflection viewers see is physically impossible: her face in the mirror looks out at us, a phenomenon known as the 'Venus effect'.",
+      "funFacts": [
+        "It is also known as The Toilet of Venus, Venus at her Mirror, and in Spanish La Venus del espejo.",
+        "It is the only surviving female nude by Velázquez — nudes were extremely rare in 17th-century Spanish art, which was actively policed by the Spanish Inquisition."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rokeby_Venus"
+    },
+    {
+      "id": "portrait-of-innocent-x",
+      "title": "Portrait of Innocent X",
+      "year": "c. 1650",
+      "medium": "oil on canvas",
+      "location": "Galleria Doria Pamphilj, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Retrato_del_Papa_Inocencio_X._Roma%2C_by_Diego_Vel%C3%A1zquez.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Retrato_del_Papa_Inocencio_X._Roma%2C_by_Diego_Vel%C3%A1zquez.jpg/1920px-Retrato_del_Papa_Inocencio_X._Roma%2C_by_Diego_Vel%C3%A1zquez.jpg",
+      "width": 1920,
+      "height": 2450,
+      "story": "Painted around 1650 during Velázquez's second trip to Italy, this unflinching portrait of Pope Innocent X — a highly intelligent, shrewd and aging man in rich red vestments — is considered by many artists and critics the finest portrait ever created. The pope, born Giovanni Battista Pamphilj, was initially wary of sitting for Velázquez and relented only after seeing reproductions of the artist's portraits. Even then he remained cautious: the painting was at first displayed only to his immediate family.",
+      "funFacts": [
+        "A smaller version hangs in the Metropolitan Museum of Art and a study at Apsley House in London.",
+        "Velázquez had already painted several members of the pope's inner court, which helped him win the sitting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Innocent_X"
+    },
+    {
+      "id": "the-waterseller-of-seville",
+      "title": "The Waterseller of Seville",
+      "year": "1618–1622",
+      "medium": "oil on canvas",
+      "location": "Apsley House, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/El_aguador_de_Sevilla%2C_por_Diego_Vel%C3%A1zquez.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/El_aguador_de_Sevilla%2C_por_Diego_Vel%C3%A1zquez.jpg/1920px-El_aguador_de_Sevilla%2C_por_Diego_Vel%C3%A1zquez.jpg",
+      "width": 1920,
+      "height": 2591,
+      "story": "Painted when Velázquez was still in his late teens or early twenties, shortly before his move to Madrid, this is considered among the finest works of his Seville period. An old waterseller hands a boy a glass of water, yet the figures never meet each other's eyes nor the viewer's. Art historians class it as a bodegón — the Spanish tavern still-life genre — painted in a realistic style with a deliberately limited palette.",
+      "funFacts": [
+        "Three versions of the composition exist; the original belongs to the Wellington Collection at Apsley House.",
+        "According to the scholar José Gudiol, it was painted shortly before Velázquez moved to Madrid, and belongs to the Spanish bodegón genre."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Waterseller_of_Seville"
+    },
+    {
+      "id": "old-woman-frying-eggs",
+      "title": "Old Woman Frying Eggs",
+      "year": "c. 1618",
+      "medium": "oil on canvas",
+      "location": "Scottish National Gallery, Edinburgh",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg/1920px-Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1624,
+      "story": "Produced around 1618 during his Seville period, before his definitive move to Madrid in 1623, this genre scene shows Velázquez's fondness for working-class characters, often modelled on his own family. A strong light from the left illuminates the old woman, her utensils and the eggs, throwing the background and the boy beside her into deep shadow — chiaroscuro so intense the rear wall would be invisible but for a hanging basket.",
+      "funFacts": [
+        "The same old woman appears in Velázquez's Christ in the House of Martha and Mary of 1618.",
+        "Scholars still dispute whether the eggs are being fried or poached, so the picture is also called Old Woman Cooking Eggs."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Old_Woman_Frying_Eggs"
+    },
+    {
+      "id": "apollo-in-the-forge-of-vulcan",
+      "title": "Apollo in the Forge of Vulcan",
+      "year": "1630",
+      "medium": "oil on canvas",
+      "location": "Museo del Prado, Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Vel%C3%A1zquez_-_La_Fragua_de_Vulcano_%28Museo_del_Prado%2C_1630%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Vel%C3%A1zquez_-_La_Fragua_de_Vulcano_%28Museo_del_Prado%2C_1630%29.jpg/1920px-Vel%C3%A1zquez_-_La_Fragua_de_Vulcano_%28Museo_del_Prado%2C_1630%29.jpg",
+      "width": 1920,
+      "height": 1491,
+      "story": "Painted in Rome in 1630 during Velázquez's first Italian journey — created without commission, at the suggestion of Rubens, in the house of the Spanish ambassador — the picture shows Apollo announcing to Vulcan, at his forge, the infidelity of Venus, a subject from Ovid's Metamorphoses. Velázquez brought it back to Spain himself, and it entered the Prado in 1819. It is cited as one of the most important works of the Italian trip and one of his most successful compositions for the natural interaction of its figures.",
+      "funFacts": [
+        "It was painted as a companion to Joseph's Tunic, made in the same year.",
+        "Neither painting was commissioned by the king, yet both soon entered the royal collections."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apollo_in_the_Forge_of_Vulcan"
+    },
+    {
+      "id": "las-hilanderas",
+      "title": "Las Hilanderas (The Spinners)",
+      "year": "c. 1657",
+      "medium": "oil on canvas",
+      "location": "Museo del Prado, Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Velazquez-las_hilanderas.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Velazquez-las_hilanderas.jpg/1920px-Velazquez-las_hilanderas.jpg",
+      "width": 1920,
+      "height": 1324,
+      "story": "Long believed to depict women workers in the tapestry workshop of Santa Isabel, the painting was reinterpreted in 1948 when Diego Angulo recognized Ovid's Fable of Arachne — the mortal weaver who defeated the goddess Athena in a contest and was turned into a spider for her victory. Painted for Don Pedro de Arce, huntsman to King Philip IV, it is regarded by most scholars as a late work of 1657–58.",
+      "funFacts": [
+        "Velázquez scholar Jonathan Brown calls Las Hilanderas and Las Meninas arguably the artist's 'two greatest paintings'.",
+        "It is also known as The Fable of Arachne."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Las_Hilanderas"
+    },
+    {
+      "id": "the-triumph-of-bacchus",
+      "title": "The Triumph of Bacchus (Los Borrachos)",
+      "year": "1628–1629",
+      "medium": "oil on canvas",
+      "location": "Museo del Prado, Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vel%C3%A1zquez_-_El_Triunfo_de_Baco_o_Los_Borrachos_%28Museo_del_Prado%2C_1628-29%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vel%C3%A1zquez_-_El_Triunfo_de_Baco_o_Los_Borrachos_%28Museo_del_Prado%2C_1628-29%29.jpg",
+      "width": 1900,
+      "height": 1386,
+      "story": "Painted for Philip IV after Velázquez arrived in Madrid from Seville, and just before his first voyage to Italy, the canvas shows the pale-skinned god Bacchus at the centre of a small celebration of drinkers dressed as the Spanish poor of the 17th century. Bacchus appears as the god who rewards men with wine, temporarily releasing them from their troubles. The king paid Velázquez 100 ducats for the work, described as the masterpiece of his 1620s paintings.",
+      "funFacts": [
+        "It is popularly known as Los Borrachos — The Drunks.",
+        "Studying the king's collection of Italian paintings in Madrid encouraged Velázquez toward mythological subjects and the nude."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Triumph_of_Bacchus"
+    }
+  ]
+}

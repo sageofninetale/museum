@@ -1,0 +1,158 @@
+{
+  "artistId": "valley-of-the-kings-painters",
+  "paintings": [
+    {
+      "id": "nefertari-re-horakhty",
+      "title": "Re-Horakhty and Imentet (Tomb of Nefertari)",
+      "year": "c. 1255 BCE",
+      "medium": "wall painting on plaster",
+      "location": "QV66, Valley of the Queens, Thebes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Maler_der_Grabkammer_der_Nefertari_001.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Maler_der_Grabkammer_der_Nefertari_001.jpg/1920px-Maler_der_Grabkammer_der_Nefertari_001.jpg",
+      "width": 2024,
+      "height": 2432,
+      "story": "QV66 is the tomb of Nefertari, the Great Wife of Pharaoh Ramesses II, discovered by Ernesto Schiaparelli in 1904. Here the falcon-headed sun god Re-Horakhty sits enthroned beside Imentet, goddess of the West, in the brilliant color that makes this the most celebrated tomb in the Valley of the Queens. Everything in the tomb has been looted except two thirds of its 5,200 square feet of wall paintings.",
+      "funFacts": [
+        "Nefertari's name means 'the most beautiful (one) among them'.",
+        "Ramesses II called her 'the one for whom the sun shines' and built the Temple of Hathor at Abu Simbel to idolize her as a deity."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/QV66"
+    },
+    {
+      "id": "nefertari-offering",
+      "title": "Queen Nefertari Making an Offering",
+      "year": "c. 1255 BCE",
+      "medium": "wall painting on plaster",
+      "location": "QV66, Valley of the Queens, Thebes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Maler_der_Grabkammer_der_Nefertari_002.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Maler_der_Grabkammer_der_Nefertari_002.jpg/1280px-Maler_der_Grabkammer_der_Nefertari_002.jpg",
+      "width": 1576,
+      "height": 2243,
+      "story": "Nefertari presents offerings to the gods, wearing the vulture headdress of a great royal wife. The painters gave her face particular attention to emphasize her beauty — especially the shape of her eyes, the blush of her cheeks, and her eyebrows. The tomb's paintings, full of lines and color of red, blue, yellow and green, portrayed exquisite directions for navigating through the afterlife to paradise.",
+      "funFacts": [
+        "The tomb once held Nefertari's mummified body, now looted like almost everything else it contained.",
+        "The wall paintings were commissioned by Ramesses II, who went out of his way to make his devotion to his favorite wife obvious."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/QV66"
+    },
+    {
+      "id": "nefertari-senet",
+      "title": "Nefertari Playing Senet",
+      "year": "c. 1255 BCE",
+      "medium": "wall painting on plaster",
+      "location": "QV66, Valley of the Queens, Thebes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Maler_der_Grabkammer_der_Nefertari_003.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Maler_der_Grabkammer_der_Nefertari_003.jpg/1920px-Maler_der_Grabkammer_der_Nefertari_003.jpg",
+      "width": 2024,
+      "height": 1829,
+      "story": "The queen sits at a board of senet, the ancient Egyptian board game whose name literally means 'passing' — a game depicted on tomb walls and papyrus scrolls throughout Egyptian history, played here by Nefertari for eternity. The scene is among the most reproduced images from the tomb that Schiaparelli's expedition uncovered in 1904.",
+      "funFacts": [
+        "Senet has a 2,000-year history in Egypt, but the game fell out of use during the Roman period and its original rules are the subject of conjecture.",
+        "Nefertari was the favorite wife of Ramesses II, the longest-reigning monarch of the Nineteenth Dynasty."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/QV66"
+    },
+    {
+      "id": "nefertari-adoration",
+      "title": "Nefertari in Adoration",
+      "year": "c. 1255 BCE",
+      "medium": "wall painting on plaster",
+      "location": "QV66, Valley of the Queens, Thebes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Maler_der_Grabkammer_der_Nefertari_004.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Maler_der_Grabkammer_der_Nefertari_004.jpg/1280px-Maler_der_Grabkammer_der_Nefertari_004.jpg",
+      "width": 1576,
+      "height": 2320,
+      "story": "Nefertari raises both hands in the gesture of adoration, her white linen gown and jeweled collar painted with the care that marks the whole tomb. For what still remains of the 5,200 square feet of paintings, the walls characterized Nefertari's person and guided her — with lines and color of red, blue, yellow and green — through the afterlife to paradise.",
+      "funFacts": [
+        "QV66 was discovered in 1904 by Ernesto Schiaparelli, director of the Egyptian Museum in Turin.",
+        "The Valley of the Queens was known anciently as Ta-Set-Neferu, 'the Place of Beauty'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/QV66"
+    },
+    {
+      "id": "sennedjem-ploughing",
+      "title": "Sennedjem Ploughing the Fields of Iaru",
+      "year": "c. 1250 BCE",
+      "medium": "wall painting on plaster",
+      "location": "TT1, Deir el-Medina, Thebes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Maler_der_Grabkammer_des_Sennudem_001.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Maler_der_Grabkammer_des_Sennudem_001.jpg/1920px-Maler_der_Grabkammer_des_Sennudem_001.jpg",
+      "width": 2048,
+      "height": 1337,
+      "story": "Sennedjem was an artisan of the royal necropolis who lived at Deir el-Medina during the reigns of Seti I and Ramesses II, bearing the title 'Servant in the Place of Truth'. In his own extensively decorated burial chamber he had himself painted ploughing the fields of the blessed afterlife. His undisturbed tomb was discovered in January 1886, containing 165 objects including furniture from his home.",
+      "funFacts": [
+        "Sennedjem was buried with over 20 members of his family, including his wife Iyneferti.",
+        "One of the tomb-makers was himself given a tomb whose paintings rival the royal ones he helped build."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/TT1"
+    },
+    {
+      "id": "sennedjem-daughter",
+      "title": "Daughter of the Deceased (Tomb of Sennedjem)",
+      "year": "c. 1250 BCE",
+      "medium": "wall painting on plaster",
+      "location": "TT1, Deir el-Medina, Thebes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Maler_der_Grabkammer_des_Sennudem_002.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Maler_der_Grabkammer_des_Sennudem_002.jpg/1280px-Maler_der_Grabkammer_des_Sennudem_002.jpg",
+      "width": 1576,
+      "height": 1978,
+      "story": "A young woman of Sennedjem's family, painted in the artisan's burial chamber at Deir el-Medina. The village, anciently called Set Maat ('the Place of Truth'), housed the workmen who cut and decorated the tombs in the Valley of the Kings, and its own necropolis preserves their private art. Excavations begun in 1922 have made it one of the most thoroughly documented communities of the ancient world.",
+      "funFacts": [
+        "Nine members of Sennedjem's immediate family were placed in coffins in the single burial chamber.",
+        "The tomb's contents were dispersed to museums worldwide, including the Metropolitan Museum of Art and the Egyptian Museum of Berlin."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/TT1"
+    },
+    {
+      "id": "thutmose-sacred-tree",
+      "title": "Thutmose III Suckled by the Sacred Tree",
+      "year": "c. 1425 BCE",
+      "medium": "wall painting on plaster",
+      "location": "KV34, Valley of the Kings, Thebes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Maler_der_Grabkammer_des_Thutmosis_III._001.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Maler_der_Grabkammer_des_Thutmosis_III._001.jpg/1280px-Maler_der_Grabkammer_des_Thutmosis_III._001.jpg",
+      "width": 1576,
+      "height": 1993,
+      "story": "In the burial chamber of KV34, the tomb of the Eighteenth Dynasty pharaoh Thutmose III, the king is shown being suckled by a sacred tree. The tomb's decoration is in an unusual style found elsewhere only in the tomb of his son Amenhotep II: on a yellow-tinged background intended to resemble aged papyrus, one of the earliest known versions of the Amduat is traced, depicting the deities as simple, almost naive stick figures. Plundered in antiquity and its location lost, KV34 was rediscovered and first excavated in 1898 under Victor Loret.",
+      "funFacts": [
+        "The text is written in the cursive hieroglyphic book hand used more commonly for sacred texts on papyrus.",
+        "The Litany of Ra also appears in the burial chamber, executed in a similar style."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/KV34"
+    },
+    {
+      "id": "kv9-astronomical-ceiling",
+      "title": "Astronomical Ceiling of the Tomb of Ramesses V and VI",
+      "year": "c. 1140 BCE",
+      "medium": "wall painting on plaster (ceiling)",
+      "location": "KV9, Valley of the Kings, Thebes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_47.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_47.jpg/1920px-Tumba_de_Rams%C3%A9s_V_y_de_Rams%C3%A9s_VI%2C_Valle_de_las_Reyes%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_47.jpg",
+      "width": 8442,
+      "height": 3486,
+      "story": "Golden figures on a deep blue ground stretch down the ceiling of KV9, the tomb originally constructed by Pharaoh Ramesses V and reused by his uncle Ramesses VI. The corridor ceilings are decorated with astronomical figures and constellations in the first divisions, followed by a double presentation of the Book of the Day and the Book of the Night, framed by an elongated image of the sky goddess Nut.",
+      "funFacts": [
+        "The works on KV9 preserved the tomb of Tutankhamun: its entrance was buried beneath huts built for the craftsmen working on Ramesses VI's tomb.",
+        "In 2020 the Egyptian Tourism Authority released a full 3D model of the tomb with detailed photography, available online."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/KV9"
+    },
+    {
+      "id": "seti-astronomical-ceiling",
+      "title": "Astronomical Vaulted Ceiling of the Tomb of Seti I",
+      "year": "c. 1279 BCE",
+      "medium": "wall painting on plaster (vaulted ceiling)",
+      "location": "KV17, Valley of the Kings, Thebes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/KV17%2C_the_tomb_of_Pharaoh_Seti_I_of_the_of_the_burial_chamber%2C_Nineteenth_Dynasty%2C_astronomical_vaulted_ceiling_Valley_of_the_Kings%2C_Egypt_%2849845803483%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/KV17%2C_the_tomb_of_Pharaoh_Seti_I_of_the_of_the_burial_chamber%2C_Nineteenth_Dynasty%2C_astronomical_vaulted_ceiling_Valley_of_the_Kings%2C_Egypt_%2849845803483%29.jpg/1920px-KV17%2C_the_tomb_of_Pharaoh_Seti_I_of_the_of_the_burial_chamber%2C_Nineteenth_Dynasty%2C_astronomical_vaulted_ceiling_Valley_of_the_Kings%2C_Egypt_%2849845803483%29.jpg",
+      "width": 3648,
+      "height": 2736,
+      "story": "The burial chamber of Seti I lies beneath an astronomical vaulted ceiling of constellations painted on midnight blue. KV17, uncovered by the Italian archaeologist and explorer Giovanni Belzoni on 16 October 1817 and long known as 'Belzoni's tomb', is one of the most decorated tombs in the Valley of the Kings.",
+      "funFacts": [
+        "The tomb has also been called 'the Tomb of Apis' and 'the Tomb of Psammis, son of Nechois'.",
+        "KV17 is one of the largest and deepest tombs in the Valley of the Kings."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tomb_of_Seti_I"
+    }
+  ]
+}

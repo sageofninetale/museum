@@ -1,0 +1,141 @@
+{
+  "artistId": "book-of-the-dead-illustrators",
+  "paintings": [
+    {
+      "id": "ani-weighing-of-the-heart",
+      "title": "The Weighing of the Heart (Papyrus of Ani)",
+      "year": "c. 1250 BCE",
+      "medium": "painted papyrus",
+      "location": "British Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/BD_Weighing_of_the_Heart.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/BD_Weighing_of_the_Heart.jpg/1920px-BD_Weighing_of_the_Heart.jpg",
+      "width": 3364,
+      "height": 1732,
+      "story": "In the most famous vignette of the Papyrus of Ani, the scribe Ani's heart is weighed on a pair of scales against Maat, the goddess of truth and justice often represented by an ostrich feather — while Ammit, the Devourer, stands ready to eat the heart if it is out of balance with Maat. The Papyrus of Ani, created around 1250 BCE in the Nineteenth Dynasty, is considered the finest extant example of the Book of the Dead.",
+      "funFacts": [
+        "The scroll was discovered in Luxor in 1888 by Egyptians trading in illegal antiquities and acquired by E. A. Wallis Budge for the British Museum.",
+        "Budge had the papyrus retrieved from a police-sealed house by distracting the guards with a meal while locals tunnelled under the walls."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Papyrus_of_Ani"
+    },
+    {
+      "id": "ani-sheet-12",
+      "title": "Adoring the Gods of the Underworld (Papyrus of Ani, Sheet 12)",
+      "year": "c. 1250 BCE",
+      "medium": "painted papyrus",
+      "location": "British Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Papyrus_of_Ani_BM_Sheet_12.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Papyrus_of_Ani_BM_Sheet_12.jpg/1920px-Papyrus_of_Ani_BM_Sheet_12.jpg",
+      "width": 2414,
+      "height": 1498,
+      "story": "On the twelfth sheet of his papyrus, the scribe Ani raises his hands in adoration before shrines of the gods of the underworld. Egyptians compiled an individualized Book of Going Forth by Day — more commonly known as the Book of the Dead — for certain people upon their death, typically containing declarations and spells to help the deceased in the afterlife; this is the manuscript compiled for the Theban scribe Ani.",
+      "funFacts": [
+        "The papyrus was smuggled to the British Museum stored in several custom tin boxes.",
+        "Budge was afterward paid a 150 pound 'gratuity' from the British Treasury for acquiring the papyrus."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Papyrus_of_Ani"
+    },
+    {
+      "id": "hunefer-judgement",
+      "title": "The Judgement of Hunefer before Osiris",
+      "year": "c. 1275 BCE",
+      "medium": "painted papyrus",
+      "location": "British Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg/1920px-The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg",
+      "width": 2446,
+      "height": 1112,
+      "story": "Reading from left to right, Anubis brings the scribe Hunefer into the judgement area and supervises the scales on which Hunefer's heart is weighed against the feather of truth; justified, he is presented to Osiris enthroned in his shrine. The Papyrus of Hunefer represents one of the classic examples of the Book of the Dead, along with others such as the Papyrus of Ani.",
+      "funFacts": [
+        "Hunefer was 'Scribe of Divine Offerings', 'Overseer of Royal Cattle', and steward of Pharaoh Seti I.",
+        "If the heart was out of balance with Maat, the fearsome beast Ammit, the Devourer, stood ready to eat it and end the dead person's afterlife early."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hunefer"
+    },
+    {
+      "id": "hunefer-hymn-to-ra",
+      "title": "Adoration of the Sun God (Papyrus of Hunefer, Sheet 1)",
+      "year": "c. 1275 BCE",
+      "medium": "painted papyrus",
+      "location": "British Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Book_of_the_Dead_of_Hunefer_sheet_1.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Book_of_the_Dead_of_Hunefer_sheet_1.jpg/1920px-Book_of_the_Dead_of_Hunefer_sheet_1.jpg",
+      "width": 2068,
+      "height": 1514,
+      "story": "On the opening sheet of his Book of the Dead, Hunefer stands with a woman of his household in adoration beside a hymn to the sun god, whose falcon form perches crowned with the solar disc. The Book of the Dead was a loose collection of magic spells intended to assist a dead person's journey through the Duat, or underworld, and into the afterlife — its original Egyptian name translates as 'Spells of Coming Forth by Day'.",
+      "funFacts": [
+        "Hunefer lived during the 19th Dynasty, around 1300 BCE.",
+        "There was no single canonical Book of the Dead — each papyrus contains a varying selection of texts and illustrations."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hunefer"
+    },
+    {
+      "id": "hunefer-opening-of-the-mouth",
+      "title": "The Opening of the Mouth (Papyrus of Hunefer, Sheet 5)",
+      "year": "c. 1275 BCE",
+      "medium": "painted papyrus",
+      "location": "British Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Book_of_the_Dead_of_Hunefer_sheet_5.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Book_of_the_Dead_of_Hunefer_sheet_5.jpg/1920px-Book_of_the_Dead_of_Hunefer_sheet_5.jpg",
+      "width": 2053,
+      "height": 1037,
+      "story": "Before the door of the tomb, priests perform the Opening of the Mouth ritual on Hunefer's upright mummy, restoring his senses for the life to come, while mourners kneel and wail before him. Vignettes like this, depicting the deceased and their journey into the afterlife, illustrated the spells that many priests composed over a period of about 1,000 years.",
+      "funFacts": [
+        "The Book of the Dead was placed in the coffin or burial chamber of the deceased.",
+        "Some spells in the tradition were drawn from the earlier Pyramid Texts and Coffin Texts, dating to the 3rd millennium BC."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hunefer"
+    },
+    {
+      "id": "hunefer-bennu",
+      "title": "Spells of Transformation (Papyrus of Hunefer, Sheet 6)",
+      "year": "c. 1275 BCE",
+      "medium": "painted papyrus",
+      "location": "British Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Book_of_the_Dead_of_Hunefer_sheet_6.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Book_of_the_Dead_of_Hunefer_sheet_6.jpg",
+      "width": 1645,
+      "height": 1071,
+      "story": "A row of small vignettes — among them a great heron — crowns columns of cursive hieroglyphs on this sheet of Hunefer's papyrus. The Book of the Dead was most commonly written in hieroglyphic or hieratic script on a papyrus scroll, and people seem to have commissioned their own copies, perhaps choosing the spells they thought most vital in their own progression to the afterlife.",
+      "funFacts": [
+        "Surviving Books of the Dead vary considerably in their illustration.",
+        "The Egyptologist Karl Richard Lepsius introduced the name 'Book of the Dead' (Todtenbuch) in 1842."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Book_of_the_Dead"
+    },
+    {
+      "id": "hunefer-sheet-7",
+      "title": "Hunefer before the Rites (Papyrus of Hunefer, Sheet 7)",
+      "year": "c. 1275 BCE",
+      "medium": "painted papyrus",
+      "location": "British Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Book_of_the_Dead_of_Hunefer_sheet_7.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Book_of_the_Dead_of_Hunefer_sheet_7.jpg",
+      "width": 1779,
+      "height": 1018,
+      "story": "Hunefer and a female companion raise their hands in adoration below a register of funerary vignettes on this sheet of his papyrus. As steward of Pharaoh Seti I, Hunefer could afford a finely illustrated scroll: the quality of its paintings places his Book of the Dead among the classic examples of these texts.",
+      "funFacts": [
+        "The spells of the Book of the Dead were used from the beginning of the New Kingdom, around 1550 BC, to around 50 BC.",
+        "Spells from the Book continued to be inscribed on tomb walls and sarcophagi, as the spells from which they originated always had been."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hunefer"
+    },
+    {
+      "id": "hunefer-great-cat",
+      "title": "The Great Cat Slays the Serpent (Papyrus of Hunefer, Sheet 8)",
+      "year": "c. 1275 BCE",
+      "medium": "painted papyrus",
+      "location": "British Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Book_of_the_Dead_of_Hunefer_sheet_8.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Book_of_the_Dead_of_Hunefer_sheet_8.jpg",
+      "width": 1690,
+      "height": 1063,
+      "story": "At the right edge of this sheet, beside kneeling divine gatekeepers, a great cat brandishing a knife slays a serpent beside a sacred tree — one of the striking mythological vignettes that illustrate the spells of Hunefer's Book of the Dead. Such magic spells were intended to assist the dead person's journey through the Duat, the Egyptian underworld.",
+      "funFacts": [
+        "The Papyrus of Hunefer is held by the British Museum.",
+        "The Book of the Dead was written by many priests over a period of about 1,000 years."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hunefer"
+    }
+  ]
+}

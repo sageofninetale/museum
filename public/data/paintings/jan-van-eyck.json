@@ -1,0 +1,157 @@
+{
+  "artistId": "jan-van-eyck",
+  "paintings": [
+    {
+      "id": "ghent-altarpiece",
+      "title": "Ghent Altarpiece (Adoration of the Mystic Lamb)",
+      "year": "c. 1425–1432",
+      "medium": "oil on oak panel",
+      "location": "Saint Bavo's Cathedral, Ghent",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ghent_Altarpiece_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ghent_Altarpiece_Google_Art_Project.jpg/1920px-Ghent_Altarpiece_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1415,
+      "story": "Begun around the mid-1420s and completed by 1432, this vast polyptych is attributed to the brothers Hubert and Jan van Eyck and stands as a prominent example of the transition from medieval to Renaissance art. Its panels are organised in two registers with double sets of foldable wings: above, a heavenly Deësis of God flanked by the Virgin and John the Baptist, music-making angels, and Adam and Eve; below, saints, sinners, clergy and soldiers gather for the adoration of the Lamb of God.",
+      "funFacts": [
+        "Some identify it as 'the first major oil painting' in European art.",
+        "It remains in St Bavo's Cathedral in Ghent, the church for which it was made nearly six centuries ago."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghent_Altarpiece"
+    },
+    {
+      "id": "arnolfini-portrait",
+      "title": "The Arnolfini Portrait",
+      "year": "1434",
+      "medium": "oil on oak panel",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/The_Arnolfini_portrait_%281434%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Arnolfini_portrait_%281434%29.jpg/1920px-The_Arnolfini_portrait_%281434%29.jpg",
+      "width": 1920,
+      "height": 2627,
+      "story": "This full-length double portrait of 1434 is believed to depict the Italian merchant Giovanni di Nicolao Arnolfini and his wife, presumably in their residence in Bruges. It is considered one of the most original and complex paintings in Western art for its beauty, intricate iconography, orthogonal perspective, and the expansion of the picture space through a mirror. Erwin Panofsky and other art historians have even read it as a unique form of marriage contract recorded in paint.",
+      "funFacts": [
+        "Ernst Gombrich judged it 'as new and revolutionary as Donatello's or Masaccio's work in Italy', calling van Eyck history's first 'perfect eye-witness'.",
+        "Van Eyck signed and dated the painting himself in 1434."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnolfini_Portrait"
+    },
+    {
+      "id": "madonna-of-chancellor-rolin",
+      "title": "Madonna of Chancellor Rolin",
+      "year": "c. 1435",
+      "medium": "oil on panel",
+      "location": "Musée du Louvre, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck_%28Louvre%29.webp",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck_%28Louvre%29.webp/1920px-The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck_%28Louvre%29.webp.png",
+      "width": 1920,
+      "height": 1995,
+      "story": "Commissioned around 1435 by Nicolas Rolin, chancellor of the Duchy of Burgundy, for his parish church in Autun, the painting shows the Virgin crowned by a hovering angel as she presents the infant Jesus to the kneeling chancellor. The scene is set in a spacious loggia, beyond which spreads an astonishingly detailed river landscape — probably meant as Autun, Rolin's hometown — with palaces, churches, a towered bridge and hazy mountains. It remained in Rolin's church until the building burnt down in 1793, and reached the Louvre in 1805.",
+      "funFacts": [
+        "Rolin was about 60 years old when he commissioned his votive portrait.",
+        "In 2024, after conservation, the painting became the focus of a dedicated Louvre exhibition."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Madonna_of_Chancellor_Rolin"
+    },
+    {
+      "id": "portrait-of-a-man-in-a-red-turban",
+      "title": "Portrait of a Man (Self Portrait?)",
+      "year": "1433",
+      "medium": "oil on oak panel",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg/1920px-Jan_van_Eyck_-_Portrait_of_a_Man_%28Self_Portrait%3F%29_1433.jpg",
+      "width": 1920,
+      "height": 2642,
+      "story": "Completed in Bruges in 1433 and long known as the Portrait of a Man in a Red Turban, this small panel is widely suspected to be van Eyck's self-portrait. The original frame carries his punning motto 'Als Ich Can' — 'as I/Eyck can' — in its first known and unusually prominent appearance, and the sitter's direct, confrontational gaze strengthens the case. It has hung in the National Gallery since 1851.",
+      "funFacts": [
+        "The motto 'Als Ich Can' may imply the boast 'as only I, van Eyck, can'.",
+        "The panel is possibly the pendant to van Eyck's 1439 portrait of his wife Margaret in Bruges."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_a_Man_(Self_Portrait%3F)"
+    },
+    {
+      "id": "annunciation",
+      "title": "The Annunciation",
+      "year": "c. 1434–1436",
+      "medium": "oil transferred from panel to canvas",
+      "location": "National Gallery of Art, Washington, D.C.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Annunciation_-_Jan_van_Eyck_-_1434_-_NG_Wash_DC.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Annunciation_-_Jan_van_Eyck_-_1434_-_NG_Wash_DC.jpg/1920px-Annunciation_-_Jan_van_Eyck_-_1434_-_NG_Wash_DC.jpg",
+      "width": 1920,
+      "height": 5065,
+      "story": "Painted around 1434–1436 and thought to be the left wing of a lost triptych, this Annunciation is one of van Eyck's most iconographically complex works. Gabriel's greeting 'AVE GRA PLENA' is inscribed in the air, and Mary's reply appears upside down — directed to God, and so written from a God's-eye view. The seven gifts of the Holy Spirit descend to her on seven rays of light from an upper window, followed by the dove of the Holy Spirit.",
+      "funFacts": [
+        "The Tsar of Russia bought it for the Hermitage, but Stalin's government sold it abroad in 1930.",
+        "The other wings of the presumed triptych have not been seen since before 1817."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Annunciation_(van_Eyck,_Washington)"
+    },
+    {
+      "id": "virgin-and-child-with-canon-van-der-paele",
+      "title": "Virgin and Child with Canon van der Paele",
+      "year": "c. 1434–1436",
+      "medium": "oil on oak panel",
+      "location": "Groeningemuseum, Bruges",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Eyck%2C_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Eyck%2C_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg/1920px-Eyck%2C_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg",
+      "width": 1920,
+      "height": 1490,
+      "story": "This large altarpiece was commissioned by Joris van der Paele, a wealthy but elderly and gravely ill clergyman of Bruges, as his memorial. The donor kneels in his canon's finery within an apparition of saints: the enthroned Virgin and Child at the centre, St Donatian in bright vestments to one side, and St George — the donor's name saint — presenting him, helmet raised in respect. The saints are identified by Latin inscriptions lining the original imitation-bronze frame.",
+      "funFacts": [
+        "Saint George holds his metal helmet aloft in a gesture of respect as he presents the donor to Mary.",
+        "The panel is renowned for its exquisitely rendered clothing and fabrics."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Virgin_and_Child_with_Canon_van_der_Paele"
+    },
+    {
+      "id": "dresden-triptych",
+      "title": "Dresden Triptych",
+      "year": "1437",
+      "medium": "oil on oak panel",
+      "location": "Gemäldegalerie Alte Meister, Dresden",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Jan_van_Eyck_-_Triptych_of_Mary_and_Child%2C_St._Michael%2C_and_the_Catherine_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Jan_van_Eyck_-_Triptych_of_Mary_and_Child%2C_St._Michael%2C_and_the_Catherine_-_Google_Art_Project.jpg/1920px-Jan_van_Eyck_-_Triptych_of_Mary_and_Child%2C_St._Michael%2C_and_the_Catherine_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1415,
+      "story": "Signed and dated 1437, this very small hinged altarpiece of five panel paintings is the only extant triptych attributed to van Eyck, still preserved in its original frames. It is also the only non-portrait signed with his personal motto 'ALC IXH XAN' ('I Do as I Can'). When closed, the outer wings show the Annunciation; the work established elements of Marian iconography that became widespread in the later 15th century.",
+      "funFacts": [
+        "The scholar Elisabeth Dhanens called it 'the most charming, delicate and appealing work by Jan van Eyck that has survived'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dresden_Triptych"
+    },
+    {
+      "id": "portrait-of-margaret-van-eyck",
+      "title": "Portrait of Margaret van Eyck",
+      "year": "1439",
+      "medium": "oil on oak panel",
+      "location": "Groeningemuseum, Bruges",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg/1920px-Jan_van_Eyck_-_Portrait_of_Margaret_van_Eyck_%281439%29.jpg",
+      "width": 1920,
+      "height": 2453,
+      "story": "Painted in 1439 when Margaret was around 34, this is one of the latest of van Eyck's surviving works and one of the earliest European artworks to depict a painter's spouse. Margaret appears in three-quarter view against a featureless black background, in a red woolen gown lined with grey fur and an elaborate horned wimple of crimped linen. Until the early 18th century the panel hung in the Bruges Chapel of the Guild of Painters.",
+      "funFacts": [
+        "Art historians believe it once formed a diptych with van Eyck's likely self-portrait now in London.",
+        "It was cleaned and restored in 1998 during a loan to the National Gallery."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Margaret_van_Eyck"
+    },
+    {
+      "id": "lucca-madonna",
+      "title": "Lucca Madonna",
+      "year": "c. 1436–1437",
+      "medium": "oil on panel",
+      "location": "Städel Museum, Frankfurt",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Jan_van_Eyck_-_Lucca_Madonna_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Jan_van_Eyck_-_Lucca_Madonna_-_Google_Art_Project.jpg/1920px-Jan_van_Eyck_-_Lucca_Madonna_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 2524,
+      "story": "This intimate panel shows Mary seated on a wooden throne beneath a canopy, breastfeeding the infant Christ; its small size indicates it was meant for private devotion, and its carpentry suggests it was once the inner panel of a triptych. Four small brass lions on the throne allude to the throne of Solomon, mixing the iconography of the Nursing Madonna with the Throne of Wisdom. The Virgin has been identified as a portrait of the painter's wife, Margaretha.",
+      "funFacts": [
+        "It owes its name to a former owner, Charles II, Duke of Parma and Lucca.",
+        "It is one of the last works Jan van Eyck painted."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucca_Madonna"
+    }
+  ]
+}

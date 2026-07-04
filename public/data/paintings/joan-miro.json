@@ -1,0 +1,23 @@
+{
+  "artistId": "joan-miro",
+  "paintings": [
+    {
+      "id": "composition-1927",
+      "title": "Composition",
+      "year": "1927",
+      "medium": "",
+      "location": "Pushkin State Museum of Fine Arts",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Joan_Mir%C3%B3_%E2%80%94_Composition_%281927%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Joan_Mir%C3%B3_%E2%80%94_Composition_%281927%29.jpg",
+      "width": 1280,
+      "height": 1038,
+      "story": "Miró painted this Composition in 1927, a few years after joining the Surrealist group in Paris in 1924. The sparse canvases of this period, eventually dubbed his dream paintings, fit well within the dream-like automatism espoused by the group and shed the cluttered, chaotic focus of his earlier work. Through the mid-1920s Miró developed a pictorial sign language that would remain central throughout the rest of his career, and in works of these years the remaining figures grew ever fewer and more simplified.",
+      "funFacts": [
+        "André Breton described Miró as \"the most surrealist of us all\".",
+        "Miró said that at night in his Rue Blomet studio in Paris, sometimes having had no supper, he saw shapes on the ceiling and jotted them down in a notebook.",
+        "In 1926, the year before this painting, Miró collaborated with Max Ernst on designs for ballet impresario Sergei Diaghilev."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joan_Mir%C3%B3"
+    }
+  ]
+}

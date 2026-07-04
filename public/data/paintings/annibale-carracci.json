@@ -1,0 +1,154 @@
+{
+  "artistId": "annibale-carracci",
+  "paintings": [
+    {
+      "id": "the-loves-of-the-gods",
+      "title": "The Loves of the Gods (Farnese Gallery ceiling)",
+      "year": "1597–1608",
+      "medium": "fresco",
+      "location": "Farnese Gallery, Palazzo Farnese, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Rome_Palazzo_Farnese_ceiling_Carracci_frescos_04.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rome_Palazzo_Farnese_ceiling_Carracci_frescos_04.jpg/1920px-Rome_Palazzo_Farnese_ceiling_Carracci_frescos_04.jpg",
+      "width": 1920,
+      "height": 976,
+      "story": "Cardinal Odoardo Farnese, great-great-grandson of Pope Paul III, commissioned Annibale Carracci and his workshop to decorate the barrel-vaulted gallery on the piano nobile of the family palace. Begun in 1597 and not entirely finished until 1608, a year before Annibale's death, the monumental fresco cycle of the loves of the gods was greatly admired and came to be seen as a decisive turn away from Mannerism, anticipating both the Baroque and Classicism in seventeenth-century Rome.",
+      "funFacts": [
+        "Annibale's brother Agostino worked beside him from 1597 to 1600, and the workshop included future masters Giovanni Lanfranco, Francesco Albani and Domenichino.",
+        "Before the gallery, Annibale decorated the Camerino of the palace with scenes from the life of Hercules.",
+        "The Palazzo Farnese is today the French Embassy in Rome."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Loves_of_the_Gods"
+    },
+    {
+      "id": "the-beaneater",
+      "title": "The Beaneater",
+      "year": "c. 1583–1584",
+      "medium": "oil on canvas",
+      "location": "Palazzo Colonna, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Carracci_-_Der_Bohnenesser.jpeg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Carracci_-_Der_Bohnenesser.jpeg/1920px-Carracci_-_Der_Bohnenesser.jpeg",
+      "width": 1920,
+      "height": 1602,
+      "story": "Painted in Bologna in the early 1580s, this picture of a peasant caught mid-meal — a wooden spoon of white beans halfway to his mouth, with onions, bread, vegetable pie and a half-empty glass of wine spread on the table — is a synthesis of still life and portrait uncommon in its period. Its broad, realistic manner owes much to Flemish and Dutch painting, and to Italian painters of everyday life such as Vincenzo Campi and Bartolomeo Passarotti.",
+      "funFacts": [
+        "Carracci deliberately made his style 'lower' for 'lower' subjects like this one, while using a more classicist manner in academic works painted at the same time."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Beaneater"
+    },
+    {
+      "id": "domine-quo-vadis",
+      "title": "Domine, quo vadis?",
+      "year": "1601–1602",
+      "medium": "oil on panel",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Domine%2C_quo_vadis.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Domine%2C_quo_vadis.jpg/1920px-Domine%2C_quo_vadis.jpg",
+      "width": 1920,
+      "height": 2658,
+      "story": "This panel of 1602, commissioned by Cardinal Pietro Aldobrandini, depicts a rare subject from the apocryphal Acts of Peter: fleeing Rome to avoid crucifixion, Peter meets Christ on the Appian Way carrying his cross toward the city. To Peter's question 'Domine, quo vadis?' — 'Lord, where are you going?' — Christ replies that he is going to Rome to be crucified again. Understanding the sign, Peter turns back to face his own martyrdom.",
+      "funFacts": [
+        "The National Gallery catalogues it as 'Christ appearing to Saint Peter on the Appian Way'.",
+        "It is one of the best known works of the founder of the Bolognese School."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Domine,_quo_vadis%3F"
+    },
+    {
+      "id": "assumption-of-the-virgin-cerasi-chapel",
+      "title": "Assumption of the Virgin (Cerasi Chapel)",
+      "year": "1600–1601",
+      "medium": "oil (altarpiece)",
+      "location": "Cerasi Chapel, Santa Maria del Popolo, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Carracci_-_Assumption_of_Mary_-_SM_del_Popolo%2C_Capella_Cerasi.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Carracci_-_Assumption_of_Mary_-_SM_del_Popolo%2C_Capella_Cerasi.jpg/1920px-Carracci_-_Assumption_of_Mary_-_SM_del_Popolo%2C_Capella_Cerasi.jpg",
+      "width": 1920,
+      "height": 2880,
+      "story": "Carracci's altarpiece of the Assumption crowns the Cerasi Chapel in the left transept of Santa Maria del Popolo, painted in 1600–1601 for Monsignor Tiberio Cerasi. It stands between Caravaggio's two dramatically lit lateral canvases, whose foreshortened compositions are designed to be viewed from the side and draw the eye toward Carracci's frontally presented Assumption, aesthetically uniting the chapel despite the two masters' very different styles. On the vault above, a Coronation of the Virgin designed by Carracci continues the altarpiece's ascent directly.",
+      "funFacts": [
+        "The chapel is one of the very few places where Carracci and Caravaggio, the two founders of Roman Baroque painting, appear side by side.",
+        "The vault frescoes designed by Carracci were executed by his able assistant Innocenzo Tacconi."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cerasi_Chapel"
+    },
+    {
+      "id": "the-butchers-shop",
+      "title": "The Butcher's Shop",
+      "year": "c. 1583",
+      "medium": "oil on canvas",
+      "location": "Christ Church Picture Gallery, Oxford",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Annibale_Carracci_-_The_Butcher%27s_Shop_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Annibale_Carracci_-_The_Butcher%27s_Shop_-_Google_Art_Project.jpg/1920px-Annibale_Carracci_-_The_Butcher%27s_Shop_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1598,
+      "story": "One of two Butcher's Shop paintings Carracci made in the early 1580s — the other is in the Kimbell Art Museum in Texas — this large canvas is among the very earliest examples of Italian genre painting. Its exceptional size for such a subject has led to suggestions that it was commissioned by a butcher's guild or even for use as a shop sign. The picture was originally attributed to Bartolomeo Passarotti, one of the painters of everyday life who influenced Carracci.",
+      "funFacts": [
+        "X-rays reveal significant alterations to some of the figures."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Butcher%27s_Shop"
+    },
+    {
+      "id": "landscape-with-the-flight-into-egypt",
+      "title": "Landscape with the Flight into Egypt",
+      "year": "c. 1604",
+      "medium": "oil on canvas",
+      "location": "Galleria Doria Pamphilj, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Annibale_Carracci_003.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Annibale_Carracci_003.jpg/1920px-Annibale_Carracci_003.jpg",
+      "width": 1920,
+      "height": 1004,
+      "story": "Commissioned in 1603 by Cardinal Pietro Aldobrandini for the chapel of his Roman palace, later the Palazzo Doria Pamphilj, where it still hangs, this lunette is frequently regarded as a key work in the history of Baroque landscape painting. Rudolf Wittkower called it the most celebrated example of Carracci's new Roman style of carefully constructed landscape panoramas, in which small figures give first place to landscape and second to history.",
+      "funFacts": [
+        "It belongs to a set of six lunettes executed by Carracci and pupils including Albani, Domenichino and Lanfranco.",
+        "John Rupert Martin described it as 'the archetypal classical landscape', later emulated by Domenichino, Poussin and Claude."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Landscape_with_the_Flight_into_Egypt_(Carracci)"
+    },
+    {
+      "id": "venus-adonis-and-cupid",
+      "title": "Venus, Adonis and Cupid",
+      "year": "c. 1595",
+      "medium": "oil on canvas",
+      "location": "Museo del Prado, Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Venus%2C_Adonis_y_Cupido_%28Carracci%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Venus%2C_Adonis_y_Cupido_%28Carracci%29.jpg/1920px-Venus%2C_Adonis_y_Cupido_%28Carracci%29.jpg",
+      "width": 1920,
+      "height": 1536,
+      "story": "Painted around 1595, the canvas arranges Venus, Cupid and the hunter Adonis diagonally across a forest landscape: Adonis parts the branches and discovers the goddess, their gazes locking as Cupid points at his mother. The muted landscape sets off the vividly coloured figures, and the picture shows the influence of Titian, Correggio and ancient Greek sculpture, with a composition strongly indebted to Veronese. It entered the Spanish royal collection in 1664.",
+      "funFacts": [
+        "Carracci and his brother Agostino founded the Accademia degli Incamminati, the academy that pioneered Bolognese painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Venus,_Adonis_and_Cupid"
+    },
+    {
+      "id": "pieta",
+      "title": "Pietà",
+      "year": "c. 1598–1600",
+      "medium": "oil on canvas",
+      "location": "Museo di Capodimonte, Naples",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Annibale_carracci%2C_piet%C3%A0%2C_1599-1600_ca.%2C_Q363%2C_01.JPG",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Annibale_carracci%2C_piet%C3%A0%2C_1599-1600_ca.%2C_Q363%2C_01.JPG/1920px-Annibale_carracci%2C_piet%C3%A0%2C_1599-1600_ca.%2C_Q363%2C_01.JPG",
+      "width": 1920,
+      "height": 1929,
+      "story": "Commissioned by Cardinal Odoardo Farnese around 1600, this Pietà is counted among Carracci's masterpieces. Its format suggests it was intended for the private devotion of its commissioner, kept in a chapel of the Palazzo Farnese in Rome or another Farnese residence. Like almost all the works of the Farnese Collection it travelled from Rome to Parma and then to Naples, where it now hangs in the Museo di Capodimonte.",
+      "funFacts": [
+        "A 16th-century traveler's account describes an admirable Pietà by Carracci at the Farnese palace of Caprarola, which may be this very painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Annibale_Carracci)"
+    },
+    {
+      "id": "the-dead-christ-mourned",
+      "title": "The Dead Christ Mourned (The Three Maries)",
+      "year": "c. 1604",
+      "medium": "oil on canvas",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Annibale_Carracci_-_Lamentation_of_Christ_-_WGA4436.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Annibale_Carracci_-_Lamentation_of_Christ_-_WGA4436.jpg/1920px-Annibale_Carracci_-_Lamentation_of_Christ_-_WGA4436.jpg",
+      "width": 1920,
+      "height": 1750,
+      "story": "In this canvas of about 1604, the dead Christ lies with his head in the lap of the Virgin Mary, who has fainted, overcome with grief, while the red-haired Mary Magdalene raises her hands in anguish and two other women attend them. The painting passed through the famous Orleans Collection before arriving in Britain in 1798, and was donated to the National Gallery in 1913.",
+      "funFacts": [
+        "The National Gallery describes it as perhaps the most poignant pietà in its collection and 'one of the greatest expressions of grief in Baroque art'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Dead_Christ_Mourned"
+    }
+  ]
+}

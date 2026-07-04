@@ -1,0 +1,168 @@
+{
+  "artistId": "paul-cezanne",
+  "paintings": [
+    {
+      "id": "the-card-players",
+      "title": "The Card Players",
+      "year": "1894–1895",
+      "medium": "oil on canvas",
+      "location": "Musée d'Orsay, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg/1920px-Les_Joueurs_de_cartes%2C_par_Paul_C%C3%A9zanne.jpg",
+      "width": 1920,
+      "height": 1575,
+      "story": "The Card Players is a series of five oil paintings Cézanne made during his final period in the early 1890s. The versions vary in size, in the number of players, and in the setting in which the game takes place, and Cézanne completed numerous drawings and studies in preparation for the series. This version hangs in the Musée d'Orsay in Paris.",
+      "funFacts": [
+        "One version of The Card Players was sold in 2011 to the Royal Family of Qatar for an estimated $250 million, at the time the highest price ever paid for a painting.",
+        "That record stood until November 2017."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Card_Players"
+    },
+    {
+      "id": "the-basket-of-apples",
+      "title": "The Basket of Apples",
+      "year": "c. 1893",
+      "medium": "oil on canvas",
+      "location": "Art Institute of Chicago, Chicago",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg/1920px-Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg",
+      "width": 1920,
+      "height": 1537,
+      "story": "Created around 1893, The Basket of Apples rejected naturalistic representation in favor of distorting objects to create multiple perspectives within a single still life. This approach eventually influenced other art movements, including Fauvism and Cubism. It belongs to the Helen Birch Bartlett Memorial Collection of the Art Institute of Chicago.",
+      "funFacts": [
+        "The painting rejected naturalistic representation in favor of distorting objects to create multiple perspectives, an approach that influenced Fauvism and Cubism."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Basket_of_Apples"
+    },
+    {
+      "id": "the-bathers",
+      "title": "The Bathers (Les Grandes Baigneuses)",
+      "year": "1898–1905",
+      "medium": "oil on canvas",
+      "location": "Philadelphia Museum of Art, Philadelphia",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg/1920px-Paul_C%C3%A9zanne%2C_French_-_The_Large_Bathers_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1605,
+      "story": "The Bathers, first exhibited in 1906, is the largest of Cézanne's series of Bather paintings and is often considered his finest work. Cézanne worked on the canvas for seven years, and it remained unfinished at the time of his death in 1906. It was purchased in 1937 for $110,000 for the Philadelphia Museum of Art with funds from its benefactor Joseph E. Widener, having previously been owned by Leo Stein.",
+      "funFacts": [
+        "The purchase was questioned by The Philadelphia Record, which noted that 41,000 of Philadelphia's residents were without bathtubs.",
+        "The other Bathers in the series hang in the Museum of Modern Art, the National Gallery in London, the Barnes Foundation and the Art Institute of Chicago."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Bathers_(C%C3%A9zanne)"
+    },
+    {
+      "id": "still-life-with-apples-and-oranges",
+      "title": "Still Life with Apples and Oranges",
+      "year": "c. 1899",
+      "medium": "oil on canvas",
+      "location": "Musée d'Orsay, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Nature_morte_aux_pommes_et_aux_oranges%2C_par_Paul_C%C3%A9zanne.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nature_morte_aux_pommes_et_aux_oranges%2C_par_Paul_C%C3%A9zanne.jpg/1920px-Nature_morte_aux_pommes_et_aux_oranges%2C_par_Paul_C%C3%A9zanne.jpg",
+      "width": 1920,
+      "height": 1509,
+      "story": "Still Life with Apples and Oranges dates from around 1899 and is one of Cézanne's grandest still lifes, now housed at the Musée d'Orsay in Paris. The canvas was inspired by Still Life with Curtain and Flowered Pitcher, painted a few months earlier with the same objects.",
+      "funFacts": [
+        "Its companion piece, Still Life with Curtain and Flowered Pitcher, is kept at the Hermitage Museum in St. Petersburg."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Still_Life_with_Apples_and_Oranges"
+    },
+    {
+      "id": "rideau-cruchon-et-compotier",
+      "title": "Rideau, Cruchon et Compotier",
+      "year": "1893–1894",
+      "medium": "oil on canvas",
+      "location": "Private collection",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Rideau%2C_Cruchon_et_Compotier%2C_par_Paul_C%C3%A9zanne%2C_Yorck_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rideau%2C_Cruchon_et_Compotier%2C_par_Paul_C%C3%A9zanne%2C_Yorck_Project.jpg/1920px-Rideau%2C_Cruchon_et_Compotier%2C_par_Paul_C%C3%A9zanne%2C_Yorck_Project.jpg",
+      "width": 1920,
+      "height": 1575,
+      "story": "Rideau, Cruchon et Compotier (Curtain, Jug and Fruit Bowl) is a formal still life composition created around 1893 to 1894, displaying Cézanne's exploration of form, balance and symmetry in objects.",
+      "funFacts": [
+        "On 10 May 1999 it sold at Sotheby's for $60.5 million, making it the most expensive still life painting ever sold at auction."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rideau,_Cruchon_et_Compotier"
+    },
+    {
+      "id": "mont-sainte-victoire-and-the-viaduct-of-the-arc-river-valley",
+      "title": "Mont Sainte-Victoire and the Viaduct of the Arc River Valley",
+      "year": "1882–1885",
+      "medium": "oil on canvas",
+      "location": "Metropolitan Museum of Art, New York",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Paul_C%C3%A9zanne_-_Mont_Sainte-Victoire_and_the_Viaduct_of_the_Arc_River_Valley_%28Metropolitan_Museum_of_Art%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Paul_C%C3%A9zanne_-_Mont_Sainte-Victoire_and_the_Viaduct_of_the_Arc_River_Valley_%28Metropolitan_Museum_of_Art%29.jpg/1920px-Paul_C%C3%A9zanne_-_Mont_Sainte-Victoire_and_the_Viaduct_of_the_Arc_River_Valley_%28Metropolitan_Museum_of_Art%29.jpg",
+      "width": 1920,
+      "height": 1555,
+      "story": "Completed between 1882 and 1885, this landscape depicts Montagne Sainte-Victoire and the valley of the Arc River, with Cézanne's hometown of Aix-en-Provence in the background. The mountain became one of the defining motifs of his career. Once owned by the collectors Henry and Louisine Havemeyer, the painting was bequeathed to the Metropolitan Museum of Art in New York after Louisine's death in 1929.",
+      "funFacts": [
+        "Mont Sainte-Victoire in Provence was a subject Cézanne returned to in a whole series of oil paintings."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mont_Sainte-Victoire_and_the_Viaduct_of_the_Arc_River_Valley"
+    },
+    {
+      "id": "pierrot-and-harlequin",
+      "title": "Pierrot and Harlequin",
+      "year": "1888–1890",
+      "medium": "oil on canvas",
+      "location": "Pushkin Museum, Moscow",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mardi_gras%2C_par_Paul_C%C3%A9zanne%2C_Yorck.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mardi_gras%2C_par_Paul_C%C3%A9zanne%2C_Yorck.jpg",
+      "width": 1580,
+      "height": 2000,
+      "story": "Pierrot and Harlequin, also known as Mardi Gras, was painted between 1888 and 1890 and shows the commedia dell'arte characters Pierrot and Harlequin. It passed through the collections of Victor Chocquet, Paul Durand-Ruel and Sergei Shchukin, was seized by the Soviet state after the October Revolution, and reached its present home in the Pushkin Museum in Moscow in 1948.",
+      "funFacts": [
+        "The painting was in Victor Chocquet's collection from 1890 to 1899 before being bought by the dealer Paul Durand-Ruel.",
+        "It was seized by the Soviet state with the rest of Sergei Shchukin's collection after the October Revolution."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierrot_and_Harlequin"
+    },
+    {
+      "id": "portrait-of-ambroise-vollard",
+      "title": "Portrait of Ambroise Vollard",
+      "year": "1899",
+      "medium": "oil on canvas",
+      "location": "Petit Palais, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cezanne_Ambroise_Vollard.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cezanne_Ambroise_Vollard.jpg/1920px-Cezanne_Ambroise_Vollard.jpg",
+      "width": 1920,
+      "height": 2365,
+      "story": "This 1899 portrait depicts Cézanne's art dealer Ambroise Vollard, and like many of his portraits it displays the significant role of the subject in the artist's life — specifically his gratitude to the man who promoted his work and established his reputation. Vollard bequeathed the painting on his death to the Petit Palais in Paris, where it is still housed today.",
+      "funFacts": [
+        "Vollard was the dealer who promoted Cézanne's work and helped establish his reputation as an artist."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Ambroise_Vollard_(C%C3%A9zanne)"
+    },
+    {
+      "id": "a-modern-olympia",
+      "title": "A Modern Olympia",
+      "year": "c. 1873–1874",
+      "medium": "oil on canvas",
+      "location": "Musée d'Orsay, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Paul_Cezanne%2C_A_Modern_Olympia%2C_c._1873-1874.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Paul_Cezanne%2C_A_Modern_Olympia%2C_c._1873-1874.jpg",
+      "width": 1411,
+      "height": 1200,
+      "story": "A Modern Olympia, painted around 1873–74, takes its title and subject as a homage to Édouard Manet's 1863 painting Olympia. Cézanne reimagines the scandalous scene in his own feverish early style. The painting is owned by the Musée d'Orsay in Paris.",
+      "funFacts": [
+        "Both the title and the subject are a homage to Édouard Manet's 1863 painting Olympia."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A_Modern_Olympia"
+    },
+    {
+      "id": "the-hanged-mans-house",
+      "title": "The Hanged Man's House",
+      "year": "1873",
+      "medium": "oil on canvas",
+      "location": "Musée d'Orsay, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_FWN_81.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/La_Maison_du_pendu%2C_Auvers-sur-Oise%2C_par_Paul_C%C3%A9zanne%2C_FWN_81.jpg",
+      "width": 1460,
+      "height": 1200,
+      "story": "The Hanged Man's House is an 1873 oil-on-canvas painting made at Auvers-sur-Oise, one of the key works of Cézanne's early career. The painting is exhibited at the Musée d'Orsay in Paris.",
+      "funFacts": [
+        "Its full French title is La Maison du pendu, Auvers-sur-Oise."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Hanged_Man's_House"
+    }
+  ]
+}

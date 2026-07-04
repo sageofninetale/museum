@@ -1,0 +1,142 @@
+{
+  "artistId": "old-kingdom-tomb-painters",
+  "paintings": [
+    {
+      "id": "meidum-geese",
+      "title": "The Meidum Geese",
+      "year": "c. 2570 BCE",
+      "medium": "painted plaster",
+      "location": "Egyptian Museum, Cairo (from the Chapel of Itet, Meidum)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/%C3%84gyptisches_Museum_Kairo_2016-03-29_G%C3%A4nse_von_Meidum_01.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%C3%84gyptisches_Museum_Kairo_2016-03-29_G%C3%A4nse_von_Meidum_01.jpg/1920px-%C3%84gyptisches_Museum_Kairo_2016-03-29_G%C3%A4nse_von_Meidum_01.jpg",
+      "width": 4857,
+      "height": 1334,
+      "story": "The most famous painting of the Old Kingdom comes from the tomb of prince Nefermaat, a son of King Sneferu, where it decorated the chapel of his wife Itet. Discovered in 1871 by Auguste Mariette and Luigi Vassalli, the scene was executed in painted plaster and removed from the wall to be reassembled in the museum. It depicts six geese — greylag, greater white-fronted and red-breasted geese, none of which call modern Egypt home — and this example of Egyptian painting is considered a masterpiece.",
+      "funFacts": [
+        "Each group of three geese stands for many geese, as three represents the plural in Egyptian imagery.",
+        "A 2015 paper suggested the painting could be a nineteenth-century forgery by Vassalli; the claim was promptly dismissed by Zahi Hawass and other Egyptian authorities.",
+        "A 2021 study raised the possibility that the red-breasted birds depict an unknown extinct goose species, though a 2022 study found them within the plumage variation of red-breasted geese."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nefermaat"
+    },
+    {
+      "id": "meidum-geese-detail",
+      "title": "Meidum Geese (Detail)",
+      "year": "c. 2570 BCE",
+      "medium": "painted plaster",
+      "location": "Egyptian Museum, Cairo (from the Chapel of Itet, Meidum)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Meidum._Muurschildering_van_ganzen_uit_de_tombe_van_Nefermaat_en_Itet_Detail%2C_GDE002653.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Meidum._Muurschildering_van_ganzen_uit_de_tombe_van_Nefermaat_en_Itet_Detail%2C_GDE002653.jpg/1920px-Meidum._Muurschildering_van_ganzen_uit_de_tombe_van_Nefermaat_en_Itet_Detail%2C_GDE002653.jpg",
+      "width": 5840,
+      "height": 5012,
+      "story": "A close view of one of the six geese from the chapel of Itet at Meidum. The full scene shows three geese pointing left and three pointing right; in each group one goose bows its head to feed while two hold their heads up. Differences in the plumage of the birds break the overall symmetry of the scene, a subtlety that has helped make this painting one of the most celebrated works in the Egyptian Museum.",
+      "funFacts": [
+        "The painting is catalogued in the Egyptian Museum as JE 34571 / CG 1742.",
+        "The geese were painted around 4,500 years ago, in the Fourth Dynasty of King Sneferu."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nefermaat"
+    },
+    {
+      "id": "itet-fowling-scene",
+      "title": "Trapping Birds and Ploughing the Fields (Chapel of Itet)",
+      "year": "c. 2570 BCE",
+      "medium": "wall painting",
+      "location": "Mastaba 16, Meidum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Maler_der_Grabkammer_der_Itet_002.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Maler_der_Grabkammer_der_Itet_002.jpg/1920px-Maler_der_Grabkammer_der_Itet_002.jpg",
+      "width": 2048,
+      "height": 1070,
+      "story": "From the same tomb chapel as the Meidum Geese, this Fourth Dynasty painting shows men trapping birds in a clap-net and ploughing the fields. Egyptian tomb walls presented an idealized version of the world: scenes of daily life rendered in art were believed to grant those activities permanence, ensuring the tomb owner would enjoy their bounty forever. The realistic waterfowl, dogs and other animals painted in the Chapel of Itet are identifiable to species level.",
+      "funFacts": [
+        "Nefermaat's tomb names fifteen of his children, including Hemiunu, who was believed to have helped plan the Great Pyramids.",
+        "The ancient Egyptian language had no word for 'art' — artworks served an essentially functional purpose bound with religion and ideology."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nefermaat"
+    },
+    {
+      "id": "nefermaat-paste-relief",
+      "title": "Paste-Inlay Reliefs from the Mastaba of Nefermaat",
+      "year": "c. 2570 BCE",
+      "medium": "carved relief filled with colored paste",
+      "location": "from Mastaba 16, Meidum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Fragmentary_reliefs_from_the_mastaba-tomb_of_Nefermaat_and_his_wife_Itet_02.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fragmentary_reliefs_from_the_mastaba-tomb_of_Nefermaat_and_his_wife_Itet_02.jpg/1920px-Fragmentary_reliefs_from_the_mastaba-tomb_of_Nefermaat_and_his_wife_Itet_02.jpg",
+      "width": 5472,
+      "height": 3174,
+      "story": "Nefermaat's tomb is known for a special technique found nowhere else: sculptors carved deeply incised images that were then filled with colored paste. The method was labor-intensive because the paste tended to dry, crack and fall out — which is likely why craftsmen abandoned this type of decoration — but while it lasted it produced vividly colored scenes. These fragments show the technique's bold silhouettes.",
+      "funFacts": [
+        "This is the only tomb known to date decorated in the paste-inlay technique.",
+        "Nefermaat was vizier of Egypt and bore the titles of king's eldest son, royal seal bearer and prophet of Bastet."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nefermaat"
+    },
+    {
+      "id": "ti-cattle-ford",
+      "title": "Cattle Crossing the Ford (Tomb of Ti)",
+      "year": "c. 2400 BCE",
+      "medium": "painted limestone relief",
+      "location": "Mastaba of Ti, Saqqara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Maler_der_Grabkammer_des_Ti_001.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Maler_der_Grabkammer_des_Ti_001.jpg/1920px-Maler_der_Grabkammer_des_Ti_001.jpg",
+      "width": 2048,
+      "height": 1094,
+      "story": "The Mastaba of Ti, discovered by Auguste Mariette in 1865, is one of the most important archaeological sites of Saqqara, its walls showing various scenes of everyday life in the Fifth Dynasty. Here herdsmen drive cattle through a ford, a calf carried on a man's shoulders to coax the herd across the water. Ti was a senior official and royal architect who served under several kings and oversaw the sun temples of Neferirkare and Niuserre.",
+      "funFacts": [
+        "Ti's wife Neferhetepes appears alongside him in the tomb's reliefs.",
+        "The mastaba contains two serdabs — sealed chambers for statues of the deceased."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mastaba_of_Ti"
+    },
+    {
+      "id": "ti-marsh-boat",
+      "title": "Boating in the Marshes (Tomb of Ti)",
+      "year": "c. 2400 BCE",
+      "medium": "painted limestone relief",
+      "location": "Mastaba of Ti, Saqqara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Tomb_of_Ti%2C_ca._2400_BCE%2C_5th_dynasty%3B_Saqqara_%2813%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tomb_of_Ti%2C_ca._2400_BCE%2C_5th_dynasty%3B_Saqqara_%2813%29.jpg/1920px-Tomb_of_Ti%2C_ca._2400_BCE%2C_5th_dynasty%3B_Saqqara_%2813%29.jpg",
+      "width": 4000,
+      "height": 2542,
+      "story": "Still carrying its green pigment after more than four millennia, this painted relief from the Mastaba of Ti shows the tomb owner standing on a papyrus boat among the marshes of the Nile. Scenes of everyday life like this covered the walls of Old Kingdom tomb chapels, where painted relief — carved first, then colored — was the pyramid age's grandest form of two-dimensional art.",
+      "funFacts": [
+        "The Mastaba of Ti was discovered by Auguste Mariette in 1865.",
+        "Much of what survives of ancient Egyptian art comes from tombs and monuments, giving insight into ancient Egyptian afterlife beliefs."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mastaba_of_Ti"
+    },
+    {
+      "id": "ptahhotep-east-wall",
+      "title": "East Wall of the Chapel of Ptahhotep",
+      "year": "c. 2400 BCE",
+      "medium": "painted low relief",
+      "location": "Mastaba of Ptahhotep and Akhethotep, Saqqara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Saqqara._Mastaba_van_Ptahhotep_en_Akhethotep_Kapel_Oostmuur_met_laagreli%C3%ABfs_en_muurschilderingen%2C_GDE002687.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Saqqara._Mastaba_van_Ptahhotep_en_Akhethotep_Kapel_Oostmuur_met_laagreli%C3%ABfs_en_muurschilderingen%2C_GDE002687.jpg/1920px-Saqqara._Mastaba_van_Ptahhotep_en_Akhethotep_Kapel_Oostmuur_met_laagreli%C3%ABfs_en_muurschilderingen%2C_GDE002687.jpg",
+      "width": 5902,
+      "height": 5012,
+      "story": "The chapel of the vizier Ptahhotep at Saqqara is covered with low reliefs and wall paintings arranged in orderly registers. Ptahhotep was a vizier during the reign of Djedkare Isesi in Egypt's Fifth Dynasty, best known as the author of The Maxims of Ptahhotep, one of the earliest works of Egyptian wisdom literature. His tomb's reliefs include depictions of Ptahhotep wearing different wigs.",
+      "funFacts": [
+        "Ptahhotep is regarded as one of the earliest recorded philosophers, whose teachings emphasized humility, justice and restraint in speech.",
+        "His Maxims were addressed to his son and copied by scribes for centuries."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ptahhotep"
+    },
+    {
+      "id": "ptahhotep-detail",
+      "title": "Offering Bearers (Chapel of Ptahhotep, Detail)",
+      "year": "c. 2400 BCE",
+      "medium": "painted low relief",
+      "location": "Mastaba of Ptahhotep and Akhethotep, Saqqara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Saqqara._Mastaba_van_Ptahhotep_en_Akhethotep_Kapel_Oostmuur_met_laagreli%C3%ABfs_en_muurschilderingen_Detail%2C_GDE002691.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Saqqara._Mastaba_van_Ptahhotep_en_Akhethotep_Kapel_Oostmuur_met_laagreli%C3%ABfs_en_muurschilderingen_Detail%2C_GDE002691.jpg/1920px-Saqqara._Mastaba_van_Ptahhotep_en_Akhethotep_Kapel_Oostmuur_met_laagreli%C3%ABfs_en_muurschilderingen_Detail%2C_GDE002691.jpg",
+      "width": 5840,
+      "height": 5012,
+      "story": "A detail of the east wall of Ptahhotep's chapel, where rows of offering bearers bring the produce of the estate to sustain the dead vizier forever. Rendering offerings in art was believed to grant them permanence: ancient Egyptian art portrayed an idealized version of the world in the service of maintaining cosmic order, or Ma'at — a concept Ptahhotep himself wrote about in his Maxims.",
+      "funFacts": [
+        "Ptahhotep held the highest administrative office under the pharaoh of Egypt's Fifth Dynasty.",
+        "Egyptian art was a conservative tradition whose style changed very little over some 3,000 years."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ptahhotep"
+    }
+  ]
+}

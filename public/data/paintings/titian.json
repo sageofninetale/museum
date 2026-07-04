@@ -1,0 +1,175 @@
+{
+  "artistId": "titian",
+  "paintings": [
+    {
+      "id": "assumption-of-the-virgin",
+      "title": "Assumption of the Virgin",
+      "year": "1515–1518",
+      "medium": "oil on panel",
+      "location": "Basilica di Santa Maria Gloriosa dei Frari, Venice",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tizian_041.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tizian_041.jpg",
+      "width": 1050,
+      "height": 1932,
+      "story": "Painted in 1515–1518, the Assunta still hangs on the high altar of the Frari church in Venice for which it was designed, and it is the largest altarpiece in the city, with figures well over life-size. It marked a new direction in Titian's style, reflecting his awareness of High Renaissance developments in Florence and Rome by artists such as Raphael and Michelangelo. The agitated figures of the Apostles broke with the meditative stillness usual in Venetian altarpieces, and the work confirmed Titian as the leading artist in Venice.",
+      "funFacts": [
+        "The figures were made well over life-size because of the considerable distance between the high altar and the congregation.",
+        "Perhaps shocking to the Venetian public at first, it was soon recognised as a masterpiece that made Titian a rival to Michelangelo and Raphael."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)"
+    },
+    {
+      "id": "venus-of-urbino",
+      "title": "Venus of Urbino",
+      "year": "c. 1534",
+      "medium": "oil on canvas",
+      "location": "Galleria degli Uffizi, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg/1920px-Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1350,
+      "story": "Titian seems to have begun this reclining nude in the early 1530s, perhaps completing it in 1534, though it was not sold until 1538. The pose derives from the Dresden Venus traditionally attributed to Giorgione, but Titian moves the goddess indoors into a Renaissance palace, meets the viewer's gaze, and makes her sensuality explicit. Art historians agree on the painting's powerful erotic charge but still dispute whether it portrays a courtesan or celebrates the marriage of its first owner.",
+      "funFacts": [
+        "The pose is borrowed from the Dresden Venus of c. 1510–11, a painting whose landscape Titian himself had completed.",
+        "Some scholars identify the model as the famous Venetian courtesan Zaffetta."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Venus_of_Urbino"
+    },
+    {
+      "id": "bacchus-and-ariadne",
+      "title": "Bacchus and Ariadne",
+      "year": "1520–1523",
+      "medium": "oil on canvas",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Titian_Bacchus_and_Ariadne.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Titian_Bacchus_and_Ariadne.jpg/1920px-Titian_Bacchus_and_Ariadne.jpg",
+      "width": 1920,
+      "height": 1737,
+      "story": "Painted for Alfonso I d'Este, Duke of Ferrara, this canvas belongs to a cycle of mythological pictures for the Camerino d'Alabastro, a private room in his palazzo decorated with paintings based on classical texts. The commission originally went to Raphael, who had only completed a preliminary drawing at his death in 1520, when it passed to Titian. Drawing its subject from Catullus and Ovid, it is considered one of Titian's greatest works.",
+      "funFacts": [
+        "Raphael had received an advance payment for the commission before he died.",
+        "Its companions in the cycle include The Feast of the Gods, mostly by Giovanni Bellini, and Titian's Bacchanal of the Andrians and Worship of Venus, now in the Prado."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bacchus_and_Ariadne"
+    },
+    {
+      "id": "sacred-and-profane-love",
+      "title": "Sacred and Profane Love",
+      "year": "1514",
+      "medium": "oil on canvas",
+      "location": "Galleria Borghese, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29.jpg/1920px-Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29.jpg",
+      "width": 1920,
+      "height": 762,
+      "story": "Probably painted in 1514, early in Titian's career, the picture is presumed to have been commissioned by Niccolò Aurelio, a secretary to the Venetian Council of Ten, to celebrate his marriage to the young widow Laura Bagarotto. Two women modelled on the same person — one dressed in white beside Cupid, one thought to be Venus — sit on a carved Roman sarcophagus converted into a fountain. Despite much scholarly ink, the intended meaning and the identity of the figures remain disputed.",
+      "funFacts": [
+        "Aurelio's coat of arms appears on the sarcophagus-fountain.",
+        "The famous title is first recorded only in 1693 and may not reflect the original concept at all."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sacred_and_Profane_Love"
+    },
+    {
+      "id": "equestrian-portrait-of-charles-v",
+      "title": "Equestrian Portrait of Charles V",
+      "year": "1548",
+      "medium": "oil on canvas",
+      "location": "Museo del Prado, Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Carlos_V_en_M%C3%BChlberg%2C_by_Titian%2C_from_Prado_in_Google_Earth.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Carlos_V_en_M%C3%BChlberg%2C_by_Titian%2C_from_Prado_in_Google_Earth.jpg/1920px-Carlos_V_en_M%C3%BChlberg%2C_by_Titian%2C_from_Prado_in_Google_Earth.jpg",
+      "width": 1920,
+      "height": 2278,
+      "story": "Created between April and September 1548 while Titian was at the imperial court of Augsburg, the portrait pays tribute to Holy Roman Emperor Charles V after his victory over the Protestant armies at the Battle of Mühlberg in April 1547. It gains its impact from directness and contained power: the horse's strength seems just in check, while the shining armour and deep reds recall battle and heroism. The portrait was commissioned by Charles's sister, Mary of Austria, Queen of Hungary.",
+      "funFacts": [
+        "Titian painted the horse, caparison and armour from the actual ones used in the battle; the armour and harness survive in the Royal Armoury in Madrid.",
+        "The historian Hugh Trevor-Roper observed that Charles 'does not exult in his victory. He is staid, controlled, pensive, but serene'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Equestrian_Portrait_of_Charles_V"
+    },
+    {
+      "id": "danae",
+      "title": "Danaë",
+      "year": "1544–1546",
+      "medium": "oil on canvas",
+      "location": "National Museum of Capodimonte, Naples",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Tizian_011.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Tizian_011.jpg",
+      "width": 1817,
+      "height": 1269,
+      "story": "Titian and his workshop painted at least six versions of Danaë between about 1544 and the 1560s, based on the mythological princess who, isolated in a bronze tower after a prophecy that her firstborn would kill her father, was seduced by Zeus in the form of a shower of gold. The first version, painted in 1544–46 and now in Naples, is the only one that includes a figure of Cupid at the right. The voluptuous figure of Danaë hardly changes between versions, and was probably traced from a studio drawing.",
+      "funFacts": [
+        "The major surviving versions are spread across Naples, London, Madrid, Vienna, Chicago and St. Petersburg.",
+        "The story comes briefly from Ovid and at greater length from Boccaccio."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Titian_paintings)"
+    },
+    {
+      "id": "diana-and-actaeon",
+      "title": "Diana and Actaeon",
+      "year": "1556–1559",
+      "medium": "oil on canvas",
+      "location": "National Gallery, London, and Scottish National Gallery, Edinburgh",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Titian_-_Diana_and_Actaeon_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Titian_-_Diana_and_Actaeon_-_Google_Art_Project.jpg/1920px-Titian_-_Diana_and_Actaeon_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1760,
+      "story": "Finished in 1556–1559 and considered among Titian's greatest works, the painting captures the moment the hunter Actaeon stumbles upon the goddess Diana and her nymphs bathing. The furious goddess will turn Actaeon into a stag to be pursued and killed by his own hounds — a sequel Titian later painted in The Death of Actaeon. Titian replaced the traditional woodland setting with the arched stone ruins of a forest temple, and gave the startled nymphs a whole range of reactions and nude poses.",
+      "funFacts": [
+        "In 2008–2009 the National Gallery and National Galleries of Scotland acquired it from the Bridgewater Collection for £50 million.",
+        "Diana wears a crown with a crescent moon, her identifying attribute."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diana_and_Actaeon_(Titian)"
+    },
+    {
+      "id": "the-flaying-of-marsyas",
+      "title": "The Flaying of Marsyas",
+      "year": "c. 1570–1576",
+      "medium": "oil on canvas",
+      "location": "Archbishop's Palace, Kroměříž, Czech Republic",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Titian_-_The_Flaying_of_Marsyas.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Titian_-_The_Flaying_of_Marsyas.jpg",
+      "width": 1842,
+      "height": 2000,
+      "story": "Probably painted between about 1570 and Titian's death in 1576, when the artist was in his eighties, this is one of his last works and may be unfinished, though a partial signature appears on the stone in the foreground. It shows the satyr Marsyas being skinned alive after rashly challenging the god Apollo to a musical contest, a subject from Ovid. Kept in Kroměříž in Moravia since 1673, the painting was largely forgotten and only entered the critical literature in 1909.",
+      "funFacts": [
+        "By the 1930s scholars accepted it as an important late work, yet it remained little known to the wider public.",
+        "It belongs to the Archbishopric of Olomouc and hangs in the Archbishop's Palace at Kroměříž."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Flaying_of_Marsyas_(Titian)"
+    },
+    {
+      "id": "pesaro-madonna",
+      "title": "Pesaro Madonna",
+      "year": "1519–1526",
+      "medium": "oil on canvas",
+      "location": "Basilica di Santa Maria Gloriosa dei Frari, Venice",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Frari_%28Venice%29_nave_left_-_Altar_of_Madona_di_Ca%27Pesaro.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Frari_%28Venice%29_nave_left_-_Altar_of_Madona_di_Ca%27Pesaro.jpg/1920px-Frari_%28Venice%29_nave_left_-_Altar_of_Madona_di_Ca%27Pesaro.jpg",
+      "width": 1920,
+      "height": 3001,
+      "story": "Commissioned by Jacopo Pesaro, Bishop of Paphos and commander of the papal fleet under the Borgia pope Alexander VI, the altarpiece still hangs in the chapel his family acquired in the Frari Basilica in 1518. Titian shows his patron kneeling in devotion before the Virgin, presented by Saint Peter, whose key lies prominently on the steps. The Virgin's position at the top of the stairs alludes to her role as Madonna della Scala, the Stairway to Heaven.",
+      "funFacts": [
+        "Titian used his wife as the model for the Virgin Mary; she died in childbirth soon afterwards.",
+        "The large red banner at the left displays the papal arms with those of Jacopo Pesaro below."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pesaro_Madonna"
+    },
+    {
+      "id": "pieta",
+      "title": "Pietà",
+      "year": "1575–1576",
+      "medium": "oil on canvas",
+      "location": "Gallerie dell'Accademia, Venice",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Accademia_-_Piet%C3%A0_by_Titian.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Accademia_-_Piet%C3%A0_by_Titian.jpg/1920px-Accademia_-_Piet%C3%A0_by_Titian.jpg",
+      "width": 1920,
+      "height": 1943,
+      "story": "Titian's last painting, left incomplete at his death in 1576 and finished by Palma Giovane, who kept his interventions to the minimum necessary and did his best to match Titian's own style. Titian had intended the picture to hang over his own grave, and painted it in two stages so it could fit in two different churches. It is a key work of his distinctive late style, which fully emerged around 1570.",
+      "funFacts": [
+        "An inscription in the lower part of the canvas records that Palma Giovane completed it.",
+        "Palma's additions may have been limited to the torch-bearing angel and touches to the stone shrine."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Piet%C3%A0_(Titian)"
+    }
+  ]
+}

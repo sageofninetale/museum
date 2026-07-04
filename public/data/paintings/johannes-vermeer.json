@@ -1,0 +1,175 @@
+{
+  "artistId": "johannes-vermeer",
+  "paintings": [
+    {
+      "id": "girl-with-a-pearl-earring",
+      "title": "Girl with a Pearl Earring",
+      "year": "c. 1665",
+      "medium": "oil on canvas",
+      "location": "Mauritshuis, The Hague",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/1920px-1665_Girl_with_a_Pearl_Earring.jpg",
+      "width": 1920,
+      "height": 2274,
+      "story": "Dated to about 1665, this is not a portrait but a tronie — the Dutch term for a 'head' study — depicting a girl in exotic dress with an oriental turban and what appears to be a very large pearl at her ear. It went by various names over the centuries and only acquired its present title toward the end of the 20th century. The painting has been in the Mauritshuis since 1902 and has inspired novels and films.",
+      "funFacts": [
+        "During the 1994 restoration it was discovered that the mottled dark background was originally a deep, enamel-like green glaze.",
+        "It is signed 'IVMeer' but carries no date."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring"
+    },
+    {
+      "id": "the-milkmaid",
+      "title": "The Milkmaid",
+      "year": "c. 1657–1658",
+      "medium": "oil on canvas",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.png",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.png/1920px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.png",
+      "width": 1920,
+      "height": 2158,
+      "story": "In a plain room, a sturdily built young kitchen maid in a crisp linen cap and blue apron carefully pours milk into a squat earthenware container, with breads laid out on the table before her. The exact date is unknown — the Rijksmuseum estimates about 1658 — and the museum regards the painting as 'unquestionably one of the museum's finest attractions'.",
+      "funFacts": [
+        "Despite the title, the woman is a domestic kitchen maid rather than a milker of cows.",
+        "Estimates of its date range from 1657 to as late as 1661 depending on the source."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)"
+    },
+    {
+      "id": "view-of-delft",
+      "title": "View of Delft",
+      "year": "c. 1660–1661",
+      "medium": "oil on canvas",
+      "location": "Mauritshuis, The Hague",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vermeer-view-of-delft.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vermeer-view-of-delft.jpg/1920px-Vermeer-view-of-delft.jpg",
+      "width": 1920,
+      "height": 1594,
+      "story": "Vermeer's only cityscape shows his hometown from an elevated position southeast of the city — possibly the upper floor of the Mechelen tavern, where his studio was located. The Rotterdam Gate rises at the right with two herring boats before it. Cityscapes across water were popular in the Netherlands as celebrations of a city and its trade, and this one has been in the Mauritshuis since the museum's establishment in 1822.",
+      "funFacts": [
+        "It is one of only three known Vermeer paintings of Delft, together with The Little Street and the lost House Standing in Delft.",
+        "Technical analysis found pigments including natural ultramarine and madder lake beneath its luminous surface."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/View_of_Delft"
+    },
+    {
+      "id": "the-art-of-painting",
+      "title": "The Art of Painting",
+      "year": "c. 1666–1668",
+      "medium": "oil on canvas",
+      "location": "Kunsthistorisches Museum, Vienna",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg/1920px-Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 2281,
+      "story": "Also known as The Allegory of Painting, this canvas depicts an artist at work in an imaginary version of Vermeer's studio, and many art historians read it as an allegory of the art itself. Its composition and iconography make it the most complex of all Vermeer's works, and after Christ in the House of Martha and Mary and The Procuress it is his largest. Albert Blankert wrote that 'no other painting so flawlessly integrates naturalistic technique, brightly illuminated space, and a complexly integrated composition'.",
+      "funFacts": [
+        "Thoré-Bürger, the critic who rediscovered Vermeer in the 19th century, considered it the artist's most interesting painting.",
+        "The painting is owned by the Austrian Republic."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Art_of_Painting"
+    },
+    {
+      "id": "woman-reading-a-letter",
+      "title": "Woman Reading a Letter",
+      "year": "c. 1663",
+      "medium": "oil on canvas",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Vermeer%2C_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Vermeer%2C_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg/1920px-Vermeer%2C_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg",
+      "width": 1920,
+      "height": 2301,
+      "story": "A woman in blue stands before an unseen window, absorbed in a letter. She appears to be pregnant, though many argue her rounded figure simply reflects the fashions of the day — pregnancy was very rarely depicted in art of the period. The map of Holland and West Friesland behind her has been read as hinting that the letter comes from a travelling husband, while the box of pearls on the table might instead suggest a lover.",
+      "funFacts": [
+        "It was the first Vermeer the Rijksmuseum acquired, entering the museum when it opened in 1885.",
+        "It has belonged to the City of Amsterdam since the Van der Hoop bequest of 1854."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_Reading_a_Letter_(Vermeer)"
+    },
+    {
+      "id": "the-little-street",
+      "title": "The Little Street",
+      "year": "c. 1657–1658",
+      "medium": "oil on canvas",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_%27Het_straatje%27_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_%27Het_straatje%27_-_Google_Art_Project.jpg/1920px-Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft%2C_bekend_als_%27Het_straatje%27_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 2378,
+      "story": "This small canvas of a quiet street depicts a typical aspect of life in a Dutch Golden Age town, its walls and brickwork painted in layers thick enough to feel almost palpable. It is one of only three Vermeer views of Delft, alongside View of Delft and the lost House Standing in Delft, and is considered an important work of the master.",
+      "funFacts": [
+        "Vermeer signed it 'I V MEER' below the window in the lower left-hand corner.",
+        "He conjured its realism from a remarkably limited number of pigments, including red ochre and madder lake for the brick walls."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Little_Street"
+    },
+    {
+      "id": "the-astronomer",
+      "title": "The Astronomer",
+      "year": "1668",
+      "medium": "oil on canvas",
+      "location": "Musée du Louvre, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg/1920px-Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+      "width": 1920,
+      "height": 2181,
+      "story": "Finished in 1668, the painting shows an astronomer looking at a celestial globe, his profession marked by the globe by Jodocus Hondius and the 1621 edition of Adriaan Metius's Institutiones Astronomicae Geographicae open on the table. Portrayals of scientists were a favourite subject in 17th-century Dutch art, and both this work and the slightly later Geographer are believed to portray the same man — possibly the microscopist Antonie van Leeuwenhoek.",
+      "funFacts": [
+        "A 2017 study showed that the canvases of The Astronomer and The Geographer came from the same bolt of cloth.",
+        "It has been proposed that Vermeer used a camera obscura to reconstruct the geometry of his rooms."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Astronomer"
+    },
+    {
+      "id": "the-geographer",
+      "title": "The Geographer",
+      "year": "1668–1669",
+      "medium": "oil on canvas",
+      "location": "Städel Museum, Frankfurt",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Johannes_Vermeer_-_The_Geographer_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Johannes_Vermeer_-_The_Geographer_-_Google_Art_Project.jpg/1920px-Johannes_Vermeer_-_The_Geographer_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 2153,
+      "story": "Painted in 1668–1669, the picture shows a geographer in the Japanese-style robe then popular among scholars, dividers in hand, surrounded by maps, charts, a globe and books — 'someone excited by intellectual inquiry', in the words of Arthur K. Wheelock Jr. It is closely related to The Astronomer, using the same model in the same dress, and has sometimes been considered its pendant.",
+      "funFacts": [
+        "It is one of only three paintings Vermeer signed and dated, along with The Astronomer and The Procuress.",
+        "Vermeer altered the man's head position during painting, one of several changes that enliven the picture."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Geographer"
+    },
+    {
+      "id": "girl-reading-a-letter-at-an-open-window",
+      "title": "Girl Reading a Letter at an Open Window",
+      "year": "c. 1657–1659",
+      "medium": "oil on canvas",
+      "location": "Gemäldegalerie Alte Meister, Dresden",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_%28ca._1657-59%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_%28ca._1657-59%29.jpg/1920px-Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_%28ca._1657-59%29.jpg",
+      "width": 1920,
+      "height": 2478,
+      "story": "Completed around 1657–1659 and held in Dresden since 1742, the painting shows a young woman in profile reading a letter before an open window. Its attribution was lost for years — credited first to Rembrandt, then to Pieter de Hooch — until properly identified as a Vermeer in 1880. In 2017 tests revealed that a large Cupid 'painting within a painting' on the back wall had been overpainted after Vermeer's death, and between 2018 and 2021 restorers removed the overpaint with scalpel and microscope, returning the picture to its original composition.",
+      "funFacts": [
+        "For nearly 300 years viewers saw a bare wall where Vermeer had painted a Cupid.",
+        "After World War II the painting was briefly in the possession of the Soviet Union."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girl_Reading_a_Letter_at_an_Open_Window"
+    },
+    {
+      "id": "woman-holding-a-balance",
+      "title": "Woman Holding a Balance",
+      "year": "c. 1662–1663",
+      "medium": "oil on canvas",
+      "location": "National Gallery of Art, Washington, D.C.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg/1920px-Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 2171,
+      "story": "A young woman — discreetly appearing to be pregnant, perhaps modeled on Vermeer's wife Catharina — holds a balance before a table where an open jewelry box spills pearls and gold. Behind her hangs a painting of the Last Judgment, charging the quiet scene with meaning: opinions differ on whether she embodies holiness or earthliness. The work was once called Woman Weighing Gold, until closer examination showed the balance in her hand is empty.",
+      "funFacts": [
+        "The empty balance transformed the painting's interpretation from gold-weighing to spiritual weighing.",
+        "Scholars have read it variously as a vanitas painting and as a representation of divine truth."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woman_Holding_a_Balance"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "artistId": "raphael",
+  "paintings": [
+    {
+      "id": "the-school-of-athens",
+      "title": "The School of Athens",
+      "year": "1509–1511",
+      "medium": "fresco",
+      "location": "Apostolic Palace, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/1920px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
+      "width": 1920,
+      "height": 1490,
+      "story": "Painted between 1509 and 1511 as part of Pope Julius II's commission to decorate the rooms now called the Stanze di Raffaello in the Apostolic Palace, the fresco gathers ancient philosophers, mathematicians and scientists around Plato and Aristotle at its center. The identities of most figures are ambiguous or discernible only through subtle details, though Socrates, Pythagoras, Archimedes, Heraclitus, Averroes, Euclid and Zarathustra are commonly identified. The work is celebrated for its accurate perspective projection, which Raphael learned from Leonardo da Vinci.",
+      "funFacts": [
+        "Leonardo da Vinci and Michelangelo are believed to be portrayed within it, as Plato and Heraclitus respectively.",
+        "Raphael included a self-portrait of himself standing beside Ptolemy.",
+        "The only figure looking directly at the viewer, long falsely believed to be Hypatia, is actually Francesco Maria I della Rovere."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_School_of_Athens"
+    },
+    {
+      "id": "sistine-madonna",
+      "title": "Sistine Madonna",
+      "year": "c. 1513–1514",
+      "medium": "oil on canvas",
+      "location": "Gemäldegalerie Alte Meister, Dresden",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/RAFAEL_-_Madonna_Sixtina_%28Gem%C3%A4ldegalerie_Alter_Meister%2C_Dresden%2C_1513-14._%C3%93leo_sobre_lienzo%2C_265_x_196_cm%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RAFAEL_-_Madonna_Sixtina_%28Gem%C3%A4ldegalerie_Alter_Meister%2C_Dresden%2C_1513-14._%C3%93leo_sobre_lienzo%2C_265_x_196_cm%29.jpg/1920px-RAFAEL_-_Madonna_Sixtina_%28Gem%C3%A4ldegalerie_Alter_Meister%2C_Dresden%2C_1513-14._%C3%93leo_sobre_lienzo%2C_265_x_196_cm%29.jpg",
+      "width": 1920,
+      "height": 2632,
+      "story": "Commissioned in 1512 by Pope Julius II for the church of San Sisto in Piacenza, this canvas was one of the last Madonnas Raphael painted. The Madonna holds the Christ Child and stands on clouds flanked by Saint Sixtus and Saint Barbara, above two famously pensive winged putti resting on their elbows. The painting was moved to Dresden in 1754 and became highly influential in the German and Russian art scenes.",
+      "funFacts": [
+        "Giorgio Vasari called it 'a truly rare and extraordinary work'.",
+        "After World War II the painting was relocated to Moscow for a decade before being returned to Dresden."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sistine_Madonna"
+    },
+    {
+      "id": "transfiguration",
+      "title": "The Transfiguration",
+      "year": "1516–1520",
+      "medium": "oil tempera on wood",
+      "location": "Pinacoteca Vaticana, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Rapha%C3%ABl%2C_La_Transfiguration%2C_1518%E2%80%931520%2C_huile_sur_bois%2C_405_%C3%97_278_cm%2C_Mus%C3%A9es_du_Vatican%2C_Pinacoth%C3%A8que%2C_inv._4.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rapha%C3%ABl%2C_La_Transfiguration%2C_1518%E2%80%931520%2C_huile_sur_bois%2C_405_%C3%97_278_cm%2C_Mus%C3%A9es_du_Vatican%2C_Pinacoth%C3%A8que%2C_inv._4.jpg/1920px-Rapha%C3%ABl%2C_La_Transfiguration%2C_1518%E2%80%931520%2C_huile_sur_bois%2C_405_%C3%97_278_cm%2C_Mus%C3%A9es_du_Vatican%2C_Pinacoth%C3%A8que%2C_inv._4.jpg",
+      "width": 1920,
+      "height": 2837,
+      "story": "The last painting by Raphael, commissioned by Cardinal Giulio de' Medici, the future Pope Clement VII, as an altarpiece for Narbonne Cathedral in France; Raphael worked on it in the years preceding his death in 1520. Unusually, it combines the Transfiguration of Jesus with the next episode from the Gospels, the healing of a possessed boy, in the lower half. The work exemplifies the culmination of Raphael's career.",
+      "funFacts": [
+        "From the late 16th century until the early 20th century, various commentators regarded it as the most famous oil painting in the world."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Transfiguration_(Raphael)"
+    },
+    {
+      "id": "the-marriage-of-the-virgin",
+      "title": "The Marriage of the Virgin",
+      "year": "1504",
+      "medium": "oil on panel",
+      "location": "Pinacoteca di Brera, Milan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg",
+      "width": 1417,
+      "height": 2032,
+      "story": "Completed in 1504 for the Franciscan church of San Francesco in Città di Castello, the panel depicts the marriage ceremony between Mary and Joseph before a domed temple. It was the last of three commissions sent to Raphael's teacher Pietro Perugino that Raphael completed in his absence, and it was evidently inspired by Perugino's own Marriage of the Virgin. After changing hands several times, it settled in the Pinacoteca di Brera in 1806.",
+      "funFacts": [
+        "Raphael placed the date, 1504, next to his signature.",
+        "The painting left its original church when General Giuseppe Lechi's forces arrived in Città di Castello and it was gifted to — or perhaps demanded by — the general."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Marriage_of_the_Virgin_(Raphael)"
+    },
+    {
+      "id": "portrait-of-baldassare-castiglione",
+      "title": "Portrait of Baldassare Castiglione",
+      "year": "c. 1514–1515",
+      "medium": "oil on canvas",
+      "location": "Louvre, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Baldassare_Castiglione%2C_by_Raffaello_Sanzio%2C_from_C2RMF_retouched.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Baldassare_Castiglione%2C_by_Raffaello_Sanzio%2C_from_C2RMF_retouched.jpg/1920px-Baldassare_Castiglione%2C_by_Raffaello_Sanzio%2C_from_C2RMF_retouched.jpg",
+      "width": 1920,
+      "height": 2388,
+      "story": "Considered one of the great portraits of the Renaissance, it depicts Raphael's friend, the diplomat and humanist Baldassare Castiglione, regarded as a quintessential example of the High Renaissance gentleman. The two men were close friends by 1504, when Castiglione visited the humanist court of Urbino as Raphael was gaining recognition there. The portrait grew out of that friendship and has had an enduring influence.",
+      "funFacts": [
+        "Castiglione may have served as a 'scholarly advisor' for The School of Athens, and the figure of Zoroaster in that fresco may be his portrait.",
+        "Castiglione once traveled to England to present a painting by Raphael to King Henry VII."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_Baldassare_Castiglione"
+    },
+    {
+      "id": "the-triumph-of-galatea",
+      "title": "The Triumph of Galatea",
+      "year": "c. 1512",
+      "medium": "fresco",
+      "location": "Villa Farnesina, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Raffael_012.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Raffael_012.jpg/1920px-Raffael_012.jpg",
+      "width": 1920,
+      "height": 2520,
+      "story": "Raphael completed this fresco around 1512 for the Villa Farnesina, built for the Sienese banker Agostino Chigi, one of the richest men of that age. Part of a mythological series inspired by Angelo Poliziano's poetry, it shows not the main events of the tale of Galatea and Acis but the beautiful Nereid's apotheosis, as she rides a shell-chariot surrounded by sea creatures. The muscular forms owe something to Michelangelo, while the bright colors and decoration recall ancient Roman painting.",
+      "funFacts": [
+        "Sebastiano del Piombo painted the giant Polyphemus on the wall right next to Raphael's fresco.",
+        "In the myth, the one-eyed giant Polyphemus killed Galatea's lover Acis with an enormous pillar after finding the lovers together."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Galatea_(Raphael)"
+    },
+    {
+      "id": "madonna-del-cardellino",
+      "title": "Madonna of the Goldfinch",
+      "year": "c. 1505–1506",
+      "medium": "oil on wood",
+      "location": "Galleria degli Uffizi, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Raffaello_Sanzio_-_Madonna_del_Cardellino_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Raffaello_Sanzio_-_Madonna_del_Cardellino_-_Google_Art_Project.jpg/1920px-Raffaello_Sanzio_-_Madonna_del_Cardellino_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 2683,
+      "story": "Painted around 1505–06 during Raphael's Florentine period, the picture was a wedding gift from the artist to his friend Lorenzo Nasi. On 17 November 1548 Nasi's house was destroyed by a landslide and the painting broke into seventeen pieces; it was hastily put back together, with the seams still quite visible. A ten-year modern restoration was completed in 2008, after which the painting returned to the Uffizi.",
+      "funFacts": [
+        "After the 1548 landslide the painting was reassembled from seventeen fragments.",
+        "During the recent restoration, an antique copy stood in for the painting in the gallery."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Madonna_del_Cardellino"
+    },
+    {
+      "id": "la-fornarina",
+      "title": "La Fornarina (Portrait of a Young Woman)",
+      "year": "1518–1519",
+      "medium": "oil on wood",
+      "location": "Galleria Nazionale d'Arte Antica, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Raffaello_Sanzio_-_La_Fornarina_%28ca._1519-1520%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Raffaello_Sanzio_-_La_Fornarina_%28ca._1519-1520%29.jpg/1920px-Raffaello_Sanzio_-_La_Fornarina_%28ca._1519-1520%29.jpg",
+      "width": 1920,
+      "height": 2663,
+      "story": "Made between 1518 and 1519, the painting was probably still in Raphael's studio at his death in 1520, when it was modified and then sold by his assistant Giulio Romano. Art-history tradition identifies the woman as 'la fornarina' — the baker's daughter Margherita Luti, Raphael's Roman lover who refused to marry him — though this identification has been questioned. Alternative readings see the picture as a depiction of a courtesan or as Raphael's take on the 'belle donne' genre rather than a portrait of a specific woman.",
+      "funFacts": [
+        "The sitter wears a blue and yellow turban over her dark hair and a thin veil across her lower abdomen.",
+        "It hangs in the Palazzo Barberini, home of the Galleria Nazionale d'Arte Antica."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Fornarina"
+    },
+    {
+      "id": "disputation-of-the-holy-sacrament",
+      "title": "Disputation of the Holy Sacrament",
+      "year": "1509–1510",
+      "medium": "fresco",
+      "location": "Apostolic Palace, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Disputa_del_Sacramento_%28Rafael%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Disputa_del_Sacramento_%28Rafael%29.jpg/1920px-Disputa_del_Sacramento_%28Rafael%29.jpg",
+      "width": 1920,
+      "height": 1384,
+      "story": "Painted between 1509 and 1510, the Disputa was the first part of Raphael's commission to fresco the rooms now known as the Stanze di Raffaello in the Apostolic Palace. The room, then called the Stanza della Segnatura, was the private papal library where the supreme papal tribunal met. Raphael created a scene spanning both heaven and earth, with Christ enthroned above in a Deësis between the Virgin Mary and John the Baptist, surrounded by biblical figures such as Peter, Adam, Moses and Abraham.",
+      "funFacts": [
+        "Among the figures seated on the clouds are Adam, King David holding a lyre, and Moses with the tablets of the Ten Commandments."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Disputation_of_the_Holy_Sacrament"
+    },
+    {
+      "id": "the-expulsion-of-heliodorus-from-the-temple",
+      "title": "The Expulsion of Heliodorus from the Temple",
+      "year": "1511–1512",
+      "medium": "fresco",
+      "location": "Apostolic Palace, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Raphael_-_The_Expulsion_of_Heliodorus_from_the_Temple.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Raphael_-_The_Expulsion_of_Heliodorus_from_the_Temple.jpg/1920px-Raphael_-_The_Expulsion_of_Heliodorus_from_the_Temple.jpg",
+      "width": 1920,
+      "height": 1444,
+      "story": "Painted between 1511 and 1512 for the room that now takes its name from it, the Stanza di Eliodoro, the fresco illustrates an episode from 2 Maccabees. Heliodorus, ordered by the Syrian king Seleucus to seize the treasure of the Temple in Jerusalem — money reserved for widows and orphans — is driven out by a heavenly horseman and two youths sent in answer to the high priest Onias's prayers. At the left, Raphael's patron Pope Julius II witnesses the scene from his litter.",
+      "funFacts": [
+        "The praying high priest at the center bears a strong resemblance to Pope Julius II himself.",
+        "The menorah beside the priest marks the event as taking place in the Temple in Jerusalem."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Expulsion_of_Heliodorus_from_the_Temple"
+    }
+  ]
+}

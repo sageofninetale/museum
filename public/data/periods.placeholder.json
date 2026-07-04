@@ -1,0 +1,17 @@
+[
+  { "id": "medieval-gothic", "name": "Medieval & Gothic", "startYear": 500, "endYear": 1400, "blurb": "", "wikipediaUrl": "" },
+  { "id": "renaissance", "name": "Renaissance", "startYear": 1400, "endYear": 1600, "blurb": "", "wikipediaUrl": "" },
+  { "id": "baroque", "name": "Baroque", "startYear": 1600, "endYear": 1750, "blurb": "", "wikipediaUrl": "" },
+  { "id": "rococo", "name": "Rococo", "startYear": 1720, "endYear": 1780, "blurb": "", "wikipediaUrl": "" },
+  { "id": "neoclassicism", "name": "Neoclassicism", "startYear": 1750, "endYear": 1830, "blurb": "", "wikipediaUrl": "" },
+  { "id": "romanticism", "name": "Romanticism", "startYear": 1800, "endYear": 1850, "blurb": "", "wikipediaUrl": "" },
+  { "id": "realism", "name": "Realism", "startYear": 1840, "endYear": 1880, "blurb": "", "wikipediaUrl": "" },
+  { "id": "impressionism", "name": "Impressionism", "startYear": 1860, "endYear": 1890, "blurb": "", "wikipediaUrl": "" },
+  { "id": "post-impressionism", "name": "Post-Impressionism", "startYear": 1885, "endYear": 1910, "blurb": "", "wikipediaUrl": "" },
+  { "id": "expressionism", "name": "Expressionism", "startYear": 1905, "endYear": 1930, "blurb": "", "wikipediaUrl": "" },
+  { "id": "cubism", "name": "Cubism", "startYear": 1907, "endYear": 1925, "blurb": "", "wikipediaUrl": "" },
+  { "id": "surrealism", "name": "Surrealism", "startYear": 1920, "endYear": 1950, "blurb": "", "wikipediaUrl": "" },
+  { "id": "abstract-expressionism", "name": "Abstract Expressionism", "startYear": 1940, "endYear": 1960, "blurb": "", "wikipediaUrl": "" },
+  { "id": "pop-art", "name": "Pop Art", "startYear": 1955, "endYear": 1975, "blurb": "", "wikipediaUrl": "" },
+  { "id": "contemporary", "name": "Contemporary", "startYear": 1970, "endYear": 2026, "blurb": "", "wikipediaUrl": "" }
+]

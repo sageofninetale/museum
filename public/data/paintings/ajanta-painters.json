@@ -1,0 +1,176 @@
+{
+  "artistId": "ajanta-painters",
+  "paintings": [
+    {
+      "id": "bodhisattva-padmapani",
+      "title": "Bodhisattva Padmapani",
+      "year": "c. 460–480 CE",
+      "medium": "dry fresco (painting on dry plaster)",
+      "location": "Cave 1, Ajanta Caves, Maharashtra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Padmapani_Bodhisattva-Ajanta_Caves-Aurangabad-Maharashtra.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Padmapani_Bodhisattva-Ajanta_Caves-Aurangabad-Maharashtra.jpg/1280px-Padmapani_Bodhisattva-Ajanta_Caves-Aurangabad-Maharashtra.jpg",
+      "width": 1067,
+      "height": 1601,
+      "story": "The gentle, lotus-bearing Padmapani is one of the two most famous individual painted images at Ajanta: two over-lifesize figures of protective bodhisattvas flank the entrance to the Buddha shrine on the wall of Cave 1's rear aisle. According to Walter Spink's chronology, Cave 1 was commissioned by the Vakataka emperor Harishena himself, and its paintings concentrate on the Jataka tales in which the Buddha's previous lives were lived as a king. The Ajanta murals are classical paintings and the work of confident artists — luxurious, sensuous and celebrating physical beauty.",
+      "funFacts": [
+        "The paintings at Ajanta are in 'dry fresco', painted on top of a dry plaster surface rather than into wet plaster.",
+        "Abanindranath Tagore and the Bengal school of modern Indian painting drew direct inspiration from the Ajanta murals.",
+        "The caves were forgotten for centuries until 1819, when a British officer on a tiger-hunting party stumbled upon an entrance."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    },
+    {
+      "id": "bodhisattva-vajrapani",
+      "title": "Bodhisattva Vajrapani",
+      "year": "c. 460–480 CE",
+      "medium": "dry fresco (painting on dry plaster)",
+      "location": "Cave 1, Ajanta Caves, Maharashtra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/023_Cave_1%2C_Vajrapani_%2833896242100%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/023_Cave_1%2C_Vajrapani_%2833896242100%29.jpg/1920px-023_Cave_1%2C_Vajrapani_%2833896242100%29.jpg",
+      "width": 1513,
+      "height": 1600,
+      "story": "Vajrapani, the thunderbolt-bearer, is the companion piece to Padmapani — together they are the two most famous individual painted images at Ajanta, over-lifesize protective bodhisattvas standing on either side of the entrance to the Buddha shrine in Cave 1. Where Padmapani is serene, Vajrapani is princely and richly crowned, embodying the power that guards the Buddha. These expressive paintings present emotion through gesture, pose and form, the quality for which Ajanta is celebrated as among the finest surviving ancient Indian art.",
+      "funFacts": [
+        "Ajanta's murals are described as masterpieces of Buddhist religious art that present emotions through gesture, pose and form.",
+        "Unlike much Indian mural painting, Ajanta compositions are not laid out in horizontal bands like a frieze, but spread in all directions from a single central figure or group."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    },
+    {
+      "id": "mahajanaka-jataka",
+      "title": "Mahajanaka Jataka",
+      "year": "c. 460–480 CE",
+      "medium": "dry fresco (painting on dry plaster)",
+      "location": "Cave 1, Ajanta Caves, Maharashtra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ajanta_Cave_1_Mahajanaka_Jataka_mural.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ajanta_Cave_1_Mahajanaka_Jataka_mural.jpg",
+      "width": 1800,
+      "height": 1200,
+      "story": "The Mahajanaka Jataka is one of the significant fresco cycles of Cave 1, alongside the Sibi, Sankhapala, Mahaummagga and Champeyya Jataka tales. The Jataka tales are Buddhist legends describing the previous births of the Buddha, and the paintings of Cave 1 concentrate on those in which he lived as a king — here King Mahajanaka, shown in scenes of palace life as he prepares to renounce the royal world. According to Spink, the cave was commissioned by the emperor Harishena himself.",
+      "funFacts": [
+        "The scenes of Cave 1 depict the Buddha as about to renounce the royal life, a pointed theme for a cave commissioned by a reigning emperor.",
+        "The Jataka fables embed ancient morals and cultural lore that are also found in the fables and legends of Hindu and Jain texts."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    },
+    {
+      "id": "cave-1-ceiling",
+      "title": "Painted Ceiling of Cave 1",
+      "year": "c. 460–480 CE",
+      "medium": "dry fresco (painting on dry plaster)",
+      "location": "Cave 1, Ajanta Caves, Maharashtra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ajanta%2C_ceiling_of_Cave_1.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ajanta%2C_ceiling_of_Cave_1.jpg",
+      "width": 1384,
+      "height": 1458,
+      "story": "The ceilings at Ajanta are painted with sophisticated and elaborate decorative motifs, many derived from sculpture, spreading a painted canopy of flowers, animals and ornament over the monastic halls. Cave 1's ceiling covers its great hall in a grid of panels teeming with invention. All the paintings appear to be the work of painters supported by discriminating connoisseurship and sophisticated patrons from an urban atmosphere, for it is known from literary sources that painting was widely practised and appreciated in the Gupta period.",
+      "funFacts": [
+        "When the caves were rediscovered in 1819, Captain John Smith first saw 'ceilings with beautiful and artistically drawn faces on them' before recognising the monastic halls as Buddhist.",
+        "Smith then scratched his name and the date over the painting of a bodhisattva, standing on a five-foot pile of rubble to do so — the graffiti is still visible."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    },
+    {
+      "id": "the-renunciation",
+      "title": "The Renunciation (Cave 1 Mural Panorama)",
+      "year": "c. 460–480 CE",
+      "medium": "dry fresco (painting on dry plaster)",
+      "location": "Cave 1, Ajanta Caves, Maharashtra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/027_Cave_1%2C_the_Renunciation_%2833896227560%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/027_Cave_1%2C_the_Renunciation_%2833896227560%29.jpg/1920px-027_Cave_1%2C_the_Renunciation_%2833896227560%29.jpg",
+      "width": 1600,
+      "height": 793,
+      "story": "This sweeping wall of Cave 1 unfolds palace scenes from the Jataka tales in the continuous, all-directions composition that sets Ajanta apart: rather than horizontal friezes, large scenes spread outward from a central figure or group. The paintings of Cave 1 dwell on previous lives in which the Buddha was born a king, and the scenes depict him as about to renounce the royal life. The frescoes are rich and full, luxurious and sensuous — qualities early Western observers found shockingly out of place in caves meant for ascetic monastic life.",
+      "funFacts": [
+        "Cave 1's murals also include the Temptation of Mara and the miracle of Sravasti, where the Buddha simultaneously manifests in many forms.",
+        "According to Spink's chronology, work at the site was abandoned around 478 after a brief busy period, leaving several caves plastered but never painted."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    },
+    {
+      "id": "foreign-dignitary-ceiling",
+      "title": "Foreign Dignitary Drinking Wine (Cave 1 Ceiling)",
+      "year": "c. 460–480 CE",
+      "medium": "dry fresco (painting on dry plaster)",
+      "location": "Ceiling of Cave 1, Ajanta Caves, Maharashtra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Foreign_dignitary_drinking_wine%2C_on_ceiling_of_Cave_1%2C_at_Ajanta_Caves%2C_possibly_depicting_the_Sasanian_embassy_from_Khusru_II_to_Indian_king_Pulakesin_II_%28610%E2%80%93642%29%2C.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Foreign_dignitary_drinking_wine%2C_on_ceiling_of_Cave_1%2C_at_Ajanta_Caves%2C_possibly_depicting_the_Sasanian_embassy_from_Khusru_II_to_Indian_king_Pulakesin_II_%28610%E2%80%93642%29%2C.jpg",
+      "width": 1024,
+      "height": 1024,
+      "story": "Depictions of foreigners abound at Ajanta — in Walter Spink's words, 'Ajanta's paintings are filled with such foreign types.' This ceiling panel of a wine-drinking dignitary in Central Asian dress belongs to a group that has sometimes been misinterpreted, most famously as a so-called 'Persian Embassy Scene'. The figures may reflect the Sassanian merchants and visitors who were then trading with India, and for the historian Haroon Khan Sherwani the paintings 'clearly demonstrate the cosmopolitan character of Buddhism, which opened its way to men of all races'.",
+      "funFacts": [
+        "Greek, Persian, Saka, Pahlava, Kushan and Huna peoples have all been identified among the figures painted at Ajanta.",
+        "The 19th-century readings of such scenes were conditioned by ideas and assumptions of the colonial mind, which saw what it wanted to see."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    },
+    {
+      "id": "coming-of-sinhala",
+      "title": "The Coming of Sinhala (Simhala Avadana)",
+      "year": "c. 460–480 CE",
+      "medium": "dry fresco (painting on dry plaster)",
+      "location": "Cave 17, Ajanta Caves, Maharashtra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Coming_Of_Sinhala_%28Mural_At_Ajanta_In_Cave_No_17%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coming_Of_Sinhala_%28Mural_At_Ajanta_In_Cave_No_17%29.jpg/1280px-Coming_Of_Sinhala_%28Mural_At_Ajanta_In_Cave_No_17%29.jpg",
+      "width": 1186,
+      "height": 1600,
+      "story": "Cave 17 holds a great panel that tells the tale of Prince Simhala's expedition to Sri Lanka, teeming with elephants, riders and ships. The cave's narrative frescoes are the most extensive at Ajanta, depicting Jataka tales from the Shaddanta and Hamsa to the Vessantara and Sutasoma, and weaving in the norms of early first-millennium culture and society. Themes as diverse as a shipwreck, a princess applying make-up, and lovers appear across its walls.",
+      "funFacts": [
+        "Cave 17 also depicts the 'Wheel of Life' and a panel celebrating various ancient Indian musicians.",
+        "Buddhas in various forms and postures line its walls — Vipasyi, Sikhi, Visvbhu, Krakuchchanda, Kanakamuni, Kashyapa and Sakyamuni."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    },
+    {
+      "id": "vessantara-jataka",
+      "title": "Vessantara Jataka",
+      "year": "c. 460–480 CE",
+      "medium": "dry fresco (painting on dry plaster)",
+      "location": "Cave 17, Ajanta Caves, Maharashtra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ajanta_Cave_17_Scene_of_the_Vessantara_Jataka.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ajanta_Cave_17_Scene_of_the_Vessantara_Jataka.jpg",
+      "width": 1800,
+      "height": 1200,
+      "story": "Among the many Jataka tales narrated on the walls of Cave 17 is the Vessantara Jataka, the story of the supremely generous prince who gives away everything he owns. The murals of Caves 16 and 17 form the most famous stylistic group at Ajanta, paintings that James Harle says 'have come to represent Indian mural painting to the non-specialist' and stand among 'the great glories not only of Gupta but of all Indian art'. Fragments from the earlier caves show that Indian painters had mastered an easy and fluent naturalistic style long before.",
+      "funFacts": [
+        "Cave 17's frescoes include two different versions of the Mahakapi Jataka, the tale of the Buddha's life as a great monkey king.",
+        "The later caves were each commissioned as a complete unit by a single patron from the local rulers or their court elites, for merit in Buddhist afterlife beliefs."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    },
+    {
+      "id": "cave-17-doorway-frescoes",
+      "title": "Frescoes above the Doorway, Cave 17",
+      "year": "c. 460–480 CE",
+      "medium": "dry fresco (painting on dry plaster)",
+      "location": "Cave 17, Ajanta Caves, Maharashtra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ajanta_cave_17%2C_frescoes_above_a_lintel.JPG",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ajanta_cave_17%2C_frescoes_above_a_lintel.JPG/1920px-Ajanta_cave_17%2C_frescoes_above_a_lintel.JPG",
+      "width": 1600,
+      "height": 1200,
+      "story": "Above the doorway of Cave 17, rows of seated Buddhas preside over scenes of everyday life while the ceiling dissolves into decorative pattern. Cave 17 was commissioned by Upendragupta, the local sub-king, during the burst of activity under emperor Harishena in the 460s and 470s. According to Spink's account, the shrine of Cave 17 was plastered in preparation for paintings that were never done, evidence of the sudden abandonment of work at the site around 478.",
+      "funFacts": [
+        "Inscriptions in Cave 17 record that it was commissioned for merit in Buddhist afterlife beliefs.",
+        "Work on the caves was suspended between about 472 and 475, a pause Spink calls 'the Hiatus', caused by threats from the neighbouring Asmaka kings."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    },
+    {
+      "id": "cave-2-paintings",
+      "title": "Paintings of Cave 2",
+      "year": "c. 460–480 CE",
+      "medium": "dry fresco (painting on dry plaster)",
+      "location": "Cave 2, Ajanta Caves, Maharashtra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cave_2%2C_Ajanta_caves.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cave_2%2C_Ajanta_caves.jpg/1280px-Cave_2%2C_Ajanta_caves.jpg",
+      "width": 1234,
+      "height": 1600,
+      "story": "Cave 2, adjacent to Cave 1, is known for the paintings that have been preserved on its walls, ceilings and pillars, and is in a better state of preservation than its neighbour. It is best known for its feminine focus and intricate painted artwork, including scenes of the birth of the Buddha, though the cave was left incomplete. The later caves seem to have been painted on finished areas even as excavating work continued elsewhere in the cave, as shown in Cave 2 in particular.",
+      "funFacts": [
+        "Cave 2's paintings fall into the same later stylistic group as Cave 1, which Spink places in the 5th century, perhaps painted by a team from a different region.",
+        "The Ajanta Caves have been a UNESCO World Heritage Site since 1983."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+    }
+  ]
+}

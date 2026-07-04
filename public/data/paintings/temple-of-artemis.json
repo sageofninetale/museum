@@ -1,0 +1,107 @@
+{
+  "artistId": "temple-of-artemis",
+  "paintings": [
+    {
+      "id": "heemskerck-temple-artemis",
+      "title": "The Temple of Diana at Ephesus — Philips Galle after Maarten van Heemskerck, 1572",
+      "year": "1572",
+      "medium": "engraving",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Tempel_van_Diana_te_Efeze_Dianae_Ephesie_templvm_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16452.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tempel_van_Diana_te_Efeze_Dianae_Ephesie_templvm_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16452.jpg/1920px-Tempel_van_Diana_te_Efeze_Dianae_Ephesie_templvm_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16452.jpg",
+      "width": 1920,
+      "height": 1563,
+      "story": "Heemskerck's plate from the canonical 1572 wonder series imagines the Artemision as a many-storeyed Renaissance palace of a temple, its facades stacked with statues and reliefs — nothing like the real Greek temple, whose plan was only recovered by excavation three centuries later. In the foreground sculptors carve a great column while a crowned ruler examines the plans; the Latin verse recalls the legend that Amazons founded the shrine.",
+      "funFacts": [
+        "The third temple was 137 m long, 69 m wide and 18 m high, with more than 127 columns.",
+        "The temple's site was rediscovered only in 1869, after six years of searching by John Turtle Wood's expedition for the British Museum."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Temple_of_Artemis"
+    },
+    {
+      "id": "devos-temple-artemis",
+      "title": "Templum Dianae — the van de Passe workshop after Maerten de Vos, 1614",
+      "year": "1614",
+      "medium": "engraving",
+      "location": "from the series 'Die sieben Weltwunder' (The Seven Wonders of the World), 1614",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/PPN783779488_Templum_Dianae_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/PPN783779488_Templum_Dianae_%28Die_sieben_Weltwunder%29_%281614%29.jpg/1920px-PPN783779488_Templum_Dianae_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "width": 1920,
+      "height": 1628,
+      "story": "Maerten de Vos's design for the 1614 wonder series turns the temple into a vast circular, domed sanctuary rising in tiers of columns — a Renaissance fantasy, since the destroyed temple's true rectangular form was then unknown. In the foreground masons carve column drums covered with figures, an unwitting echo of the real temple: Pliny records that thirty-six of its columns were decorated with carved reliefs. The verse below curses the arsonist Herostratus, who burned the temple 'hunting the reward of stolid fame'.",
+      "funFacts": [
+        "The archaic temple, designed and built from around 550 BCE by Chersiphron and his son Metagenes, was supposedly the first Greek temple built of marble.",
+        "Its reconstruction was funded by Croesus of Lydia, a king proverbial for his wealth."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Temple_of_Artemis"
+    },
+    {
+      "id": "tempesta-temple-artemis",
+      "title": "The Temple of Diana at Ephesus — Antonio Tempesta, published 1610",
+      "year": "1610",
+      "medium": "etching",
+      "location": "Los Angeles County Museum of Art",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_Temple_of_Diana_at_Ephesus_LACMA_65.37.291.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Temple_of_Diana_at_Ephesus_LACMA_65.37.291.jpg/1920px-The_Temple_of_Diana_at_Ephesus_LACMA_65.37.291.jpg",
+      "width": 1920,
+      "height": 1497,
+      "story": "Tempesta shows the great temple still rising: a long Ionic colonnade with scaffolding against its flank, boats landing materials on the shore and pack animals crowding the foreground. His etched Seven Wonders of 1610 carried the imagined monuments of antiquity across Baroque Europe, fixing them in the popular mind long before archaeology could correct the details.",
+      "funFacts": [
+        "In Greek and Roman historical tradition, the temple burned down on the night Alexander the Great was born, around 20–21 July 356 BC.",
+        "Plutarch remarked that Artemis was 'too preoccupied with Alexander's delivery to save her burning temple'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Temple_of_Artemis"
+    },
+    {
+      "id": "knab-temple-artemis",
+      "title": "The Temple of Diana at Ephesus — Ferdinand Knab, 1886",
+      "year": "1886",
+      "medium": "painting (reproduction)",
+      "location": "from Ferdinand Knab's 1886 series of the Seven Wonders",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Temple_of_Diana_at_Ephesus_by_Fedinand_Knab_%281886%29.png",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Temple_of_Diana_at_Ephesus_by_Fedinand_Knab_%281886%29.png",
+      "width": 781,
+      "height": 569,
+      "story": "Ferdinand Knab's 1886 painting sets a great colonnaded temple on mighty stepped terraces, a fire smoking on an altar before it and cypresses behind. By his day the site had at last been found — John Turtle Wood's British Museum expedition located it in 1869 — so Knab's vision is fantasy tempered, finally, by real archaeology.",
+      "funFacts": [
+        "The arsonist of 356 BCE, popularly identified as Herostratus, was punished by damnatio memoriae: Ephesus forbade anyone from mentioning his name.",
+        "The Ephesian Artemis had unique features and was seen as a protector of the city, central to its political and social life."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Temple_of_Artemis"
+    },
+    {
+      "id": "artemis-ephesia-statue",
+      "title": "The Ephesian Artemis — Roman statue, 2nd century AD",
+      "year": "2nd century AD",
+      "medium": "statue (photograph)",
+      "location": "Naples National Archaeological Museum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Artemis_of_Ephesus_MAN_Napoli_Inv6278.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Artemis_of_Ephesus_MAN_Napoli_Inv6278.jpg/1920px-Artemis_of_Ephesus_MAN_Napoli_Inv6278.jpg",
+      "width": 1920,
+      "height": 3840,
+      "story": "No image of the temple survives from antiquity, but the goddess it housed does, in Roman-era copies like this famous 'Artemis of Ephesus' now in Naples. The Ephesian Artemis was considered separate from the Hellenic version of the goddess, with unique features and artifacts associated with her — a tapering, many-lobed cult figure utterly unlike the huntress of Greek myth.",
+      "funFacts": [
+        "Athenagoras of Athens names Endoeus, a pupil of the legendary Daedalus, as sculptor of Artemis' main cult image.",
+        "The Ephesian Artemis was equated with the Roman goddess Diana, which is why the wonder is often called the Temple of Diana."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Temple_of_Artemis"
+    },
+    {
+      "id": "artemis-site-today",
+      "title": "Site of the Temple of Artemis, Ephesus — photograph, 2017",
+      "year": "2017",
+      "medium": "photograph",
+      "location": "near Selçuk, Turkey",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Templo-Artemisa-Efeso-2017.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Templo-Artemisa-Efeso-2017.jpg/1920px-Templo-Artemisa-Efeso-2017.jpg",
+      "width": 1920,
+      "height": 1516,
+      "story": "The wonder today: a marshy field near Selçuk where a lone column, re-erected from composite fragments and topped by a stork's nest, marks the temple's site. Wikipedia records that only foundations and fragments of the last temple remain — the quiet ending of a building ancient writers ranked among the most marvellous on earth.",
+      "funFacts": [
+        "Sculpted column drums and other finds from the excavations are now in the British Museum.",
+        "The final temple was destroyed in 401 CE, though the extent of earlier damage from a Gothic raid in 268 AD is unknown."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Temple_of_Artemis"
+    }
+  ]
+}

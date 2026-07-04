@@ -1,0 +1,126 @@
+{
+  "artistId": "great-pyramid-of-giza",
+  "paintings": [
+    {
+      "id": "heemskerck-pyramids",
+      "title": "The Pyramids of Egypt — Philips Galle after Maarten van Heemskerck, 1572",
+      "year": "1572",
+      "medium": "engraving",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Piramiden_van_Egypte_Piramides_Aegypti_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16450.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Piramiden_van_Egypte_Piramides_Aegypti_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16450.jpg/1920px-Piramiden_van_Egypte_Piramides_Aegypti_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16450.jpg",
+      "width": 1920,
+      "height": 1575,
+      "story": "This plate belongs to the 1572 series of the wonders engraved by Philips Galle after designs by the Dutch painter Maarten van Heemskerck — the very publication, Octo Mundi Miracula, that first established the traditional list of Seven Wonders. It is an imaginative reconstruction, not an eyewitness view: a colossal stepped pyramid rises between obelisks covered with invented emblems, while an enthroned pharaoh watches labourers dig in the foreground.",
+      "funFacts": [
+        "Wikipedia notes that all known ancient and classical lists of wonders differ from the canonical seven established by this 1572 publication.",
+        "Heemskerck is especially known for his depictions of the Wonders of the World.",
+        "The real Great Pyramid was built from an estimated 2.3 million blocks weighing some 6 million tonnes in total."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    },
+    {
+      "id": "devos-pyramids",
+      "title": "Pyramides Aegyptiae — the van de Passe workshop after Maerten de Vos, 1614",
+      "year": "1614",
+      "medium": "engraving",
+      "location": "from the series 'Die sieben Weltwunder' (The Seven Wonders of the World), 1614",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PPN784590613_Pyramides_Aegyptiae_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/PPN784590613_Pyramides_Aegyptiae_%28Die_sieben_Weltwunder%29_%281614%29.jpg/1920px-PPN784590613_Pyramides_Aegyptiae_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "width": 1920,
+      "height": 1638,
+      "story": "The Antwerp history painter Maerten de Vos designed his own cycle of the Seven Wonders, engraved by the van de Passe family workshop — this plate is signed by Magdalena van de Passe — and issued in 1614. It is a fantasy Egypt assembled from classical texts rather than observation: the stepped pyramid climbs far steeper than the real slope of about 51°50', an eagle wheels overhead, and a royal figure dominates the foreground.",
+      "funFacts": [
+        "De Vos's print designs circulated widely in Europe and the Spanish colonies and contributed to his international reputation and influence.",
+        "The Great Pyramid served as the tomb of the pharaoh Khufu, who ruled during the Fourth Dynasty of the Old Kingdom."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    },
+    {
+      "id": "tempesta-pyramids",
+      "title": "The Pyramids in Egypt — Antonio Tempesta, published 1610",
+      "year": "1610",
+      "medium": "etching",
+      "location": "Los Angeles County Museum of Art",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/The_Pyramids_in_Egypt_LACMA_65.37.295.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Pyramids_in_Egypt_LACMA_65.37.295.jpg/1920px-The_Pyramids_in_Egypt_LACMA_65.37.295.jpg",
+      "width": 1920,
+      "height": 1496,
+      "story": "The Florentine printmaker Antonio Tempesta, whose art connected Baroque Rome with the culture of Antwerp, etched his Seven Wonders as lively theatrical scenes. Here the great pyramid is still a building site: workmen haul stone with oxen, carts and camels while tents crowd the unfinished summit — a wholly imaginative reconstruction of a construction project nearly four millennia gone by the time he worked.",
+      "funFacts": [
+        "Tempesta (1555–1630) was known chiefly for depicting major battles and historical figures.",
+        "The pyramid's outer casing of smooth white Tura limestone was largely stripped away over the centuries, lowering it from 146.6 to 138.5 metres."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    },
+    {
+      "id": "erlach-pyramids",
+      "title": "The Pyramids of Giza — Johann Bernhard Fischer von Erlach, 1721",
+      "year": "1721",
+      "medium": "copperplate engraving",
+      "location": "from 'Entwurff einer historischen Architectur', 1721",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Erlach_2.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Erlach_2.jpg/1920px-Erlach_2.jpg",
+      "width": 1920,
+      "height": 1361,
+      "story": "The Austrian Baroque architect Fischer von Erlach included the Giza pyramids in his Entwurff einer historischen Architectur (A Plan of Civil and Historical Architecture, 1721), one of the first and most popular comparative studies of world architecture. Unlike the fanciful spires of earlier engravers he aims at scholarly reconstruction: three smooth-sided pyramids stand in a row with the Sphinx, and a lettered key cites Pliny's claim that 360,000 men laboured on the largest for twenty years.",
+      "funFacts": [
+        "Fischer von Erlach designed Schönbrunn Palace and the Karlskirche in Vienna.",
+        "His 1721 book set Egyptian, Greek, Roman and even Chinese buildings side by side — a radical idea for its time."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    },
+    {
+      "id": "roberts-pyramids",
+      "title": "Pyramids of Geezeh — Louis Haghe after David Roberts, 1846",
+      "year": "1846",
+      "medium": "tinted lithograph",
+      "location": "Library of Congress, Washington, D.C.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pyramids_of_Geezeh_-_David_Roberts%2C_R.A._LCCN2002718684.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pyramids_of_Geezeh_-_David_Roberts%2C_R.A._LCCN2002718684.jpg",
+      "width": 1024,
+      "height": 819,
+      "story": "The Scottish painter David Roberts toured Egypt and the Near East in 1838–40, and the lithographs Louis Haghe made from his sketches — published in his celebrated series on Egypt and Nubia — became defining images of the monuments for Victorian audiences. Unlike three centuries of imagined pyramids before it, this view was worked up from sketches made on the spot.",
+      "funFacts": [
+        "Roberts' prolific lithographs of Egypt and the Near East made him a prominent Orientalist painter, and he was elected a Royal Academician in 1841.",
+        "By Roberts' day the Great Pyramid had already been standing for some 4,400 years."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    },
+    {
+      "id": "frith-pyramids",
+      "title": "Pyramids of El-Geezeh, from the Southwest — Francis Frith, c. 1857",
+      "year": "c. 1857",
+      "medium": "albumen print photograph",
+      "location": "photographed at Giza, Egypt",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Francis_Frith_-_Pyramids_Of_El-Geezeh_%28From_The_Southwest%29_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Francis_Frith_-_Pyramids_Of_El-Geezeh_%28From_The_Southwest%29_-_Google_Art_Project.jpg/1920px-Francis_Frith_-_Pyramids_Of_El-Geezeh_%28From_The_Southwest%29_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1504,
+      "story": "The English photographer Francis Frith carried his photographic equipment up the Nile in the 1850s, and his prints replaced centuries of engraved speculation with the real thing. This view from the southwest shows the pyramids as they actually stand — weathered, step-like cores stripped of their smooth casing.",
+      "funFacts": [
+        "Frith's firm, founded in 1860, became the largest photographic publisher in the world.",
+        "Most of the pyramid's casing stones were stripped away over time; many were said to have been carted off in 1356 for building work in nearby Cairo."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    },
+    {
+      "id": "liberato-giza",
+      "title": "All Gizah Pyramids — Ricardo Liberato, 2006",
+      "year": "2006",
+      "medium": "photograph",
+      "location": "Giza pyramid complex, Egypt",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1920px-All_Gizah_Pyramids.jpg",
+      "width": 1920,
+      "height": 1276,
+      "story": "A modern photograph of the Giza pyramid field, with Khufu's Great Pyramid rising at the far end of the line. Alone among the Seven Wonders, the subject of this gallery can still simply be photographed: the Great Pyramid is the only wonder that has remained largely intact.",
+      "funFacts": [
+        "The Great Pyramid was the world's tallest human-made structure for more than 3,700 years.",
+        "It is part of the UNESCO World Heritage Site 'Memphis and its Necropolis'.",
+        "Tourists today enter through the Robbers' Tunnel, cut straight through the masonry long ago."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza"
+    }
+  ]
+}

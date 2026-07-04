@@ -1,0 +1,23 @@
+{
+  "artistId": "willem-de-kooning",
+  "paintings": [
+    {
+      "id": "study-for-the-williamsburg-project",
+      "title": "Study for the Williamsburg Project",
+      "year": "c. 1936-1937",
+      "medium": "gouache over pencil on paper",
+      "location": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/1936caDeKooningStudyForWilliamsburgProject.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/1936caDeKooningStudyForWilliamsburgProject.jpg",
+      "width": 535,
+      "height": 349,
+      "story": "In 1935 de Kooning was employed in the Federal Art Project of the Works Progress Administration, for which he designed a number of murals, including some for the Williamsburg Federal Housing Project in Brooklyn, New York City. None of the murals were executed, but a sketch for one was included in New Horizons in American Art at the Museum of Modern Art, his first group show. This small gouache study for the Williamsburg Project dates from that Federal Art Project period.",
+      "funFacts": [
+        "De Kooning had to leave the Federal Art Project in 1937 because he did not have U.S. citizenship, after which he began to work full-time as an artist.",
+        "De Kooning arrived in the United States in 1926 as a stowaway on the Shelley, a British freighter bound for Argentina.",
+        "He joined the Artists Union in 1934."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Willem_de_Kooning"
+    }
+  ]
+}

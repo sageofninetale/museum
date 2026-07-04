@@ -1,0 +1,173 @@
+{
+  "artistId": "rembrandt",
+  "paintings": [
+    {
+      "id": "the-night-watch",
+      "title": "The Night Watch",
+      "year": "1642",
+      "medium": "oil on canvas",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg/1920px-La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg",
+      "width": 1920,
+      "height": 1562,
+      "story": "Completed in 1642 at the peak of the Dutch Golden Age, this enormous canvas — 363 by 437 centimetres — transformed a routine group portrait of an Amsterdam civic militia company into a compelling drama energised by light and shadow. It depicts the company moving out, led by Captain Frans Banninck Cocq, dressed in black with a red sash, and his lieutenant Willem van Ruytenburch in yellow with a white sash. Its formal title is Militia Company of District II under the Command of Captain Frans Banninck Cocq.",
+      "funFacts": [
+        "The famous title is a misnomer — the painting does not depict a nocturnal scene at all.",
+        "It belongs to the Amsterdam Museum but is on permanent display at the Rijksmuseum as the best-known painting in its collection."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Night_Watch"
+    },
+    {
+      "id": "the-anatomy-lesson-of-dr-nicolaes-tulp",
+      "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "year": "1632",
+      "medium": "oil on canvas",
+      "location": "Mauritshuis, The Hague",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg/1920px-Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+      "width": 1920,
+      "height": 1446,
+      "story": "Painted in 1632 for the Surgeons Guild of Amsterdam to display in their meeting room, the picture shows Dr. Nicolaes Tulp, the official City Anatomist, explaining the musculature of the arm to a group of doctors — some of whom paid commissions to be included. The event can be dated precisely to 31 January 1632: the guild permitted only one public dissection a year, and the body had to be that of an executed criminal. Anatomy lessons of the day were social events held in actual theatres, open to students, colleagues and the paying public.",
+      "funFacts": [
+        "It is signed 'Rembrant. f 1632' — possibly the first time Rembrandt signed with his forename rather than his monogram RHL, a sign of growing confidence.",
+        "The painting is regarded as one of Rembrandt's early masterpieces, made when he was in his mid-twenties."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp"
+    },
+    {
+      "id": "self-portrait-with-two-circles",
+      "title": "Self-Portrait with Two Circles",
+      "year": "c. 1665–1669",
+      "medium": "oil on canvas",
+      "location": "Kenwood House, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rembrandt_Self-portrait_%28Kenwood%29.jpg/1920px-Rembrandt_Self-portrait_%28Kenwood%29.jpg",
+      "width": 1920,
+      "height": 2314,
+      "story": "One of more than 40 painted self-portraits by Rembrandt, this late work of c. 1665–1669 shows the artist at work, holding palette, brushes and maulstick, in a fur-lined robe and white hat. Behind him hangs the enigmatic background that gives the painting its name: a shallow space marked with the fragments of two circles, whose meaning is still debated. With one hand on his hip, Rembrandt appears confrontational, even defiant — a master solemnly asserting his genius.",
+      "funFacts": [
+        "X-rays show that Rembrandt originally depicted himself in the act of painting a canvas.",
+        "Rembrandt also made roughly as many self-portraits in other media as he did in paint."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Self-Portrait_with_Two_Circles"
+    },
+    {
+      "id": "the-storm-on-the-sea-of-galilee",
+      "title": "Christ in the Storm on the Sea of Galilee",
+      "year": "1633",
+      "medium": "oil on canvas",
+      "location": "Whereabouts unknown (stolen from the Isabella Stewart Gardner Museum, Boston, in 1990)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg/1920px-Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg",
+      "width": 1920,
+      "height": 2386,
+      "story": "This 1633 canvas, among the largest and earliest of Rembrandt's works, vividly portrays the biblical miracle in which Jesus calmed the storm on the Sea of Galilee, as told in the Gospel of Mark. A towering wave crashes against the bow and shreds the sail as the disciples battle to control the boat — one of them vomiting over the side. Purchased for Isabella Stewart Gardner in 1898, it was displayed in her Boston museum until its theft in 1990; its whereabouts remain unknown.",
+      "funFacts": [
+        "It is Rembrandt's only known seascape.",
+        "One disciple gazing directly at the viewer is a self-portrait of Rembrandt himself."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Storm_on_the_Sea_of_Galilee"
+    },
+    {
+      "id": "danae",
+      "title": "Danaë",
+      "year": "1636, reworked by 1643",
+      "medium": "oil on canvas",
+      "location": "Hermitage Museum, St. Petersburg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Rembrandt_Harmensz._van_Rijn_026.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Rembrandt_Harmensz._van_Rijn_026.jpg/1920px-Rembrandt_Harmensz._van_Rijn_026.jpg",
+      "width": 1920,
+      "height": 1729,
+      "story": "A life-sized depiction of Danaë from Greek mythology, mother of Perseus, shown welcoming Zeus, who came to her as a shower of gold. Rembrandt first completed it in 1636 and reworked it extensively by 1643 — changing the position of her head, outstretched arm and legs, and replacing the face of his wife Saskia, the original model, with that of his mistress Geertje Dircx. Once in Pierre Crozat's collection, it has hung in the Hermitage since the 18th century.",
+      "funFacts": [
+        "In 1985 the painting was seriously vandalised in the Hermitage, and it has since been restored.",
+        "The canvas has been considerably cut down from its original size, and its signature may not be genuine."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Rembrandt)"
+    },
+    {
+      "id": "bathsheba-at-her-bath",
+      "title": "Bathsheba at Her Bath",
+      "year": "1654",
+      "medium": "oil on canvas",
+      "location": "Musée du Louvre, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Rembrandt_Harmensz._van_Rijn_016.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rembrandt_Harmensz._van_Rijn_016.jpg/1920px-Rembrandt_Harmensz._van_Rijn_016.jpg",
+      "width": 1920,
+      "height": 1925,
+      "story": "Finished in 1654, this sensual and empathetic canvas shows Bathsheba at the moment of the Old Testament story in which King David, having seen her bathing, summons her — a letter in her hand, her face caught in moral dilemma. Earlier artists had painted David spying on Bathsheba, but Rembrandt's version differs in its tight focus and erotic vitality, achieved through broad, thick brushstrokes and vibrant colour. It came to the Louvre among the 583 works donated by Dr. Louis La Caze in 1869.",
+      "funFacts": [
+        "Kenneth Clark called it 'Rembrandt's greatest painting of the nude'.",
+        "Its insight into Bathsheba's dilemma has been described as 'one of the great achievements of western painting'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bathsheba_at_Her_Bath_(Rembrandt)"
+    },
+    {
+      "id": "the-jewish-bride",
+      "title": "The Jewish Bride",
+      "year": "c. 1665–1669",
+      "medium": "oil on canvas",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_%27Het_Joodse_bruidje%27_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_%27Het_Joodse_bruidje%27_-_Google_Art_Project.jpg/1920px-Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren%2C_genaamd_%27Het_Joodse_bruidje%27_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1400,
+      "story": "Painted around 1665–69, the picture received its name in the early 19th century when an Amsterdam collector identified it as a Jewish father bestowing a necklace on his daughter at her wedding — an interpretation no longer accepted. The couple's identity remains uncertain: suggestions range from Rembrandt's son Titus and his bride to Old Testament couples such as Isaac and Rebekah, the latter supported by an earlier drawing by the artist. What remains is the central, universal theme of a couple joined in love.",
+      "funFacts": [
+        "Technical evidence suggests Rembrandt first envisioned a larger, more elaborate composition.",
+        "Candidates for the sitters have included the Amsterdam poet Miguel de Barrios and his wife."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Jewish_Bride"
+    },
+    {
+      "id": "the-return-of-the-prodigal-son",
+      "title": "The Return of the Prodigal Son",
+      "year": "c. 1661–1669",
+      "medium": "oil on canvas",
+      "location": "Hermitage Museum, St. Petersburg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg/1920px-Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 2505,
+      "story": "Among Rembrandt's final works, likely completed within two years of his death in 1669, the painting depicts the moment in the Biblical parable when the prodigal son, wretched after wasting his inheritance, kneels before his father in repentance, and is received with a tender gesture of welcome. The father's two hands seem to suggest mothering and fathering at once — the left larger and more masculine on the son's shoulder, the right softer and more receptive.",
+      "funFacts": [
+        "Kenneth Clark wrote that those who have seen it 'may be forgiven for claiming it as the greatest picture ever painted'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Return_of_the_Prodigal_Son_(Rembrandt)"
+    },
+    {
+      "id": "belshazzars-feast",
+      "title": "Belshazzar's Feast",
+      "year": "c. 1635–1638",
+      "medium": "oil on canvas",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Rembrandt-Belsazar.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rembrandt-Belsazar.jpg/1920px-Rembrandt-Belsazar.jpg",
+      "width": 1920,
+      "height": 1529,
+      "story": "With this major canvas, painted between about 1635 and 1638, Rembrandt sought to establish himself as a painter of large Baroque history pictures. It shows the Old Testament story from the Book of Daniel: the Babylonian king Belshazzar, feasting from the golden cups his father looted from the Temple in Jerusalem, freezes as the hand of God writes on the wall 'mene, mene, tekel, u-farsin' — a prophecy that his kingdom is numbered, weighed and about to fall.",
+      "funFacts": [
+        "Rembrandt, who lived in Amsterdam's Jewish Quarter, took the form of the Hebrew inscription from a book by his friend, the learned rabbi and printer Menasseh ben Israel."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Belshazzar%27s_Feast_(Rembrandt)"
+    },
+    {
+      "id": "syndics-of-the-drapers-guild",
+      "title": "Syndics of the Drapers' Guild",
+      "year": "1662",
+      "medium": "oil on canvas",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_%28waardijns%29_van_het_Amsterdamse_lakenbereidersgilde_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_%28waardijns%29_van_het_Amsterdamse_lakenbereidersgilde_-_Google_Art_Project.jpg/1920px-Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_%28waardijns%29_van_het_Amsterdamse_lakenbereidersgilde_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1298,
+      "story": "This 1662 group portrait — described as Rembrandt's 'last great collective portrait' — shows five wardens of the Amsterdam cloth guild with their servant. The staalmeesters, or 'masters of samples', held unpaid honorary one-year terms beginning on Good Friday and inspected cloth three times a week, pressing seals into lead slugs to record four grades of quality. Remarkably for the era, the five were of different faiths: two Catholics, a Mennonite, a Remonstrant, and a Reformed Protestant.",
+      "funFacts": [
+        "The Dutch title De Staalmeesters comes from the 'staal', the test piece of fabric used to compare cloth batches.",
+        "The highest grade of cloth earned four pressed seals; the lowest got only one."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Syndics_of_the_Drapers%27_Guild"
+    }
+  ]
+}

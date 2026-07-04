@@ -1,0 +1,156 @@
+{
+  "artistId": "correggio",
+  "paintings": [
+    {
+      "id": "assumption-of-the-virgin-parma-cathedral",
+      "title": "Assumption of the Virgin",
+      "year": "1526–1530",
+      "medium": "fresco",
+      "location": "Parma Cathedral, Parma",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Cathedral_%28Parma%29_-_Assumption_by_Correggio.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cathedral_%28Parma%29_-_Assumption_by_Correggio.jpg/1920px-Cathedral_%28Parma%29_-_Assumption_by_Correggio.jpg",
+      "width": 1920,
+      "height": 1588,
+      "story": "Correggio signed the contract for this dome fresco on 3 November 1522, and it was finished in 1530. Below the feet of a foreshortened, beardless Christ descending from the centre of the dome, the Virgin in red and blue robes is lofted upward by a vortex of singing and music-making angels, while the perplexed Apostles ring the base of the dome as if standing around her empty tomb. The composition was influenced by Melozzo da Forlì's perspective and includes the four protector saints of Parma at the dome's base.",
+      "funFacts": [
+        "The Assumption became a catalyst and inspiration for the dramatically illusionistic 'di sotto in sù' ceiling painting of the Baroque.",
+        "Among the blessed, Correggio painted Adam and Eve and Judith with the head of Holofernes."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Correggio)"
+    },
+    {
+      "id": "vision-of-st-john-on-patmos",
+      "title": "Vision of St. John the Evangelist at Patmos",
+      "year": "1520–1522",
+      "medium": "fresco",
+      "location": "San Giovanni Evangelista, Parma",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/San_Giovanni_Evangelista_%28Parma%29_-_Dome.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/San_Giovanni_Evangelista_%28Parma%29_-_Dome.jpg/1920px-San_Giovanni_Evangelista_%28Parma%29_-_Dome.jpg",
+      "width": 1920,
+      "height": 1513,
+      "story": "Painted in 1520–1522, this fresco cycle fills the dome and pendentives of the Benedictine church of San Giovanni Evangelista in Parma. Concentric planes of clouds create an illusionistic space from which the apostles stretch out, thinning to a bright luminosity through which Christ descends toward the nave — a faithful rendering of the Book of Revelation. In the four pendentives Correggio paired the Four Evangelists with the Four Doctors of the Church.",
+      "funFacts": [
+        "The figure of St. John leaning from the drum of the dome was hidden from lay people in the church and visible only to the monks in the choir."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vision_of_St._John_on_Patmos"
+    },
+    {
+      "id": "jupiter-and-io",
+      "title": "Jupiter and Io",
+      "year": "c. 1530",
+      "medium": "oil on canvas",
+      "location": "Kunsthistorisches Museum, Vienna",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Antonio_Allegri%2C_called_Correggio_-_Jupiter_and_Io_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Antonio_Allegri%2C_called_Correggio_-_Jupiter_and_Io_-_Google_Art_Project.jpg/1920px-Antonio_Allegri%2C_called_Correggio_-_Jupiter_and_Io_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 4449,
+      "story": "Part of the series of Jupiter's Loves that Correggio painted for Duke Federico II Gonzaga of Mantua, conceived after the success of his Venus and Cupid with a Satyr. Vasari records that the duke wanted to donate the works to Emperor Charles V, and the presence of Jupiter and Io in Spain during the 16th century suggests it formed part of that imperial gift. The canvas shows the nymph Io embraced by Jupiter, who has taken the form of a cloud.",
+      "funFacts": [
+        "Vasari knew the series only from descriptions provided by Giulio Romano.",
+        "Art historian Cecil Gould suggested Federico commissioned the Io and Ganymede for himself, and they were ceded to Charles V only after the duke's death in 1540."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jupiter_and_Io"
+    },
+    {
+      "id": "danae",
+      "title": "Danaë",
+      "year": "c. 1531",
+      "medium": "oil on canvas",
+      "location": "Galleria Borghese, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Correggio%2C_danae%2C_1530-31%2C_01.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Correggio%2C_danae%2C_1530-31%2C_01.jpg/1920px-Correggio%2C_danae%2C_1530-31%2C_01.jpg",
+      "width": 1920,
+      "height": 1632,
+      "story": "Executed around 1531 for Duke Federico II Gonzaga of Mantua as part of the series portraying Jupiter's loves, perhaps destined for the Ovid Hall of the Palazzo Te. The canvas then led an extraordinarily wandering life: to Spain, Milan, the court of Emperor Rudolph II in Prague, Stockholm as war booty of Gustavus Adolphus, Rome with the abdicated Queen Christina, and on through the Orléans collection to England. Prince Camillo Borghese finally acquired it in Paris in 1827 for his Roman collection.",
+      "funFacts": [
+        "King Gustavus Adolphus of Sweden carried the painting from Prague to Stockholm as war booty, together with Correggio's Leda and the Swan.",
+        "Queen Christina of Sweden brought the canvas with her to Rome after abdicating her throne."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dana%C3%AB_(Correggio)"
+    },
+    {
+      "id": "leda-and-the-swan",
+      "title": "Leda and the Swan",
+      "year": "1530–1531",
+      "medium": "oil on canvas",
+      "location": "Gemäldegalerie, Berlin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Correggio_-_Leda_and_the_Swan_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Correggio_-_Leda_and_the_Swan_-_Google_Art_Project.jpg/1920px-Correggio_-_Leda_and_the_Swan_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1530,
+      "story": "Painted in 1530–31 as part of the Amori di Giove series for the Gonzaga court, the canvas tells Leda's story in three scenes: her first meeting with Jupiter in swan form on the right, their lovemaking in the centre, and the swan flying away as Leda dresses. Cupid with his bow and two flute-playing cupids accompany the scene. The series' importance lies in its new balance between naturalist rendering and poetic transfiguration in mythological painting.",
+      "funFacts": [
+        "The series consisted of two pairs of canvases of matching dimensions, and the precise order of the four works is still debated.",
+        "Leda and the Swan was a common subject in 16th-century art."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leda_and_the_Swan_(Correggio)"
+    },
+    {
+      "id": "adoration-of-the-shepherds",
+      "title": "Nativity (Adoration of the Shepherds)",
+      "year": "c. 1529–1530",
+      "medium": "oil on canvas",
+      "location": "Gemäldegalerie Alte Meister, Dresden",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Correggio_-_The_Holy_Night_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Correggio_-_The_Holy_Night_-_Google_Art_Project.jpg/1920px-Correggio_-_The_Holy_Night_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 2616,
+      "story": "Commissioned in October 1522 by Alberto Pratoneri for his family chapel in San Prospero, Reggio Emilia, and placed there in 1530, this nocturnal Nativity is famed as La Notte — The Holy Night. Following the trail blazed by Titian, Correggio painted the scene entirely by candlelight, achieving an outstanding chiaroscuro in which the light radiates from the Christ Child in Mary's arms. In 1640 Duke Francesco I d'Este absconded with the painting for his private gallery, in what was considered a minor sacrilege, and it was moved to Dresden in 1746.",
+      "funFacts": [
+        "The bearded shepherd repeats the pose of Jerome in Correggio's Madonna of St. Jerome.",
+        "The painting is known by three names: the Nativity, the Adoration of the Shepherds, and La Notte."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nativity_(Correggio)"
+    },
+    {
+      "id": "venus-and-cupid-with-a-satyr",
+      "title": "Venus and Cupid with a Satyr",
+      "year": "c. 1524–1527",
+      "medium": "oil on canvas",
+      "location": "Musée du Louvre, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/V%C3%A9nus_et_l%27Amour_d%C3%A9couverts_par_un_satyre%2C_Corr%C3%A8ge_%28Louvre_INV_42%29_02.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/V%C3%A9nus_et_l%27Amour_d%C3%A9couverts_par_un_satyre%2C_Corr%C3%A8ge_%28Louvre_INV_42%29_02.jpg",
+      "width": 1829,
+      "height": 2808,
+      "story": "The painting depicts Venus sleeping beside her son Cupid while a satyr is caught in the act of discovering the goddess. It has often also been read as Jupiter and Antiope, since according to Ovid Jupiter turned himself into a satyr to ravish the nymph. In the 16th century it belonged to Count Nicholas Maffei, and in the 17th century it passed into the collection of the Gonzaga family, relatives of the Maffei.",
+      "funFacts": [
+        "Its success inspired Correggio's celebrated series on the Loves of Jupiter.",
+        "The painting, or a copy, appears within Willem van Haecht's 1628 view of the gallery of Cornelis van der Geest."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Venus_and_Cupid_with_a_Satyr"
+    },
+    {
+      "id": "ganymede-abducted-by-the-eagle",
+      "title": "Ganymede Abducted by the Eagle",
+      "year": "c. 1531–1532",
+      "medium": "oil on canvas",
+      "location": "Kunsthistorisches Museum, Vienna",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Antonio_Allegri%2C_called_Correggio_-_The_Abduction_of_Ganymede_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Antonio_Allegri%2C_called_Correggio_-_The_Abduction_of_Ganymede_-_Google_Art_Project.jpg/1920px-Antonio_Allegri%2C_called_Correggio_-_The_Abduction_of_Ganymede_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 4421,
+      "story": "Painted around 1531–32 as part of the Loves of Jupiter series for Duke Federico II Gonzaga of Mantua, the canvas shows the shepherd boy Ganymede carried into the sky by Jupiter in the form of an eagle. Like Jupiter and Io, it was in Spain during the 16th century, implying it belonged to the group of works given to Emperor Charles V. Today it hangs with its companion in Vienna.",
+      "funFacts": [
+        "Vasari mentioned only two paintings of the series in the first edition of his Lives, knowing them from Giulio Romano's descriptions."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ganymede_Abducted_by_the_Eagle"
+    },
+    {
+      "id": "camera-di-san-paolo",
+      "title": "Camera di San Paolo",
+      "year": "completed 1520",
+      "medium": "fresco",
+      "location": "Former Monastery of San Paolo, Parma",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Correggio_013.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Correggio_013.jpg/1920px-Correggio_013.jpg",
+      "width": 1920,
+      "height": 1927,
+      "story": "Correggio frescoed the vault of the private chamber of Giovanna Piacenza, abbess of the wealthy Benedictine monastery of San Paolo in Parma, shortly after arriving in the city around 1519. Completed in 1520, the decoration shows the influence of Raphael's Vatican Stanze and perhaps Mantegna, and it opened the period in which Correggio became one of the most celebrated painters in Italy. Above the fireplace he painted the goddess Diana on a chariot drawn by deer, an allusion both to the abbess's personal qualities and to her coat of arms.",
+      "funFacts": [
+        "The vault became an immediate landmark of illusionistic painting, influencing local artists such as Parmigianino.",
+        "The fireplace bears the Latin warning 'IGNEM GLADIO NE FODIAS' — 'Do not disturb the flame with swords'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Camera_di_San_Paolo"
+    }
+  ]
+}

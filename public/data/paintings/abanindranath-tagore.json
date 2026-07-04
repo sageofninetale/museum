@@ -1,0 +1,176 @@
+{
+  "artistId": "abanindranath-tagore",
+  "paintings": [
+    {
+      "id": "bharat-mata",
+      "title": "Bharat Mata",
+      "year": "1905",
+      "medium": "watercolour on paper",
+      "location": "Victoria Memorial, Kolkata",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bharat_Mata_by_Abanindranath_Tagore.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bharat_Mata_by_Abanindranath_Tagore.jpg/960px-Bharat_Mata_by_Abanindranath_Tagore.jpg",
+      "width": 866,
+      "height": 1599,
+      "story": "Originally titled Banga Mata ('Mother Bengal') and later renamed Bharat Mata ('Mother India'), the painting depicts a saffron-clad woman, dressed like a sadhvi, holding a book, sheaves of paddy, a piece of white cloth and a rudraksha garland in her four hands. Painted during the Swadeshi movement that followed Lord Curzon's Partition of Bengal in 1905, it was the first illustrated depiction of the concept of Bharat Mata, based on the personification of the nation described by Bankim Chandra Chattopadhyay in his Anandamath.",
+      "funFacts": [
+        "The four objects she holds stand for knowledge, food, cloth and faith — the culture and economy of early twentieth-century India.",
+        "Her four hands evoke Hindu divine imagery, transforming the nation into a goddess.",
+        "It is one of the earliest visualizations of 'Mother India', painted with Swadeshi ideals during the independence movement."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bharat_Mata_(painting)"
+    },
+    {
+      "id": "the-passing-of-shah-jahan",
+      "title": "The Passing of Shah Jahan",
+      "year": "1902",
+      "medium": "miniature painting (watercolour on board)",
+      "location": "Victoria Memorial, Kolkata",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Abanindranath_Tagore_-_The_Passing_of_Shah_Jahan%2C_1902.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Abanindranath_Tagore_-_The_Passing_of_Shah_Jahan%2C_1902.jpg",
+      "width": 1186,
+      "height": 1685,
+      "story": "The dying Mughal emperor Shah Jahan turns on his deathbed to gaze at the distant Taj Mahal, his daughter Jahanara Begum seated at his feet. Introduced by his mentor E. B. Havell to old Mughal miniatures, Tagore fused their detailed manner with the traditional Indian artistic concept of bhava — emotion — in a scene drawn from the growing re-interest in Indian history under the British Raj. The painting helped establish Tagore as one of the best-known Indian artists of his time and helped launch a whole new movement of Indian-style painting.",
+      "funFacts": [
+        "It won a silver medal at the Delhi Durbar Exhibition of Arts and Crafts (1902–1903) and a gold medal at the Congress Industrial Exhibition of 1903.",
+        "After Tagore received public recognition for the work, many other artists began to incorporate the same themes and techniques."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Passing_of_Shah_Jahan"
+    },
+    {
+      "id": "journeys-end",
+      "title": "Journey's End",
+      "year": "1913",
+      "medium": "watercolour on paper",
+      "location": "National Gallery of Modern Art, New Delhi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Abanindranath_Tagore_-_Journey%27s_End_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Abanindranath_Tagore_-_Journey%27s_End_-_Google_Art_Project.jpg/1920px-Abanindranath_Tagore_-_Journey%27s_End_-_Google_Art_Project.jpg",
+      "width": 1600,
+      "height": 1068,
+      "story": "A camel sinks to the ground at sunset, its long labour over — one of the most poignant images of the Bengal school. Tagore believed that Western art was 'materialistic' in character and that India needed to return to its own traditions to recover its spiritual values; in works like this, the muted washes and expressive economy show the traditions of Indian painting adapted to a modern lyricism, touched by the influence of Whistler's Aestheticism.",
+      "funFacts": [
+        "Journey's End (1913) appears in Wikipedia's list of Tagore's major paintings.",
+        "In his later work Tagore incorporated elements of Chinese and Japanese calligraphic traditions, seeking a modern pan-Asian artistic tradition."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abanindranath_Tagore"
+    },
+    {
+      "id": "my-mother",
+      "title": "My Mother",
+      "year": "early 20th century",
+      "medium": "watercolour on paper",
+      "location": "National Gallery of Modern Art, New Delhi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Abanindranath_Tagore_-_My_Mother_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Abanindranath_Tagore_-_My_Mother_-_Google_Art_Project.jpg",
+      "width": 954,
+      "height": 1233,
+      "story": "Tagore's tender portrait of his mother carries the intimacy of the Jorasanko household in which he grew up. Born into the Tagore family of Calcutta, a nephew of the poet Rabindranath Tagore, Abanindranath was exposed from an early age to the artistic inclinations of his famous family, and the private world of its women and elders surfaces throughout his art.",
+      "funFacts": [
+        "The Tagore house at 5 Dwarakanath Tagore Lane connected, in his imagination, the 'white town' of the colonisers and the 'black town' of the natives.",
+        "After his death, his son bequeathed almost the entire family collection to the Rabindra Bharati Society, where the paintings long remained in storage."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abanindranath_Tagore"
+    },
+    {
+      "id": "ganesh-janani",
+      "title": "Ganesh Janani",
+      "year": "1908",
+      "medium": "watercolour on paper",
+      "location": "Rabindra Bharati Society, Kolkata",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ganesh_Janani.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ganesh_Janani.jpg",
+      "width": 923,
+      "height": 1799,
+      "story": "The goddess Parvati cradles her elephant-headed child Ganesha in a haze of golden wash — divinity recast as a Bengali mother and child. Around 1897 Tagore had developed his interest in Mughal art, producing works based on the life of Krishna in a Mughal-influenced style, and he went on to fuse such traditional Indian subjects with the wash techniques that became the signature of the Bengal school he founded.",
+      "funFacts": [
+        "Ganesh Janani (1908) appears in Wikipedia's list of Tagore's paintings.",
+        "Tagore's close students included Nandalal Bose, Asit Kumar Haldar, Mukul Dey and K. Venkatappa — the next generation of modern Indian painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abanindranath_Tagore"
+    },
+    {
+      "id": "asokas-queen",
+      "title": "Ashoka's Queen",
+      "year": "1910",
+      "medium": "watercolour on paper",
+      "location": "Bengal school (museum collections)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Asoka%27s_Queen.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Asoka%27s_Queen.jpg/1280px-Asoka%27s_Queen.jpg",
+      "width": 1206,
+      "height": 1600,
+      "story": "An empress of the Mauryan court stands amid flowering branches in Tagore's vision of ancient India, painted in 1910. Tagore advocated a nationalistic Indian art derived from Indian art history, drawing inspiration from the Ajanta Caves, and subjects from the Buddhist past — like the queen of the emperor Ashoka — let him picture an Indian golden age as a model for the present.",
+      "funFacts": [
+        "Ashoka's Queen (1910) appears in Wikipedia's list of Tagore's paintings.",
+        "Tagore's work was eventually accepted and promoted as a national Indian style within British art institutions."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abanindranath_Tagore"
+    },
+    {
+      "id": "white-peacock",
+      "title": "White Peacock",
+      "year": "1915–1916",
+      "medium": "watercolour on paper",
+      "location": "Bengal school (museum collections)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Abanindranath_Tagore_-_White_Peacock%2C_1915-16.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Abanindranath_Tagore_-_White_Peacock%2C_1915-16.jpg",
+      "width": 1698,
+      "height": 1178,
+      "story": "A white peacock spreads its pale train in one of Tagore's most delicate nature studies of the mid-1910s. By this period he had come into contact with Asian cultural figures such as the Japanese art historian Okakura Kakuzo and the painter Yokoyama Taikan, and was beginning to weave Chinese and Japanese calligraphic traditions into his art in search of a modern pan-Asian tradition merging Eastern spiritual and artistic cultures.",
+      "funFacts": [
+        "The Japanese painter Yokoyama Taikan's work was considered comparable to Tagore's own.",
+        "Scholars such as R. Siva Kumar argue the true measure of Tagore's talent lies in his under-seen works of the 1920s–1940s."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abanindranath_Tagore"
+    },
+    {
+      "id": "the-victory-of-buddha",
+      "title": "The Victory of Buddha",
+      "year": "1914",
+      "medium": "watercolour on paper",
+      "location": "Bengal school (museum collections)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Abanindranath_Tagore_-_The_Victory_of_Buddha%2C_1914.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Abanindranath_Tagore_-_The_Victory_of_Buddha%2C_1914.jpg/1280px-Abanindranath_Tagore_-_The_Victory_of_Buddha%2C_1914.jpg",
+      "width": 1099,
+      "height": 1600,
+      "story": "The Buddha sits serene in the moment of his victory over illusion, painted in 1914 at the height of the Bengal school's influence. Tagore and his followers advocated a nationalist Indian art drawing on Indian art history and the Ajanta Caves, and Buddhist subjects carried both spiritual weight and the memory of India's classical painting tradition.",
+      "funFacts": [
+        "Tagore was the first major exponent of Swadeshi values in Indian art.",
+        "He founded the Indian Society of Oriental Art in 1907 with the support of his brother Gaganendranath."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abanindranath_Tagore"
+    },
+    {
+      "id": "portrait-of-rabindranath-tagore",
+      "title": "Portrait of Rabindranath Tagore",
+      "year": "early 20th century",
+      "medium": "watercolour on paper",
+      "location": "Bengal school (museum collections)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Portrait_of_Rabindranath_Tagore_-_Abanindranath_Tagore.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Portrait_of_Rabindranath_Tagore_-_Abanindranath_Tagore.jpg/1280px-Portrait_of_Rabindranath_Tagore_-_Abanindranath_Tagore.jpg",
+      "width": 1091,
+      "height": 1600,
+      "story": "Abanindranath portrays his uncle, the poet Rabindranath Tagore, whose 1913 Nobel Prize for Literature brought the family international renown — fame that helped make Abanindranath's own artistic projects better known in the West. The two Tagores stood at the centre of the Bengal Renaissance, one remaking Indian literature while the other remade its painting.",
+      "funFacts": [
+        "Rabindranath's English Gitanjali was published after he stayed at the London home of Abanindranath's friend, the artist William Rothenstein.",
+        "In the early 1890s Abanindranath's illustrations appeared in Sadhana magazine and in Rabindranath's Chitrangada."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abanindranath_Tagore"
+    },
+    {
+      "id": "dewali-feast-of-lamps",
+      "title": "Dewali (The Feast of Lamps)",
+      "year": "1907",
+      "medium": "watercolour on paper",
+      "location": "Bengal school (museum collections)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dewali%2C_or_the_Feast_of_Lamps_-_Abanindranath_Tagore.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Dewali%2C_or_the_Feast_of_Lamps_-_Abanindranath_Tagore.jpg/1280px-Dewali%2C_or_the_Feast_of_Lamps_-_Abanindranath_Tagore.jpg",
+      "width": 1186,
+      "height": 1600,
+      "story": "A woman raises a lamp into the darkness of the festival night in this luminous nocturne, listed among Tagore's paintings as The Feast of Lamps (1907). The glowing wash of light against enveloping shadow shows the atmospheric technique of the Bengal school at its most seductive, turning an everyday devotional moment into a meditation on light itself.",
+      "funFacts": [
+        "The Feast of Lamps (1907) appears in Wikipedia's list of Tagore's paintings.",
+        "Tagore became chancellor of Visva Bharati, the university founded by his uncle Rabindranath, in 1942."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abanindranath_Tagore"
+    }
+  ]
+}

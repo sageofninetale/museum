@@ -1,0 +1,174 @@
+{
+  "artistId": "peter-paul-rubens",
+  "paintings": [
+    {
+      "id": "the-descent-from-the-cross",
+      "title": "The Descent from the Cross",
+      "year": "1612–1614",
+      "medium": "oil on panel",
+      "location": "Cathedral of Our Lady, Antwerp",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Peter_Paul_Rubens_-_The_Descent_from_the_Cross_%28Antwerp_Cathedral%29.%2C_c._1613.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Peter_Paul_Rubens_-_The_Descent_from_the_Cross_%28Antwerp_Cathedral%29.%2C_c._1613.jpg/1920px-Peter_Paul_Rubens_-_The_Descent_from_the_Cross_%28Antwerp_Cathedral%29.%2C_c._1613.jpg",
+      "width": 1920,
+      "height": 2611,
+      "story": "The central panel of a triptych commissioned on 7 September 1611 by the Confraternity of the Arquebusiers, whose patron saint was St. Christopher, the painting still hangs in its original place in Antwerp's Cathedral of Our Lady. It depicts the solemn, ritualistic lowering of Christ's body from the cross into the arms of the believers — a subject Rubens returned to again and again. Rooted in the Italian tradition of Michelangelo and the Mannerists, it is considered one of Rubens' masterpieces.",
+      "funFacts": [
+        "In 1794 the occupying French army carried the painting off, together with The Elevation of the Cross.",
+        "Rubens painted it fresh from eight years in Italy, transforming Italian models into something newly solemn."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Descent_from_the_Cross_(Rubens,_1612%E2%80%931614)"
+    },
+    {
+      "id": "the-elevation-of-the-cross",
+      "title": "The Elevation of the Cross",
+      "year": "1610–1611",
+      "medium": "oil on panel",
+      "location": "Cathedral of Our Lady, Antwerp",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Peter_Paul_Rubens_-_Raising_of_the_Cross_%28Antwerp_Cathedral%29.JPG",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Peter_Paul_Rubens_-_Raising_of_the_Cross_%28Antwerp_Cathedral%29.JPG/1920px-Peter_Paul_Rubens_-_Raising_of_the_Cross_%28Antwerp_Cathedral%29.JPG",
+      "width": 1920,
+      "height": 1380,
+      "story": "Painted in Antwerp in 1610–1611 for the high altar of the St. Walburga Church, this large winged altarpiece was Rubens' first important religious commission after returning from his long stay in Italy in late 1608. The central panel shows muscular, straining men heaving up the cross on which Jesus is nailed. The triptych introduced large-scale Baroque painting into Flemish art and established Rubens as the leading painter in Flanders.",
+      "funFacts": [
+        "The hinged wings fold over the central panel, giving the altarpiece an 'open view' and a 'closed view'.",
+        "It now hangs in the Cathedral of Our Lady in Antwerp, near its counterpart The Descent from the Cross."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Elevation_of_the_Cross_(Rubens)"
+    },
+    {
+      "id": "the-garden-of-love",
+      "title": "The Garden of Love",
+      "year": "c. 1633",
+      "medium": "oil on canvas",
+      "location": "Museo del Prado, Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/El_Jard%C3%ADn_del_Amor_%28Rubens%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/El_Jard%C3%ADn_del_Amor_%28Rubens%29.jpg/1920px-El_Jard%C3%ADn_del_Amor_%28Rubens%29.jpg",
+      "width": 1920,
+      "height": 1325,
+      "story": "Produced around 1633, this canvas shows a large company of finely dressed 17th-century figures lounging at the edge of an idyllic garden while cupids flutter among them, weaving mythology into a real courtly scene. It is the apotheosis of the outdoor 'Merry Company' genre and anticipates the French fête champêtre of the next century. By 1666 it hung in the Spanish king's bedroom in the Royal Palace of Madrid.",
+      "funFacts": [
+        "In early inventories the painting was called The Garden Party.",
+        "The scene is filled with symbols of matrimonial love, beginning with the pairs of cupids."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Garden_of_Love_(Rubens)"
+    },
+    {
+      "id": "massacre-of-the-innocents",
+      "title": "Massacre of the Innocents",
+      "year": "c. 1611–1612",
+      "medium": "oil on canvas",
+      "location": "Art Gallery of Ontario, Toronto",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Rubens_-_Massacre_of_the_Innocents_-_Art_Gallery_of_Ontario_2.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Rubens_-_Massacre_of_the_Innocents_-_Art_Gallery_of_Ontario_2.jpg/1920px-Rubens_-_Massacre_of_the_Innocents_-_Art_Gallery_of_Ontario_2.jpg",
+      "width": 1920,
+      "height": 1487,
+      "story": "Painted around 1611–12, soon after Rubens returned to Antwerp from eight years in Italy, the canvas depicts the biblical Massacre of the Innocents of Bethlehem from the Gospel of Matthew. Around 1700 the Forchondt brothers sold it, together with Rubens' Samson and Delilah, to Hans-Adam I, Prince of Liechtenstein, and the two paintings hung side by side in the Garden Palace in Vienna in the 19th century.",
+      "funFacts": [
+        "For generations its authorship was lost: a 1767 catalogue listed it as Franciscus de Neve, and a 1780 inventory gave it to Rubens' assistant Jan van den Hoecke."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Massacre_of_the_Innocents_(Rubens)"
+    },
+    {
+      "id": "marie-de-medici-cycle",
+      "title": "The Disembarkation at Marseilles (Marie de' Medici cycle)",
+      "year": "1622–1624",
+      "medium": "oil on canvas",
+      "location": "Musée du Louvre, Paris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Le_D%C3%A9barquement_de_la_reine_%C3%A0_Marseille%2C_le_3_novembre_1600_-_Pierre_Paul_Rubens_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1774_%3B_MR_965.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Le_D%C3%A9barquement_de_la_reine_%C3%A0_Marseille%2C_le_3_novembre_1600_-_Pierre_Paul_Rubens_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1774_%3B_MR_965.jpg/1920px-Le_D%C3%A9barquement_de_la_reine_%C3%A0_Marseille%2C_le_3_novembre_1600_-_Pierre_Paul_Rubens_-_Mus%C3%A9e_du_Louvre_Peintures_INV_1774_%3B_MR_965.jpg",
+      "width": 1920,
+      "height": 2417,
+      "story": "In the autumn of 1621 Marie de' Medici, widow of King Henry IV of France, commissioned Rubens to paint a monumental cycle of twenty-four canvases for her Luxembourg Palace in Paris; twenty-one depict her own struggles and triumphs. In the Disembarkation, Marie arrives at Marseilles after her proxy marriage to Henry IV, greeted by the open arms of a personified France, while Fame flies overhead and sea gods churn in the foam below. Rubens turned an ordinary disembarkation 'into something of unprecedented magnificence'.",
+      "funFacts": [
+        "Marie actually walked up the gangplank, not down — Rubens reversed it to create a diagonal composition.",
+        "The whole cycle of twenty-four paintings now hangs in the Louvre."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marie_de%27_Medici_cycle"
+    },
+    {
+      "id": "the-three-graces",
+      "title": "The Three Graces",
+      "year": "1630–1635",
+      "medium": "oil",
+      "location": "Museo del Prado, Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_Three_Graces%2C_by_Peter_Paul_Rubens%2C_from_Prado_in_Google_Earth.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/The_Three_Graces%2C_by_Peter_Paul_Rubens%2C_from_Prado_in_Google_Earth.jpg/1920px-The_Three_Graces%2C_by_Peter_Paul_Rubens%2C_from_Prado_in_Google_Earth.jpg",
+      "width": 1920,
+      "height": 2340,
+      "story": "Rubens kept this painting of the Three Graces in his personal collection until his death, after which it was purchased by King Philip IV of Spain. In 1666 it entered the Royal Alcázar of Madrid, and it now hangs in the Museo del Prado. Rubens painted other variations on the theme of the Three Graces during his career.",
+      "funFacts": [
+        "The canvas measures 221 by 181 centimetres.",
+        "It stayed with the artist until he died in 1640 — a picture Rubens painted for himself."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Three_Graces_(Rubens,_Madrid)"
+    },
+    {
+      "id": "prometheus-bound",
+      "title": "Prometheus Bound",
+      "year": "c. 1611–1612",
+      "medium": "oil on canvas",
+      "location": "Philadelphia Museum of Art, Philadelphia",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rubens_-_Prometheus_Bound.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rubens_-_Prometheus_Bound.jpg",
+      "width": 1298,
+      "height": 1500,
+      "story": "Influenced by the Greek tragedy of Prometheus, Rubens painted the chained Titan tormented by an eagle — the bird itself rendered by his collaborator Frans Snyders, a specialist in animals. The picture remained in Rubens' possession from 1612 to 1618, when he traded it in a group of paintings to the English diplomat Sir Dudley Carleton in exchange for Carleton's collection of classical statues.",
+      "funFacts": [
+        "The eagle devouring Prometheus' liver was painted not by Rubens but by Frans Snyders.",
+        "Rubens valued it enough to keep it for six years before trading it for antique sculpture."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prometheus_Bound_(Rubens)"
+    },
+    {
+      "id": "consequences-of-war",
+      "title": "Consequences of War",
+      "year": "1638–1639",
+      "medium": "oil on canvas",
+      "location": "Palazzo Pitti, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Peter_Paul_Rubens_%E2%80%93_Consequences_of_War_%281638%29.png",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peter_Paul_Rubens_%E2%80%93_Consequences_of_War_%281638%29.png/1920px-Peter_Paul_Rubens_%E2%80%93_Consequences_of_War_%281638%29.png",
+      "width": 1920,
+      "height": 1156,
+      "story": "Executed in 1638–39 for Ferdinando II de' Medici, this late allegory is Rubens' commentary on a European continent ravaged by the Thirty Years' War. Mars, red-caped and armoured, charges across the canvas as a book and a drawing are trampled beneath his feet — the arts and letters destroyed in the chaos of war — while at the far left the Temple of Janus stands with its door ajar, the ancient Roman signal of wartime.",
+      "funFacts": [
+        "In ancient Rome the Temple of Janus was closed in times of peace; Rubens paints its door open.",
+        "The work is also known as the Horror of War."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Consequences_of_War"
+    },
+    {
+      "id": "the-honeysuckle-bower",
+      "title": "The Honeysuckle Bower",
+      "year": "c. 1609",
+      "medium": "oil on canvas",
+      "location": "Alte Pinakothek, Munich",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Peter_Paul_Rubens_-_Rubens_and_Isabella_Brant_in_the_honeysuckle_bower.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Peter_Paul_Rubens_-_Rubens_and_Isabella_Brant_in_the_honeysuckle_bower.jpg/1920px-Peter_Paul_Rubens_-_Rubens_and_Isabella_Brant_in_the_honeysuckle_bower.jpg",
+      "width": 1920,
+      "height": 2554,
+      "story": "Rubens painted this full-length double portrait of himself and his first wife Isabella Brant around 1609, the year they wed. Seated in fine clothes beneath a bower of honeysuckle, the couple hold right hands in the dextrarum iunctio, an old gesture of marriage, within a 'garden of love' setting. The picture was given to Isabella's father Jan Brant and later entered the collection of Johann Wilhelm II of Düsseldorf.",
+      "funFacts": [
+        "The couple were married for seventeen years and had three children before Isabella's death in 1625, a loss that affected Rubens profoundly.",
+        "The clasped right hands are a traditional symbol of marriage known as dextrarum iunctio."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Honeysuckle_Bower"
+    },
+    {
+      "id": "samson-and-delilah",
+      "title": "Samson and Delilah",
+      "year": "c. 1609–1610",
+      "medium": "oil on wood",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Samson_and_Delilah_by_Rubens.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Samson_and_Delilah_by_Rubens.jpg/1920px-Samson_and_Delilah_by_Rubens.jpg",
+      "width": 1920,
+      "height": 1738,
+      "story": "Dating from about 1609–10, the panel captures the moment when Samson, asleep on Delilah's lap, has his hair cut by a young man whose crossed hands signal betrayal, while an old woman holds a candle and Philistine soldiers wait in the doorway. In the niche behind Delilah stands a statue of Venus and Cupid — with Cupid's mouth, unusually, bound — an emblem of the love that caused Samson's fate.",
+      "funFacts": [
+        "Two preliminary versions survive: an oil sketch in the Cincinnati Art Museum and an ink-and-wash drawing in a private collection.",
+        "The painting has been 'long attributed' to Rubens — its attribution has been a subject of discussion."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samson_and_Delilah_(Rubens)"
+    }
+  ]
+}

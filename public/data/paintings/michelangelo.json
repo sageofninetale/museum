@@ -1,0 +1,283 @@
+{
+  "artistId": "michelangelo",
+  "paintings": [
+    {
+      "id": "creation-of-adam",
+      "title": "The Creation of Adam",
+      "year": "c. 1512",
+      "medium": "fresco",
+      "location": "Sistine Chapel, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/1920px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg",
+      "width": 1600,
+      "height": 726,
+      "story": "Pope Julius II originally commissioned Michelangelo to paint the Twelve Apostles on the ceiling's supports, but the artist persuaded the pope to approve a far more complex scheme of his own spanning the Creation, the Fall of Man and the promise of salvation. Chronologically the fourth of the nine Genesis panels, the fresco shows God imparting the spark of life to Adam, whose mirrored pose recalls that man was made in God's image. It has become one of the most replicated religious paintings of all time.",
+      "funFacts": [
+        "The index fingers of God and Adam are separated by a gap of about 1.9 centimetres, which some scholars read as the unattainability of divine perfection by man.",
+        "According to Condivi's account, Bramante pushed the reluctant sculptor toward fresco — a medium unfamiliar to him — hoping he would fail; Michelangelo instead covered more than 500 square metres with over 300 figures.",
+        "The figure sheltered under God's left arm is widely interpreted, following the critic Walter Pater, as Eve awaiting her creation."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Creation_of_Adam"
+    },
+    {
+      "id": "separation-of-light-from-darkness",
+      "title": "Separation of Light from Darkness",
+      "year": "1512",
+      "medium": "fresco",
+      "location": "Sistine Chapel, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Michelangelo_Buonarroti_019.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Michelangelo_Buonarroti_019.jpg/1280px-Michelangelo_Buonarroti_019.jpg",
+      "width": 1189,
+      "height": 1600,
+      "story": "Though it opens the Genesis cycle, this was the last of the nine central panels Michelangelo painted, completed in the summer of 1512 at the very end of the four-year project. God rises into the sky in contrapposto, dividing light from darkness as told in the first verses of Genesis, rendered with the sotto in su foreshortening that makes the figure appear to soar above the viewer. Vasari held the panel up as proof of the painter's technical prowess at its peak.",
+      "funFacts": [
+        "Michelangelo is reported to have painted the entire fresco in a single giornata — one working day of roughly eight hours.",
+        "The ceiling was painted in two halves, entrance end first, so the story's opening scene was painted last.",
+        "Art historians note that God's neck anatomy is unusually complex and appears lit from a different direction from the rest of the scene."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Separation_of_Light_from_Darkness"
+    },
+    {
+      "id": "creation-of-the-sun-moon-and-plants",
+      "title": "The Creation of the Sun, Moon and Plants",
+      "year": "c. 1511–1512",
+      "medium": "fresco",
+      "location": "Sistine Chapel, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Michelangelo_-_Creation_of_Sun_Moon_and_Planets.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Michelangelo_-_Creation_of_Sun_Moon_and_Planets.jpg/1920px-Michelangelo_-_Creation_of_Sun_Moon_and_Planets.jpg",
+      "width": 1600,
+      "height": 974,
+      "story": "The central and largest of the ceiling's three creation scenes contains two representations of God: on the Third Day he creates the Earth and makes it sprout plants, and on the Fourth Day he sets the Sun and the Moon in place to govern the day, the night and the seasons of the year. These creation panels, completed in the final stage of painting, are described as the most broadly conceived, most broadly painted and most dynamic of all the ceiling's pictures.",
+      "funFacts": [
+        "The panel compresses two days of creation into a single image, with God appearing twice.",
+        "Michelangelo executed the nine Genesis scenes in reverse chronological order, so the days of creation were painted at the end of the project."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling"
+    },
+    {
+      "id": "the-great-flood",
+      "title": "The Great Flood",
+      "year": "c. 1508–1510",
+      "medium": "fresco",
+      "location": "Sistine Chapel, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/El_Diluvio.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/El_Diluvio.jpg/1920px-El_Diluvio.jpg",
+      "width": 1600,
+      "height": 1067,
+      "story": "Noah's Ark floats at the rear of the picture while the rest of humanity scrambles frantically for some point of safety from the rising waters. Michelangelo began the ceiling at the entrance end with the Noah scenes and worked backwards through the Genesis narrative, so this crowded panel — the central and larger scene of the Noah group — was painted in the first campaign of 1508 to 1510.",
+      "funFacts": [
+        "A lightning bolt, which according to Condivi illustrated God's wrath, was smitten from the ceiling when the chapel was damaged in 1797.",
+        "Because the scenes were painted in reverse order, some interpretations of the whole vault, like Charles de Tolnay's, begin their reading with the Noah panels."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling"
+    },
+    {
+      "id": "delphic-sibyl",
+      "title": "Delphic Sibyl",
+      "year": "c. 1508–1512",
+      "medium": "fresco",
+      "location": "Sistine Chapel, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Michelangelo_-_Delphic_Sibyl.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Michelangelo_-_Delphic_Sibyl.jpg/1280px-Michelangelo_-_Delphic_Sibyl.jpg",
+      "width": 1066,
+      "height": 1600,
+      "story": "Alongside seven prophets of Israel, Michelangelo painted five sibyls — prophetic women of the classical world — as heralds of the coming of Christ. The Delphic Sibyl, the ancient oracle said to have been venerated at Delphi since before the Trojan War, enjoyed a Renaissance revival because of a prophecy believed to foreshadow Christ: a saviour who would be misjudged and shamed by unbelievers with a crown of thorns. Michelangelo placed her opposite the Drunkenness of Noah, a scene also read as prefiguring the shaming of Christ.",
+      "funFacts": [
+        "Pausanias dated the Delphic Sibyl to as early as the eleventh century BC, predating the famous Pythia, priestess of Apollo.",
+        "After her death she was said to have become a wandering voice that still brought tidings of the future wrapped in dark riddles."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Delphic_Sibyl"
+    },
+    {
+      "id": "libyan-sibyl",
+      "title": "Libyan Sibyl",
+      "year": "c. 1508–1512",
+      "medium": "fresco",
+      "location": "Sistine Chapel, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sibila_L%C3%ADbica.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sibila_L%C3%ADbica.jpg/1280px-Sibila_L%C3%ADbica.jpg",
+      "width": 1068,
+      "height": 1600,
+      "story": "The Libyan Sibyl was the prophetic priestess presiding over the oracle of Zeus-Ammon at the Siwa Oasis in the Libyan Desert. In classical mythology she foretold 'the coming of the day when that which is hidden shall be revealed', and the Greeks held that she was the first woman to chant oracles. Michelangelo painted her among the five sibyls of the ceiling, where the pagan prophetesses join the prophets of Israel in prophesying the coming of Jesus.",
+      "funFacts": [
+        "A red chalk sketch found in the United States was identified at Christie's as Michelangelo's study for the right foot of this sibyl and sold in 2026 for $23 million.",
+        "Plutarch tells that Alexander the Great marched to her oracle at Siwa, where he was confirmed as a divine personage and the legitimate pharaoh of Egypt."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Libyan_Sibyl"
+    },
+    {
+      "id": "cumaean-sibyl",
+      "title": "Cumaean Sibyl",
+      "year": "c. 1508–1512",
+      "medium": "fresco",
+      "location": "Sistine Chapel, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%27Cumaean_Sibyl_Sistine_Chapel_ceiling%27_by_Michelangelo_JBU35.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/%27Cumaean_Sibyl_Sistine_Chapel_ceiling%27_by_Michelangelo_JBU35.jpg/1280px-%27Cumaean_Sibyl_Sistine_Chapel_ceiling%27_by_Michelangelo_JBU35.jpg",
+      "width": 1067,
+      "height": 1601,
+      "story": "The Cumaean Sibyl presided over the oracle of Apollo at Cumae, a Greek colony near Naples, and through her role in Virgil's Aeneid — where she guides Aeneas into the underworld — became the most famous sibyl among the Romans. On the Sistine Chapel ceiling her powerful presence is said to overshadow every other sibyl, even her younger and more beautiful sisters such as the Delphic Sibyl, and she is counted among the most famous paintings of the whole vault.",
+      "funFacts": [
+        "Legend says she offered nine books of prophecy to King Tarquin of Rome, burning three each time he refused her price, until he bought the last three at the original price — the origin of Rome's Sibylline Books.",
+        "In the Aeneid she wrote her prophecies on oak leaves; if the wind scattered them, she would not help reassemble the original prophecy."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cumaean_Sibyl"
+    },
+    {
+      "id": "prophet-jeremiah",
+      "title": "The Prophet Jeremiah",
+      "year": "c. 1508–1512",
+      "medium": "fresco",
+      "location": "Sistine Chapel, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%D0%9F%D1%80%D0%BE%D1%80%D0%BE%D0%BA_%D0%98%D0%B5%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%2C_%D0%9C%D0%B8%D0%BA%D0%B5%D0%BB%D0%B0%D0%BD%D0%B6%D0%B5%D0%BB%D0%BE_%D0%91%D1%83%D0%BE%D0%BD%D0%B0%D1%80%D0%BE%D1%82%D1%82%D0%B8.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%D0%9F%D1%80%D0%BE%D1%80%D0%BE%D0%BA_%D0%98%D0%B5%D1%80%D0%B5%D0%BC%D0%B8%D1%8F%2C_%D0%9C%D0%B8%D0%BA%D0%B5%D0%BB%D0%B0%D0%BD%D0%B6%D0%B5%D0%BB%D0%BE_%D0%91%D1%83%D0%BE%D0%BD%D0%B0%D1%80%D0%BE%D1%82%D1%82%D0%B8.jpg",
+      "width": 1411,
+      "height": 1666,
+      "story": "One of the seven Old Testament prophets on the ceiling, Jeremiah sits first on the left from the side of the High Altar, lost in anguished meditation. Though the fresco portrays him lamenting the Destruction of Jerusalem, critics have long read the brooding figure as a self-portrait of Michelangelo — lamenting the weight of his sins, or bemoaning being forced by Julius II to paint when he wished to sculpt. During the four years on the ceiling the artist fled Rome for his native Florence more than once.",
+      "funFacts": [
+        "Raphael is said to have copied this self-portrait for his Michelangelo/Heraclitus in The School of Athens, even giving the figure the boots Michelangelo famously seldom removed.",
+        "The critic Roger Fry used the Jeremiah to show how mass and space alone can produce 'powerful sentiments of reverence and awe'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prophet_Jeremiah_(Michelangelo)"
+    },
+    {
+      "id": "prophet-jonah",
+      "title": "The Prophet Jonah",
+      "year": "c. 1508–1512",
+      "medium": "fresco",
+      "location": "Sistine Chapel, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Michelangelo_Buonarroti_030.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Michelangelo_Buonarroti_030.jpg/1280px-Michelangelo_Buonarroti_030.jpg",
+      "width": 1267,
+      "height": 1600,
+      "story": "Michelangelo gave Jonah the position of honour directly above the High Altar. Art historians read this prime placement as deliberate: the prophet who spent three days inside a great fish before being miraculously restored was seen as prefiguring Christ's death and resurrection. Behind the twisting figure Michelangelo painted the great fish itself — a tarpon.",
+      "funFacts": [
+        "Jonah sits opposite the fresco of the prophet Zechariah at the far end of the ceiling.",
+        "The ceiling project containing him is described as one that changed the course of Western art and ranks among the major artistic accomplishments of human civilization."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prophet_Jonah_(Michelangelo)"
+    },
+    {
+      "id": "the-last-judgment",
+      "title": "The Last Judgment",
+      "year": "1536–1541",
+      "medium": "fresco",
+      "location": "Sistine Chapel (altar wall), Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Last_Judgement_%28Michelangelo%29.jpg/1920px-Last_Judgement_%28Michelangelo%29.jpg",
+      "width": 1453,
+      "height": 1600,
+      "story": "A quarter century after finishing the ceiling, Michelangelo returned to cover the chapel's entire altar wall with the Second Coming of Christ and the final judgment of all humanity. Begun under Pope Clement VII and completed under Pope Paul III, it took over four years; the artist was nearly 67 at its unveiling in 1541. Its more than 300 figures — nearly all the males and angels originally nude — drew both praise and fierce criticism, and painted draperies were later added over many of them.",
+      "funFacts": [
+        "St Bartholomew holds his own flayed skin, and the face on it is usually recognised as a self-portrait of Michelangelo.",
+        "Minos, supervising the entrance to Hell, was given the features of Biagio da Cesena, a critic of Michelangelo at the papal court.",
+        "Christ appears beardless, compounded from antique conceptions of Hercules, Apollo and Jupiter."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Last_Judgment_(Michelangelo)"
+    },
+    {
+      "id": "doni-tondo",
+      "title": "Doni Tondo",
+      "year": "c. 1507",
+      "medium": "oil and tempera on panel",
+      "location": "Uffizi, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Tondo_Doni_2021.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tondo_Doni_2021.jpg/1920px-Tondo_Doni_2021.jpg",
+      "width": 1600,
+      "height": 1600,
+      "story": "The only finished panel painting by the mature Michelangelo to survive, this round tondo of the Holy Family was commissioned by the Florentine merchant Agnolo Doni, probably to commemorate his marriage to Maddalena Strozzi or the birth of their daughter. Completed before Michelangelo began the Sistine ceiling, its sculptural figures and bright cangiante colours foreshadow the frescoes to come, and the enigmatic nude youths in the background are precursors of the ceiling's ignudi.",
+      "funFacts": [
+        "It still sits in its original carved frame — which Michelangelo may have helped design — complete with five heads that protrude three-dimensionally into space.",
+        "It is believed to be the only existing panel picture Michelangelo painted without assistants, and its attribution has never been questioned.",
+        "The composition was likely influenced in part by Leonardo's cartoon for The Virgin and Child with St Anne, which Michelangelo saw in Florence in 1501."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Doni_Tondo"
+    },
+    {
+      "id": "the-entombment",
+      "title": "The Entombment",
+      "year": "c. 1500–1501",
+      "medium": "oil on panel",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Entombment_Michelangelo.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Entombment_Michelangelo.jpg/1920px-Entombment_Michelangelo.jpg",
+      "width": 1471,
+      "height": 1601,
+      "story": "This unfinished panel of Christ's dead body being carried up to the sepulchre is linked to a 1500 commission for a funerary chapel in the Roman church of Sant'Agostino — a commission whose payment Michelangelo eventually gave back. It was probably abandoned when he returned to Florence in 1501, where he undertook to carve the block of marble that became the David. The National Gallery bought it in 1868 from a Scottish photographer resident in Rome.",
+      "funFacts": [
+        "The blank area at the bottom right was reserved for the kneeling Virgin Mary, whose cloak would have required quantities of the expensive blue pigment ultramarine — a possible reason the picture was never finished.",
+        "Christ is carried upright rather than horizontally, a novel composition that may allude to his imminent bodily resurrection.",
+        "Before being accepted as a Michelangelo, it was assigned to an anonymous 'Master of the Manchester Madonna'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Entombment_(Michelangelo)"
+    },
+    {
+      "id": "manchester-madonna",
+      "title": "Manchester Madonna",
+      "year": "c. 1497",
+      "medium": "tempera on panel",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/MICHELANGELO_-_Manchester_Madonna_adjusted.JPG",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/MICHELANGELO_-_Manchester_Madonna_adjusted.JPG/1280px-MICHELANGELO_-_Manchester_Madonna_adjusted.JPG",
+      "width": 1181,
+      "height": 1600,
+      "story": "This unfinished Madonna and Child with St John and angels dates from Michelangelo's first period in Rome and takes its nickname from the Art Treasures Exhibition in Manchester in 1857, where it first came to public attention. Its attribution to Michelangelo was doubted for much of the nineteenth and twentieth centuries, but most scholars are now in agreement. The frieze-like arrangement of the figures against a plain expanse of sky reveals the mindset of a sculptor.",
+      "funFacts": [
+        "The Virgin's robe is black because the rich blue lapis lazuli meant to cover it was never applied, and two angels on the left remain mere ghosts of green underpaint.",
+        "It is one of only three surviving panel paintings attributed to Michelangelo, per its Wikipedia article."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manchester_Madonna"
+    },
+    {
+      "id": "the-torment-of-saint-anthony",
+      "title": "The Torment of Saint Anthony",
+      "year": "c. 1487–1488",
+      "medium": "oil and tempera on panel",
+      "location": "Kimbell Art Museum, Fort Worth, Texas",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Michelangelo_Buonarroti_-_The_Torment_of_Saint_Anthony_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Michelangelo_Buonarroti_-_The_Torment_of_Saint_Anthony_-_Google_Art_Project.jpg/1280px-Michelangelo_Buonarroti_-_The_Torment_of_Saint_Anthony_-_Google_Art_Project.jpg",
+      "width": 1170,
+      "height": 1600,
+      "story": "If the disputed attribution holds, this is Michelangelo's earliest surviving work, painted when he was 12 or 13 as a copy of Martin Schongauer's engraving of Saint Anthony ambushed in mid-air by demons. Bought at Sotheby's in 2008 for two million dollars as a work of Domenico Ghirlandaio's workshop, it was cleaned and examined at the Metropolitan Museum of Art, reattributed to the young Michelangelo, and soon acquired by the Kimbell for a sum believed to exceed six million.",
+      "funFacts": [
+        "Condivi recorded that the boy went to a market to draw fish scales — a feature absent from Schongauer's original engraving.",
+        "Vasari states Michelangelo painted a copy of Schongauer's print, though experts disagree on whether this is that painting.",
+        "It is one of only four surviving panel paintings attributed to Michelangelo."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Torment_of_Saint_Anthony"
+    },
+    {
+      "id": "the-conversion-of-saul",
+      "title": "The Conversion of Saul",
+      "year": "c. 1542–1545",
+      "medium": "fresco",
+      "location": "Pauline Chapel, Vatican Palace, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Michelangelo%2C_conversione_di_saulo%2C_1542-45%2C_02.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Michelangelo%2C_conversione_di_saulo%2C_1542-45%2C_02.jpg/1920px-Michelangelo%2C_conversione_di_saulo%2C_1542-45%2C_02.jpg",
+      "width": 1600,
+      "height": 1281,
+      "story": "Pope Paul III commissioned this fresco for his namesake chapel, built to store the consecrated Host and to host the cardinals when they gathered to elect a new pope. Christ plunges from the top corner amid a host of angels as a beam of light strikes Saul down on the road to Damascus. Though Saul's calling occurred when he was about thirty — and Michelangelo knew it well — the painter gave him the face of an old man troubled by his faith, a face that reflects Michelangelo's own.",
+      "funFacts": [
+        "Restoration between 2002 and 2009 revealed that Michelangelo worked not only in true fresco but also in mezzo fresco and a secco on dry plaster.",
+        "Its companion across the chapel, The Crucifixion of Saint Peter, is the last fresco Michelangelo ever executed."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Conversion_of_Saul_(Michelangelo)"
+    },
+    {
+      "id": "the-crucifixion-of-saint-peter",
+      "title": "The Crucifixion of Saint Peter",
+      "year": "c. 1546–1550",
+      "medium": "fresco",
+      "location": "Pauline Chapel, Vatican Palace, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Michelangelo%2C_crocifissione_di_san_pietro%2C_1546-50%2C_02_%28cropped%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Michelangelo%2C_crocifissione_di_san_pietro%2C_1546-50%2C_02_%28cropped%29.jpg",
+      "width": 1806,
+      "height": 1835,
+      "story": "The last fresco Michelangelo ever executed shows the moment Roman soldiers raise Saint Peter's cross — the saint, according to the apocryphal Acts of Peter, having demanded to be crucified head downwards as unworthy to die as his master died. Defying convention, Michelangelo has Peter crane his neck up from the tilted cross to lock eyes with the viewer, demanding witness to his sacrifice. The Pauline frescoes were derided at their unveiling for their disregard of proportion.",
+      "funFacts": [
+        "A restoration completed in 2009 revealed a probable self-portrait: a figure in a red tunic wearing the blue turban Renaissance sculptors used to keep dust out of their hair.",
+        "The fresco occupies the eastern wall of the chapel in which the cardinals have held their elections for a new pope."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Crucifixion_of_Saint_Peter_(Michelangelo)"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "islands": [
+    { "id": "egypt-old-kingdom", "name": "Old Kingdom Egypt", "startYear": -2686, "endYear": -2181, "anchorYear": -2500, "blurb": "", "wikipediaUrl": "" },
+    { "id": "egypt-new-kingdom", "name": "New Kingdom Egypt", "startYear": -1550, "endYear": -1070, "anchorYear": -1250, "blurb": "", "wikipediaUrl": "" },
+    { "id": "egypt-ptolemaic", "name": "Ptolemaic Egypt", "startYear": -305, "endYear": 200, "anchorYear": -30, "blurb": "", "wikipediaUrl": "" }
+  ],
+  "artists": [
+    { "id": "old-kingdom-tomb-painters", "name": "Painters of the Old Kingdom Tombs", "periodId": "egypt-old-kingdom", "birthYear": null, "deathYear": null, "activeStart": -2600, "activeEnd": -2181, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "valley-of-the-kings-painters", "name": "Painters of the Valley of the Kings", "periodId": "egypt-new-kingdom", "birthYear": null, "deathYear": null, "activeStart": -1400, "activeEnd": -1070, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "book-of-the-dead-illustrators", "name": "Illustrators of the Book of the Dead", "periodId": "egypt-new-kingdom", "birthYear": null, "deathYear": null, "activeStart": -1550, "activeEnd": -1070, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "fayum-portrait-painters", "name": "The Fayum Portrait Painters", "periodId": "egypt-ptolemaic", "birthYear": null, "deathYear": null, "activeStart": -30, "activeEnd": 200, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false }
+  ]
+}

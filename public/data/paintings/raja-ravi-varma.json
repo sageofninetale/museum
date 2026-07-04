@@ -1,0 +1,175 @@
+{
+  "artistId": "raja-ravi-varma",
+  "paintings": [
+    {
+      "id": "shakuntala",
+      "title": "Shakuntala",
+      "year": "1898",
+      "medium": "oil on canvas",
+      "location": "Government Museum and Art Gallery (copy history varies); widely reproduced",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Raja_Ravi_Varma_-_Mahabharata_-_Shakuntala.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Raja_Ravi_Varma_-_Mahabharata_-_Shakuntala.jpg/1280px-Raja_Ravi_Varma_-_Mahabharata_-_Shakuntala.jpg",
+      "width": 977,
+      "height": 1601,
+      "story": "Shakuntala, or Shakuntala Looking for Dushyanta, depicts the heroine of the Mahabharata pretending to remove a thorn from her foot while actually looking back to catch a glimpse of her husband and lover Dushyanta, as her friends tease her and call her bluff. The art historian Tapati Guha-Thakurta observed that this very gesture — the twist and turn of head and body — draws the viewer into the narrative, so that the painting stands like a frozen tableau, 'like a still from a moving film', plucked out of an on-running spectacle of episodes.",
+      "funFacts": [
+        "Ravi Varma is particularly noted for his paintings depicting episodes from the story of Dushyanta and Shakuntala from the Mahabharata.",
+        "Scholars note the painting reflects the centrality of the 'male gaze': though absent from the frame, the male lover forms the pivotal point of reference."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shakuntala_(Raja_Ravi_Varma)"
+    },
+    {
+      "id": "shakuntala-patralekhan",
+      "title": "Shakuntala Patra-lekhan (Shakuntala Composing a Love Letter)",
+      "year": "1876",
+      "medium": "oil on canvas",
+      "location": "Formerly collection of the Duke of Buckingham",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Raja_Ravi_Varma_-_Shakuntala_writing_a_love_letter_on_a_lotus_leaf.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Raja_Ravi_Varma_-_Shakuntala_writing_a_love_letter_on_a_lotus_leaf.jpg",
+      "width": 685,
+      "height": 947,
+      "story": "This 1876 painting depicts Shakuntala lying on the grass, writing a letter to her lover Dushyanta. The work won praise for Ravi Varma when it was presented at the Madras Fine Arts Exhibition of 1876, and was later acquired by the Duke of Buckingham. The painting was subsequently used in the English translation of Kalidasa's Shakuntalam.",
+      "funFacts": [
+        "It was one of the early triumphs that established Ravi Varma's reputation, two years after his award at the 1873 Vienna exhibition.",
+        "Ravi Varma often modelled Hindu heroines and goddesses on Indian women, whom he considered beautiful."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shakuntala_Patra-lekhan"
+    },
+    {
+      "id": "lady-in-the-moonlight",
+      "title": "Lady in the Moon Light",
+      "year": "1889",
+      "medium": "oil on canvas",
+      "location": "National Gallery of Modern Art, New Delhi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Raja_Ravi_Varma%2C_Lady_in_the_Moon_Light_%281889%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Raja_Ravi_Varma%2C_Lady_in_the_Moon_Light_%281889%29.jpg",
+      "width": 800,
+      "height": 1121,
+      "story": "A woman rests in the cool blue of a moonlit night, one of Ravi Varma's most loved portrayals of idealised Indian womanhood. His works are among the best examples of the fusion of European academic art with a purely Indian sensibility and iconography — he was trained in oils by the British portraitist Theodore Jenson and travelled throughout India in search of subjects. Though sometimes criticised as showy and sentimental, his paintings remain enduringly popular in India.",
+      "funFacts": [
+        "Ravi Varma won an award for an exhibition of his paintings at Vienna in 1873, bringing him widespread acclaim.",
+        "Geeta Kapur called him 'the indisputable father figure of modern Indian art'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma"
+    },
+    {
+      "id": "galaxy-of-musicians",
+      "title": "Galaxy of Musicians",
+      "year": "1889",
+      "medium": "oil on canvas",
+      "location": "Jaganmohan Palace, Mysore",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raja_Ravi_Varma%2C_Galaxy_of_Musicians.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raja_Ravi_Varma%2C_Galaxy_of_Musicians.jpg",
+      "width": 800,
+      "height": 628,
+      "story": "Galaxy of Musicians shows a group of Indian women from various backgrounds playing their traditional instruments — from the Muslim courtesan on the right to the Nair woman playing a veena on the left and a Marathi woman at the centre — emphasising the dresses and adornments of women from all over India. Originally painted for the Maharaja of Mysore, the painting focuses in a single canvas on each group's customs and how they all characterised music.",
+      "funFacts": [
+        "Modern artist Nalini Malani recreated Galaxy of Musicians in her video installation Unity in Diversity to interrogate Ravi Varma's idealistic nationalism."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Galaxy_of_Musicians"
+    },
+    {
+      "id": "hamsa-damayanti",
+      "title": "Hamsa Damayanti (Damayanti Talking to a Swan)",
+      "year": "1899",
+      "medium": "oil on canvas",
+      "location": "Sree Chitra Art Gallery, Thiruvananthapuram",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg/960px-Ravi_Varma-Princess_Damayanthi_talking_with_Royal_Swan_about_Nala.jpg",
+      "width": 920,
+      "height": 1599,
+      "story": "Princess Damayanti listens to a golden swan sent by King Nala: in the Mahabharata tale, the swan arrives in her palace gardens and, instead of fleeing, speaks to her — describing Nala's virtues, appearance and qualities, and telling her he would make a worthy husband. Ravi Varma is particularly noted for his paintings depicting episodes from the story of Nala and Damayanti, and this image of the listening princess has become part of the Indian imagination of the epics.",
+      "funFacts": [
+        "On his 65th death anniversary, India Post issued a commemorative stamp depicting Ravi Varma together with his famous painting 'Damayanti and Swan'.",
+        "Damayanti Talking to a Swan appears in Wikipedia's list of Ravi Varma's most prominent works."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Damayanti"
+    },
+    {
+      "id": "there-comes-papa",
+      "title": "There Comes Papa",
+      "year": "1893",
+      "medium": "oil on canvas",
+      "location": "Kowdiar Palace, Thiruvananthapuram",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Raja_Ravi_Varma%2C_There_Comes_Papa_%281893%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Raja_Ravi_Varma%2C_There_Comes_Papa_%281893%29.jpg/1280px-Raja_Ravi_Varma%2C_There_Comes_Papa_%281893%29.jpg",
+      "width": 1023,
+      "height": 1601,
+      "story": "The painting shows Ravi Varma's daughter Mahaprabha Thampuratty with her son, both looking out of the frame — with the family dog — toward an approaching father whom we never see. Painted as the Nair matrilineal system of Kerala was disintegrating, the picture has been read as an icon of the new nuclear-family ideal: the absent but approaching father representing the end of matrilineality. It was part of the series 'The Life of Native Peoples' shown at the 1893 World's Fair in Chicago.",
+      "funFacts": [
+        "At the Chicago World's Fair the series was displayed in the ethnography section rather than the fine arts section; Varma was awarded two certificates of merit praising his realism, form and detail.",
+        "The dog — an animal regarded in Indian culture as unclean — correlates instead to the European idea of domesticity.",
+        "The figure of his daughter is believed to have been modelled from a photograph."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/There_Comes_Papa"
+    },
+    {
+      "id": "jatayu-vadham",
+      "title": "Jatayu Vadha (Ravana Maiming Jatayu)",
+      "year": "1906",
+      "medium": "oil on canvas",
+      "location": "Sree Chitra Art Gallery, Thiruvananthapuram",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Raja_Ravi_Varma%2C_Jatayu_vadha%2C_1906.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Raja_Ravi_Varma%2C_Jatayu_vadha%2C_1906.jpg/1280px-Raja_Ravi_Varma%2C_Jatayu_vadha%2C_1906.jpg",
+      "width": 1145,
+      "height": 1600,
+      "story": "The demon king Ravana, carrying off the abducted Sita, cuts down the great bird Jatayu who has risen to defend her. Wikipedia lists 'Jatayu, a bird devotee of Lord Rama is mauled by Ravana' among Ravi Varma's most prominent works. His oleographs of gods and epic scenes, adapted mainly from the Mahabharata, the Ramayana and the Puranas, were printed in their thousands and continued to be produced for many years even after his death in 1906, the year of this late masterpiece.",
+      "funFacts": [
+        "Ravi Varma's lithographic press, started in 1894, was the largest and most innovative press in India at the time.",
+        "A devastating fire destroyed the press factory in 1972, and many of Ravi Varma's original lithographic prints were lost."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma"
+    },
+    {
+      "id": "shantanu-and-matsyagandha",
+      "title": "Shantanu and Matsyagandha",
+      "year": "c. 1890s",
+      "medium": "oil on canvas",
+      "location": "Widely reproduced as an oleograph",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ravi_Varma-Shantanu_and_Satyavati.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Ravi_Varma-Shantanu_and_Satyavati.jpg",
+      "width": 489,
+      "height": 721,
+      "story": "King Shantanu of the Mahabharata beseeches the fisherwoman Satyavati, called Matsyagandha, in one of the epic episodes Ravi Varma made vivid for a mass Indian audience. Wikipedia lists Shantanu and Matsyagandha among his prominent works. His representation of Hindu characters has become part of the Indian imagination of the epics, spread through the enormously popular oleographs of his press.",
+      "funFacts": [
+        "The oleographs produced by the Ravi Varma Press were mostly of Hindu gods and goddesses in scenes adapted from the Mahabharata, the Ramayana and the Puranas.",
+        "In 2013 the crater Varma on Mercury was named in his honour."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma"
+    },
+    {
+      "id": "arjuna-and-subhadra",
+      "title": "Arjuna and Subhadra",
+      "year": "c. 1890",
+      "medium": "oil on canvas",
+      "location": "Widely reproduced as an oleograph",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ravi_Varma-Arjuna_and_Subhadra.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Ravi_Varma-Arjuna_and_Subhadra.jpg",
+      "width": 497,
+      "height": 754,
+      "story": "The Pandava hero Arjuna courts Subhadra, sister of Krishna, in another of the Mahabharata episodes that Wikipedia lists among Ravi Varma's prominent works. Ravi Varma travelled throughout India in search of subjects and often modelled epic heroines on Indian women he considered beautiful, reconciling Western academic technique with Indian iconography — the reason he is sometimes regarded as the first modern Indian artist.",
+      "funFacts": [
+        "Ravi Varma's paintings were sent to the World's Columbian Exposition in Chicago in 1893, where he was awarded three gold medals.",
+        "Many of his paintings are housed at Laxmi Vilas Palace, Vadodara."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma"
+    },
+    {
+      "id": "nair-lady-adorning-her-hair",
+      "title": "Nair Lady Adorning Her Hair",
+      "year": "1873",
+      "medium": "oil on canvas",
+      "location": "Sree Chitra Art Gallery, Thiruvananthapuram",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nair_Lady_Adorning_Her_Hair.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Nair_Lady_Adorning_Her_Hair.jpg",
+      "width": 501,
+      "height": 750,
+      "story": "A young Nair woman of Kerala arranges her hair in a picture that helped make Ravi Varma's name — a 'Nair Woman' is listed among his prominent works on Wikipedia. His paintings of Nair women were reflective of a society in transition, combining European influence and native tradition as the old matrilineal order of Kerala was being redefined. Varma's naturalism, shading and lighting in oils were well regarded among his contemporaries.",
+      "funFacts": [
+        "Varma received widespread acclaim after winning an award for an exhibition of his paintings at Vienna in 1873.",
+        "The naturalism of his work, considered a Western import, came under criticism in the early 20th century."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raja_Ravi_Varma"
+    }
+  ]
+}

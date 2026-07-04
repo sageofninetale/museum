@@ -1,0 +1,97 @@
+{
+  "islands": [
+    {
+      "id": "egypt-old-kingdom",
+      "name": "Old Kingdom Egypt",
+      "startYear": -2686,
+      "endYear": -2181,
+      "anchorYear": -2500,
+      "blurb": "The Old Kingdom is the period of ancient Egyptian history spanning c. 2700–2200 BC, also known as the 'Age of the Pyramids', encompassing the reigns of the great pyramid-builders of the Fourth Dynasty such as Sneferu, Khufu, Khafre and Menkaure. Egypt attained its first sustained peak of civilization during this era, and its art — most of it surviving from tombs and monuments — was a conservative tradition serving religion and the afterlife, in which to render a subject was to grant it permanence.",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt"
+    },
+    {
+      "id": "egypt-new-kingdom",
+      "name": "New Kingdom Egypt",
+      "startYear": -1550,
+      "endYear": -1070,
+      "anchorYear": -1250,
+      "blurb": "The New Kingdom, also called the Egyptian Empire, covers the Eighteenth, Nineteenth and Twentieth Dynasties between the 16th and 11th centuries BC — the most prosperous time for ancient Egypt and the peak of its power. For nearly 500 years its pharaohs were buried in rock-cut tombs in the Valley of the Kings, decorated with traditional scenes from Egyptian mythology that reveal the period's funerary practices and afterlife beliefs.",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt"
+    },
+    {
+      "id": "egypt-ptolemaic",
+      "name": "Ptolemaic Egypt",
+      "startYear": -305,
+      "endYear": 200,
+      "anchorYear": -30,
+      "blurb": "The Ptolemaic Kingdom was an ancient Greek polity based in Egypt, founded in 305 BC by the Macedonian general Ptolemy I Soter and ruled by his dynasty until the death of Cleopatra VII in 30 BC — the longest and final dynasty of ancient Egypt, heralding a distinct era of religious and cultural syncretism between Greek and Egyptian civilization. Under the Roman rule that followed, this mixed Greco-Egyptian world produced the naturalistic Fayum mummy portraits, the only large surviving body of the classical panel-painting tradition.",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom"
+    }
+  ],
+  "artists": [
+    {
+      "id": "old-kingdom-tomb-painters",
+      "name": "Painters of the Old Kingdom Tombs",
+      "periodId": "egypt-old-kingdom",
+      "birthYear": null,
+      "deathYear": null,
+      "activeStart": -2600,
+      "activeEnd": -2181,
+      "nationality": "Egypt",
+      "bio": "The anonymous artists of the pyramid age decorated the mastaba tombs of princes and officials at Meidum and Saqqara with scenes of everyday life, painted to grant their subjects permanence in the afterlife — for in ancient Egypt art served an essentially functional purpose bound with religion, and there was no significant tradition of individual artistic expression. In the tomb of prince Nefermaat, a son of King Sneferu, they invented a unique technique of filling deeply carved images with colored paste, and in the chapel of his wife Itet they painted the famous 'Meidum Geese', considered a masterpiece of Egyptian painting.",
+      "whyTheyMatter": "They created the earliest masterpieces of Egyptian painting, including the Meidum Geese, at the very dawn of the pyramid age.",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Art_of_ancient_Egypt",
+      "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%C3%84gyptisches_Museum_Kairo_2016-03-29_G%C3%A4nse_von_Meidum_01.jpg/1920px-%C3%84gyptisches_Museum_Kairo_2016-03-29_G%C3%A4nse_von_Meidum_01.jpg",
+      "hero": false,
+      "ceilingFresco": false
+    },
+    {
+      "id": "valley-of-the-kings-painters",
+      "name": "Painters of the Valley of the Kings",
+      "periodId": "egypt-new-kingdom",
+      "birthYear": null,
+      "deathYear": null,
+      "activeStart": -1400,
+      "activeEnd": -1070,
+      "nationality": "Egypt",
+      "bio": "The artisans who decorated the royal tombs of the New Kingdom lived in the workmen's village of Deir el-Medina — anciently called Set Maat, 'the Place of Truth' — and were known as 'Servants in the Place of Truth'. For nearly 500 years, from the Eighteenth to the Twentieth Dynasty, they cut and painted the tombs of the Valley of the Kings and the Valley of the Queens with scenes from Egyptian mythology, from the star-filled astronomical ceilings of the pharaohs' burial chambers to the wall paintings of Nefertari's tomb, of which some 5,200 square feet survive.",
+      "whyTheyMatter": "Their painted royal tombs, above all the tomb of Nefertari, are the supreme achievement of New Kingdom mural painting.",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Deir_el-Medina",
+      "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Maler_der_Grabkammer_der_Nefertari_004.jpg/1280px-Maler_der_Grabkammer_der_Nefertari_004.jpg",
+      "hero": false,
+      "ceilingFresco": true
+    },
+    {
+      "id": "book-of-the-dead-illustrators",
+      "name": "Illustrators of the Book of the Dead",
+      "periodId": "egypt-new-kingdom",
+      "birthYear": null,
+      "deathYear": null,
+      "activeStart": -1550,
+      "activeEnd": -1070,
+      "nationality": "Egypt",
+      "bio": "The Book of the Dead is an ancient Egyptian funerary text, generally written on papyrus, used from the beginning of the New Kingdom to around 50 BC — a loose collection of magic spells intended to assist a dead person's journey through the Duat, or underworld, written by many priests over a period of about 1,000 years. There was no single canonical version: people commissioned individualized scrolls, often illustrated with painted vignettes depicting the deceased and their journey into the afterlife. The finest extant example is the Papyrus of Ani, made for a Theban scribe around 1250 BCE.",
+      "whyTheyMatter": "Their painted papyrus vignettes, like the Weighing of the Heart, are the most vivid images of the Egyptian afterlife ever made.",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Book_of_the_Dead",
+      "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg/1920px-The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg",
+      "hero": false,
+      "ceilingFresco": false
+    },
+    {
+      "id": "fayum-portrait-painters",
+      "name": "The Fayum Portrait Painters",
+      "periodId": "egypt-ptolemaic",
+      "birthYear": null,
+      "deathYear": null,
+      "activeStart": -30,
+      "activeEnd": 200,
+      "nationality": "Egypt",
+      "bio": "The Fayum mummy portraits are naturalistic painted portraits on wooden boards attached to the mummies of upper-class individuals in Roman Egypt, most commonly found in the Faiyum Basin at Hawara and Antinoopolis. Painted in encaustic (wax) or tempera from the late 1st century BC or early 1st century AD onwards, they belong to the tradition of panel painting, one of the most highly regarded forms of art in the Classical world — and they are the only large body of that tradition to have survived. About 900 mummy portraits are known at present, many with brilliant colours seemingly unfaded by time.",
+      "whyTheyMatter": "Their haunting faces are the only large surviving body of panel painting from the entire classical world.",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fayum_mummy_portraits",
+      "portraitUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Portrait_of_the_Boy_Eutyches_MET_DT564.jpg/960px-Portrait_of_the_Boy_Eutyches_MET_DT564.jpg",
+      "hero": false,
+      "ceilingFresco": false
+    }
+  ]
+}

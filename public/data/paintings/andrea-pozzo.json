@@ -1,0 +1,139 @@
+{
+  "artistId": "andrea-pozzo",
+  "paintings": [
+    {
+      "id": "apotheosis-of-saint-ignatius",
+      "title": "Apotheosis of Saint Ignatius",
+      "year": "1685–1694",
+      "medium": "fresco",
+      "location": "Sant'Ignazio, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Triumph_of_St._Ignatius_of_Loyola%2C_ceiling_fresco_by_Andrea_Pozzo.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Triumph_of_St._Ignatius_of_Loyola%2C_ceiling_fresco_by_Andrea_Pozzo.jpg/1920px-Triumph_of_St._Ignatius_of_Loyola%2C_ceiling_fresco_by_Andrea_Pozzo.jpg",
+      "width": 1920,
+      "height": 1233,
+      "story": "Around 1685 Pozzo, a Jesuit lay brother, painted this grandiose fresco stretching across the flat ceiling of the nave of Sant'Ignazio, celebrating the work of Saint Ignatius and the Society of Jesus in the world: the saint is welcomed into paradise by Christ and the Virgin, surrounded by allegorical representations of all four continents. Through breathtaking linear perspective an observer, standing on a spot marked by a metal plate set into the nave floor, seems to see a lofty vaulted roof decorated with statues — though the ceiling is actually flat. It is the masterpiece of the supreme master of quadratura.",
+      "funFacts": [
+        "For several generations Sant'Ignazio set the standard for Late Baroque ceiling decoration throughout Catholic Europe.",
+        "The illusion only resolves perfectly from the marked spot in the nave floor.",
+        "The fresco celebrates the apostolic ambitions of Jesuit missionaries across the four continents."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sant%27Ignazio,_Rome"
+    },
+    {
+      "id": "false-dome-of-sant-ignazio",
+      "title": "The False Dome of Sant'Ignazio",
+      "year": "c. 1685",
+      "medium": "oil on canvas (trompe-l'œil)",
+      "location": "Sant'Ignazio, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Andrea_pozzo%2C_cupola_di_sant%27ignazio%2C_1685-94%2C_01.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Andrea_pozzo%2C_cupola_di_sant%27ignazio%2C_1685-94%2C_01.jpg/1920px-Andrea_pozzo%2C_cupola_di_sant%27ignazio%2C_1685-94%2C_01.jpg",
+      "width": 1920,
+      "height": 1280,
+      "story": "Funds to build a real dome over the crossing of Sant'Ignazio were lacking, so a painter was hired to create the illusion of one. Pozzo painted the trompe-l'œil dome on an enormous canvas 17 metres wide, so convincing when viewed from inside the church that it is difficult to distinguish what is real and what is painted. The solution impressed viewers but was controversial — some feared the canvas would soon darken.",
+      "funFacts": [
+        "The 'dome' is entirely flat: a painted canvas set over the crossing.",
+        "Pozzo also frescoed the apse below with scenes from the lives of St. Ignatius, St. Francis Xavier and St. Francis Borgia."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sant%27Ignazio,_Rome"
+    },
+    {
+      "id": "jesuit-church-vienna-ceiling",
+      "title": "Ceiling frescoes and trompe-l'œil dome, Jesuit Church, Vienna",
+      "year": "1703–1705",
+      "medium": "fresco",
+      "location": "Jesuit Church (Universitätskirche), Vienna",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Wien_-_Universit%C3%A4tskirche_%281%29.JPG",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Wien_-_Universit%C3%A4tskirche_%281%29.JPG/1920px-Wien_-_Universit%C3%A4tskirche_%281%29.JPG",
+      "width": 1920,
+      "height": 2609,
+      "story": "In 1703 Emperor Leopold I summoned Brother Andrea Pozzo — recommended by the Prince of Liechtenstein — to redecorate the Jesuit Church in Vienna. Pozzo remodeled the church between 1703 and 1705, adding twin towers and reworking the façade, while inside he divided the semicircular vault into four bays of perspective paintings, including his remarkable trompe-l'œil dome. Despite the church's austere exterior, the interior is opulent with ersatz marble pillars, gilding and allegorical ceiling frescoes.",
+      "funFacts": [
+        "Pozzo died unexpectedly in Vienna in 1709, just before a planned move to Venice, and is buried in this church.",
+        "After his work was completed the church was re-dedicated to the Assumption of Mary."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jesuit_Church,_Vienna"
+    },
+    {
+      "id": "corridor-of-saint-ignatius",
+      "title": "Corridor of the Rooms of Saint Ignatius (Casa Professa del Gesù)",
+      "year": "1681–1686",
+      "medium": "fresco",
+      "location": "Casa Professa, Church of the Gesù, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Camere_Sant%27Ignazio_presso_Ges%C3%B9_Corridoio.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Camere_Sant%27Ignazio_presso_Ges%C3%B9_Corridoio.jpg/1920px-Camere_Sant%27Ignazio_presso_Ges%C3%B9_Corridoio.jpg",
+      "width": 1920,
+      "height": 1440,
+      "story": "Pozzo's first Roman frescoes decorate the corridor linking the Church of the Gesù to the rooms where Saint Ignatius had lived. His trompe-l'œil architecture and scenes from the saint's life, painted for the Camere di San Ignazio between 1681 and 1686, blended seamlessly with existing paintings by Giacomo Borgognone — turning a plain corridor into a dazzling exercise in perspective.",
+      "funFacts": [
+        "Pozzo first earned his reputation as a stage designer for biblical pageants, whose illusionistic perspective sets led to his career in ceiling painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Pozzo"
+    },
+    {
+      "id": "mondovi-ceiling",
+      "title": "Frescoes of San Francesco Saverio, Mondovì",
+      "year": "1676",
+      "medium": "fresco",
+      "location": "Church of San Francesco Saverio (Chiesa della Missione), Mondovì",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Andrea_pozzo_-_san_francesco_saverio_2_-_mondov%C3%AC.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Andrea_pozzo_-_san_francesco_saverio_2_-_mondov%C3%AC.jpg",
+      "width": 646,
+      "height": 437,
+      "story": "In 1676 Pozzo decorated the interior of the church of San Francesco Saverio in Mondovì, his first large fresco commission. Here his later illusionistic techniques are already on display: fake gilding, bronze-coloured statues, marbled columns, and a trompe-l'œil dome painted on a flat ceiling, peopled with foreshortened figures in architectural settings.",
+      "funFacts": [
+        "The Jesuits frequently employed Pozzo to decorate churches whose interiors had been left bare, including those of Modena, Bologna and Arezzo."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Pozzo"
+    },
+    {
+      "id": "hercules-ceiling-liechtenstein",
+      "title": "Admittance of Hercules to Olympus (Hercules Hall ceiling)",
+      "year": "1707",
+      "medium": "ceiling fresco",
+      "location": "Liechtenstein Garden Palace, Vienna",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Liechtenstein_Museum_%286%29_%284340813031%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Liechtenstein_Museum_%286%29_%284340813031%29.jpg",
+      "width": 1697,
+      "height": 1314,
+      "story": "In 1694 Pozzo had explained his illusionistic techniques in a letter to Anton Florian, Prince of Liechtenstein, ambassador of Emperor Leopold I in Rome — a connection that brought the painter to Vienna. His most significant surviving work there is the monumental ceiling fresco of the Hercules Hall of the Liechtenstein Garden Palace, painted in 1707, showing the hero Hercules received into Olympus. According to the sources it was greatly admired by contemporaries.",
+      "funFacts": [
+        "Other ceiling paintings Pozzo made in Viennese palaces were destroyed soon after their creation, making this fresco his key surviving secular work in the city."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Pozzo"
+    },
+    {
+      "id": "altar-of-saint-ignatius",
+      "title": "Altar of Saint Ignatius, Church of the Gesù",
+      "year": "1695–1699",
+      "medium": "altar with rare marbles and precious metals",
+      "location": "Church of the Gesù, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Chapel_S._Ignazio_Gesu_Rome.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chapel_S._Ignazio_Gesu_Rome.jpg/1920px-Chapel_S._Ignazio_Gesu_Rome.jpg",
+      "width": 1920,
+      "height": 2880,
+      "story": "In 1695 Pozzo won the prestigious commission for the altar of the St. Ignatius chapel in the left transept of the Gesù, prevailing in a competition against Sebastiano Cipriani and Giovanni Battista Origone. Rising above the tomb of the saint, the grandiose altar of rare marbles and precious metals shows the Trinity, while four lapis lazuli columns enclose a colossal statue of Saint Ignatius by Pierre Legros. Its construction coordinated the work of more than one hundred sculptors and craftsmen.",
+      "funFacts": [
+        "The four lapis lazuli columns visible today are copies.",
+        "The Gesù, mother church of the Jesuits, was first conceived in 1551 by Saint Ignatius of Loyola himself."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Church_of_the_Ges%C3%B9"
+    },
+    {
+      "id": "self-portrait",
+      "title": "Self-portrait",
+      "year": "1681–1688",
+      "medium": "oil on canvas",
+      "location": "Uffizi Gallery, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Andrea_Pozzo%2C_autoportrait.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Andrea_Pozzo%2C_autoportrait.jpg",
+      "width": 663,
+      "height": 879,
+      "story": "In 1681 Cosimo III de' Medici, Grand Duke of Tuscany, asked Pozzo to paint his self-portrait for the ducal collection. The result is a most original image: the painter in a diagonal pose, pointing with his right index finger at an illusionistic easel painting of a trompe-l'œil dome — perhaps that of the Badia church in Arezzo — while his left hand rests on three books, probably alluding to his then-unpublished treatises on perspective. The painting was sent to the duke in 1688 and now hangs in the Uffizi.",
+      "funFacts": [
+        "Pozzo's treatise Perspectiva pictorum et architectorum became a standard reference for illusionistic painting.",
+        "The books beneath his hand advertise the theory behind his painted illusions."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Pozzo"
+    }
+  ]
+}

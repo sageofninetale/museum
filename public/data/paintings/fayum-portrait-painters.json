@@ -1,0 +1,158 @@
+{
+  "artistId": "fayum-portrait-painters",
+  "paintings": [
+    {
+      "id": "portrait-of-eutyches",
+      "title": "Portrait of the Boy Eutyches",
+      "year": "c. 100-150 CE",
+      "medium": "encaustic on wood",
+      "location": "Metropolitan Museum of Art, New York",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Portrait_of_the_Boy_Eutyches_MET_DT564.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Portrait_of_the_Boy_Eutyches_MET_DT564.jpg/960px-Portrait_of_the_Boy_Eutyches_MET_DT564.jpg",
+      "width": 1736,
+      "height": 3722,
+      "story": "This portrait by an anonymous artist of Roman Egypt depicts a young boy named as 'Eutyches, freedman of Kasanios' by an inscription. Produced after the boy's death and attached to his mummy, it is classified as one of the Fayum mummy portraits — a unique art form born of the blending of Roman, Greek and Egyptian cultures in the imperial province of Egypt.",
+      "funFacts": [
+        "Such mortuary portraits drew influences from Classical Greece and Egypt while utilizing materials provided by Rome's flourishing economy.",
+        "The portrait was donated to the Metropolitan Museum of Art by Edward Harkness in 1918."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portrait_of_the_Boy_Eutyches"
+    },
+    {
+      "id": "l-europeenne",
+      "title": "Portrait of a Woman, known as \"L'Européenne\"",
+      "year": "c. 120-130 CE",
+      "medium": "encaustic on wood",
+      "location": "Louvre Museum, Paris (from Antinoopolis)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Portrait_of_a_woman%2C_known_as_%22L%27Europ%C3%A9enne%22%2C_AD_120-130%2C_from_Antino%C3%B6polis_%28Antino%C3%AB%29%2C_Egypt%2C_Louvre_Museum_%2810572759814%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Portrait_of_a_woman%2C_known_as_%22L%27Europ%C3%A9enne%22%2C_AD_120-130%2C_from_Antino%C3%B6polis_%28Antino%C3%AB%29%2C_Egypt%2C_Louvre_Museum_%2810572759814%29.jpg/960px-Portrait_of_a_woman%2C_known_as_%22L%27Europ%C3%A9enne%22%2C_AD_120-130%2C_from_Antino%C3%B6polis_%28Antino%C3%AB%29%2C_Egypt%2C_Louvre_Museum_%2810572759814%29.jpg",
+      "width": 2253,
+      "height": 4027,
+      "story": "One of the most admired of all mummy portraits, this woman with luminous eyes and gold jewellery was found at Antinoopolis, the Hadrianic Roman city that is — with Hawara — among the most common sources of the portraits. The images clearly derive more from Greco-Roman artistic traditions than Egyptian ones, showing the head and upper chest viewed frontally.",
+      "funFacts": [
+        "Encaustic portraits like this one, painted in heated wax, are usually of higher quality than those in tempera.",
+        "Mummy portraits are frequently very well preserved thanks to the hot, dry Egyptian climate, often retaining brilliant colours seemingly unfaded by time."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fayum_mummy_portraits"
+    },
+    {
+      "id": "hawara-man",
+      "title": "Mummy Portrait of a Man from Hawara",
+      "year": "c. 80-100 CE",
+      "medium": "encaustic on limewood",
+      "location": "British Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mummy_portrait_of_a_man_from_Fayum%2C_Hawara%2C_modern-day_Egypt._The_portrait_was_painted_in_encaustic_on_limewood._Roman%2C_80-100_CE._The_British_Museum%2C_London.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mummy_portrait_of_a_man_from_Fayum%2C_Hawara%2C_modern-day_Egypt._The_portrait_was_painted_in_encaustic_on_limewood._Roman%2C_80-100_CE._The_British_Museum%2C_London.jpg/1920px-thumbnail.jpg",
+      "width": 5731,
+      "height": 4015,
+      "story": "Painted in encaustic on limewood around 80-100 CE, this bearded man comes from Hawara in the Faiyum Basin, where mummy portraits are most commonly found. The portraits covered the faces of bodies that were mummified for burial, mounted into the bands of cloth used to wrap them; almost all have now been detached from their mummies.",
+      "funFacts": [
+        "Fayum portraits belong to the tradition of panel painting, one of the most highly regarded forms of art in the Classical world.",
+        "'Faiyum portraits' is generally used as a stylistic rather than a geographic description — examples have been found across Egypt."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fayum_mummy_portraits"
+    },
+    {
+      "id": "athens-portrait",
+      "title": "Funerary Portrait of a Man (Athens)",
+      "year": "2nd century CE",
+      "medium": "encaustic on wood",
+      "location": "National Archaeological Museum, Athens",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Fayum_egyptian_funerary_portrait_1627_NAMAthens.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fayum_egyptian_funerary_portrait_1627_NAMAthens.jpg/1280px-Fayum_egyptian_funerary_portrait_1627_NAMAthens.jpg",
+      "width": 2617,
+      "height": 4190,
+      "story": "A dark-eyed man gazes out of this funerary portrait now in Athens. Fayum portraits usually depict a single person, showing the head or head and upper chest viewed frontally — a format inherited from Greco-Roman panel painting. They were painted on wooden boards attached to the mummies of upper-class individuals of the Roman Egypt period.",
+      "funFacts": [
+        "About 900 mummy portraits are known at present.",
+        "The tradition continued into Byzantine and Western panel painting, including Coptic Christian iconography in Egypt."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fayum_mummy_portraits"
+    },
+    {
+      "id": "pushkin-portrait",
+      "title": "Mummy Portrait of a Young Woman (Moscow)",
+      "year": "2nd century CE",
+      "medium": "painted wood panel",
+      "location": "Pushkin Museum, Moscow",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Fayum_mummy_portrait_in_the_Pushkin_Museum_in_Moscow_%2805%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fayum_mummy_portrait_in_the_Pushkin_Museum_in_Moscow_%2805%29.jpg/960px-Fayum_mummy_portrait_in_the_Pushkin_Museum_in_Moscow_%2805%29.jpg",
+      "width": 2627,
+      "height": 4980,
+      "story": "A young woman with dark curls, pearl earrings and a golden necklace, painted with the direct, individual gaze that makes the Fayum portraits feel startlingly modern. While painted cartonnage mummy cases date back to pharaonic times, portraits like this were an innovation of the era of Roman rule in Egypt, beginning in the late 1st century BC or the early 1st century AD.",
+      "funFacts": [
+        "It is not clear when production of mummy portraits ended, but some research suggests the middle of the 3rd century.",
+        "Two groups of portraits can be distinguished by technique: encaustic (wax) painting and tempera."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fayum_mummy_portraits"
+    },
+    {
+      "id": "petrie-young-man",
+      "title": "Mummy Portrait of a Young Man (Petrie Museum)",
+      "year": "1st-2nd century CE",
+      "medium": "painted wood panel",
+      "location": "Petrie Museum of Egyptian Archaeology, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mummy_portrait_of_young_man_from_Fayum%2C_Hawara._First_to_second_century_AD._Petrie_Museum.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mummy_portrait_of_young_man_from_Fayum%2C_Hawara._First_to_second_century_AD._Petrie_Museum.jpg/1280px-Mummy_portrait_of_young_man_from_Fayum%2C_Hawara._First_to_second_century_AD._Petrie_Museum.jpg",
+      "width": 2941,
+      "height": 4716,
+      "story": "This young man from Hawara belongs to the great cemetery finds that gave the Fayum portraits their name. The portraits were painted for an upper class in Roman Egypt, and extant examples indicate they were mounted into the bands of cloth that wrapped the mummified body, covering the face of the deceased.",
+      "funFacts": [
+        "The majority of known mummy portraits were found in the necropolis of Faiyum.",
+        "The portraits are the only large body of the classical panel-painting tradition to have survived."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fayum_mummy_portraits"
+    },
+    {
+      "id": "bearded-man",
+      "title": "Funerary Portrait of a Bearded Man",
+      "year": "2nd century CE",
+      "medium": "painted wood panel",
+      "location": "from the Faiyum, Egypt",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Homme_avec_barbe%2C_portrait_fun%C3%A9raire%2C_Fayoum%2C_%C3%89gypte.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Homme_avec_barbe%2C_portrait_fun%C3%A9raire%2C_Fayoum%2C_%C3%89gypte.jpg/960px-Homme_avec_barbe%2C_portrait_fun%C3%A9raire%2C_Fayoum%2C_%C3%89gypte.jpg",
+      "width": 2000,
+      "height": 3540,
+      "story": "A bearded man painted for his own burial, in the naturalistic style that derives more from Greco-Roman artistic traditions than Egyptian ones. Portraits like this were attached to the mummies of upper-class individuals, blending the classical art of the painted panel with the ancient Egyptian practice of mummification.",
+      "funFacts": [
+        "Egypt under Roman rule was dominated by an upper class of ethnic Greeks, whose funerary art fused three cultures.",
+        "Fayum portraits are among the very few survivors of the panel painting tradition of the classical world."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fayum_mummy_portraits"
+    },
+    {
+      "id": "getty-woman",
+      "title": "Romano-Egyptian Mummy Portrait of a Woman",
+      "year": "c. 100-110 CE",
+      "medium": "encaustic on wood",
+      "location": "J. Paul Getty Museum, Los Angeles",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Romano-Egyptian_Mummy_Portrait_of_a_Woman%2C_100-110_AD_%2810465225055%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Romano-Egyptian_Mummy_Portrait_of_a_Woman%2C_100-110_AD_%2810465225055%29.jpg/1280px-Romano-Egyptian_Mummy_Portrait_of_a_Woman%2C_100-110_AD_%2810465225055%29.jpg",
+      "width": 3168,
+      "height": 4752,
+      "story": "Painted around 100-110 CE, this woman wears the jewellery and dress of the Romano-Egyptian elite. Due to the hot, dry Egyptian climate, paintings like this are frequently very well preserved, often retaining their brilliant colours seemingly unfaded by time — a directness that collapses the nineteen centuries between the sitter and the viewer.",
+      "funFacts": [
+        "Mummy portraits date to the Imperial Roman era, from the late 1st century BC or the early 1st century AD onwards.",
+        "They were painted on wooden boards in either encaustic (wax) or tempera technique."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fayum_mummy_portraits"
+    },
+    {
+      "id": "dendera-cleopatra-caesarion",
+      "title": "Cleopatra VII and Caesarion at Dendera",
+      "year": "c. 40 BCE",
+      "medium": "carved sandstone relief",
+      "location": "South facade, Temple of Hathor, Dendera",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Dendera._Hathortempel_Exterieur_Reli%C3%ABf_op_de_zuidelijke_fa%C3%A7ade_met_centraal_offersc%C3%A8ne_van_Caesarion_en_Cleopatra_VII_Philopator_aan_de_enneade_van_Dendera%2C_GDE001186.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dendera._Hathortempel_Exterieur_Reli%C3%ABf_op_de_zuidelijke_fa%C3%A7ade_met_centraal_offersc%C3%A8ne_van_Caesarion_en_Cleopatra_VII_Philopator_aan_de_enneade_van_Dendera%2C_GDE001186.jpg/1920px-thumbnail.jpg",
+      "width": 5840,
+      "height": 4972,
+      "story": "On the southern facade of the Temple of Hathor at Dendera — one of the best-preserved temple complexes of ancient Egypt — Queen Cleopatra VII Philopator and her son Caesarion are depicted making offerings to the gods of Dendera. Cleopatra appears here as a subject portrayed by anonymous temple sculptors in traditional pharaonic style: to legitimize their rule the Ptolemies adopted the title of pharaoh and had themselves portrayed on public monuments in Egyptian style and dress.",
+      "funFacts": [
+        "Cleopatra VII was the last ruler of the Ptolemaic dynasty, which ended with her death in 30 BC.",
+        "Though Greek by descent, the Ptolemies appear on Egyptian temple walls exactly as pharaohs had for millennia."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dendera_Temple_complex"
+    }
+  ]
+}

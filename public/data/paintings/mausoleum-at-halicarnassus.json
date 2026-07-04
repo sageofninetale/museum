@@ -1,0 +1,107 @@
+{
+  "artistId": "mausoleum-at-halicarnassus",
+  "paintings": [
+    {
+      "id": "heemskerck-mausoleum",
+      "title": "The Mausoleum at Halicarnassus — Philips Galle after Maarten van Heemskerck, 1572",
+      "year": "1572",
+      "medium": "engraving",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Mausoleum_van_Halicarnassus_Mavsolevm_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16454.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mausoleum_van_Halicarnassus_Mavsolevm_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16454.jpg/1920px-Mausoleum_van_Halicarnassus_Mavsolevm_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16454.jpg",
+      "width": 1920,
+      "height": 1547,
+      "story": "Heemskerck's plate for the 1572 series that fixed the canonical list of wonders comes surprisingly close to the ancient descriptions: a colonnade lined with statues in niches, a stepped pyramid above, and a four-horse chariot at the summit. In the foreground the widowed Artemisia holds the cup in which, legend says, she drank her husband's ashes, while sculptors carve the marbles. Wikipedia notes that 'imaginative reconstructions' of the Mausoleum began to appear around the time its ruins were quarried away in 1494.",
+      "funFacts": [
+        "The four sides of the real Mausoleum carried sculptural reliefs, each created by one of four Greek sculptors: Leochares, Bryaxis, Scopas and Timotheus.",
+        "The building stood about 45 m (148 ft) high and contained 400 freestanding sculptures."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus"
+    },
+    {
+      "id": "devos-mausoleum",
+      "title": "Mausoleum — Crispijn van de Passe after Maerten de Vos, 1614",
+      "year": "1614",
+      "medium": "engraving",
+      "location": "from the series 'Die sieben Weltwunder' (The Seven Wonders of the World), 1614",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/PPN783779631_Mausoleum_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/PPN783779631_Mausoleum_%28Die_sieben_Weltwunder%29_%281614%29.jpg/1920px-PPN783779631_Mausoleum_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "width": 1920,
+      "height": 1602,
+      "story": "The 1614 series after Maerten de Vos shows the tomb as a sculpted colonnade carrying a stepped pyramid crowned by a winged chariot group, with cone-topped towers at its corners. In the foreground masons hammer at blocks and a carved head while Artemisia's party looks on under a parasol; the verse declares that the faithful wife gave her Mausolus 'a tomb such as no age has given', though 'devouring time has laid the marvel low'.",
+      "funFacts": [
+        "Mausolus was an Anatolian from Caria and a satrap in the Achaemenid Persian Empire.",
+        "The tomb was built for Mausolus and his sister-wife Artemisia II, who ruled after his death."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus"
+    },
+    {
+      "id": "tempesta-mausoleum",
+      "title": "The Tomb of Mausolus — Antonio Tempesta, published 1610",
+      "year": "1610",
+      "medium": "etching",
+      "location": "Los Angeles County Museum of Art",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/The_Tomb_of_Mausolus_LACMA_65.37.293.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Tomb_of_Mausolus_LACMA_65.37.293.jpg/1920px-The_Tomb_of_Mausolus_LACMA_65.37.293.jpg",
+      "width": 1920,
+      "height": 1514,
+      "story": "Tempesta imagines the tomb as a domed, colonnaded monument set on a great flight of steps — in the right foreground a mason shapes a column drum while riders point out the work and a funeral pyre smokes in the distance. Like its companions in his 1610 Seven Wonders series it is invention: the Mausoleum's remains would not be excavated until Charles Thomas Newton's British Museum expedition in the 1850s.",
+      "funFacts": [
+        "The Mausoleum was considered such an aesthetic triumph that Antipater of Sidon identified it as one of his Seven Wonders.",
+        "Its elevated tomb form derived from the tombs of neighbouring Lycia, such as the Nereid Monument."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus"
+    },
+    {
+      "id": "knab-mausoleum",
+      "title": "The Mausoleum of Halicarnassus — Ferdinand Knab, 1886",
+      "year": "1886",
+      "medium": "painting (reproduction)",
+      "location": "from Ferdinand Knab's 1886 series of the Seven Wonders",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mausoleum_of_Halicarnassus_by_Ferdinand_Knab_%281886%29.png",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mausoleum_of_Halicarnassus_by_Ferdinand_Knab_%281886%29.png",
+      "width": 600,
+      "height": 470,
+      "story": "Knab's 1886 painting raises the tomb on its massive podium against dark mountains, with the colonnade, stepped pyramidal roof and gilded four-horse chariot that archaeology had by then confirmed: the British Museum had sent Charles Thomas Newton to find and excavate the site in the 1850s, recovering sculptures that let artists finally anchor three centuries of fantasy.",
+      "funFacts": [
+        "By AD 1404 only the base of the Mausoleum was still recognizable.",
+        "It was destroyed by successive earthquakes from the 12th to the 15th century — the last of the six lost wonders to fall."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus"
+    },
+    {
+      "id": "mausolus-statue",
+      "title": "Colossal statue from the Mausoleum, traditionally identified as Mausolus",
+      "year": "c. 350 BC",
+      "medium": "marble statue (photograph)",
+      "location": "British Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Mausolus_portrait.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mausolus_portrait.jpg/1920px-Mausolus_portrait.jpg",
+      "width": 1920,
+      "height": 2130,
+      "story": "Unlike most of the wonders, pieces of the Mausoleum survive: this colossal marble figure, traditionally identified as Mausolus himself, was recovered from the site and now stands in the British Museum. The Knights of St John had mounted several of the best sculptures in Bodrum Castle after quarrying the tomb; in the 19th century a British consul obtained statues from the castle, and Newton's excavation brought more to London.",
+      "funFacts": [
+        "Sculptures from the Mausoleum stayed in Bodrum Castle for three centuries before reaching the British Museum.",
+        "The word 'mausoleum' has come to be used generically for any above-ground tomb."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus"
+    },
+    {
+      "id": "mausoleum-ruins-today",
+      "title": "The ruins of the Mausoleum at Halicarnassus — photograph, 2015",
+      "year": "2015",
+      "medium": "photograph",
+      "location": "Bodrum, Turkey",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg/1920px-The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg",
+      "width": 1920,
+      "height": 1273,
+      "story": "The wonder today: scattered column drums and foundation blocks in Bodrum mark where the 45-metre tomb once stood. In 1494 the Knights of St John, fortifying Bodrum Castle against invasion, used the stones of the Mausoleum as building material, and in 1522 more of the remaining sculpture was ground into plaster.",
+      "funFacts": [
+        "Eustathius, writing in the 12th century, could still say of the Mausoleum 'it was and is a wonder'.",
+        "In 1852 the British Museum sent Charles Thomas Newton to search for the tomb; not knowing its exact location, he bought plots of land guided by ancient accounts until he found it."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus"
+    }
+  ]
+}

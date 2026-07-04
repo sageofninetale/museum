@@ -1,0 +1,23 @@
+{
+  "artistId": "max-ernst",
+  "paintings": [
+    {
+      "id": "self-portrait-1909",
+      "title": "Self-Portrait",
+      "year": "1909",
+      "medium": "",
+      "location": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/%D0%90%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9C%D0%B0%D0%BA%D1%81_%D0%AD%D1%80%D0%BD%D1%81%D1%82.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/%D0%90%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%9C%D0%B0%D0%BA%D1%81_%D0%AD%D1%80%D0%BD%D1%81%D1%82.jpg",
+      "width": 638,
+      "height": 1072,
+      "story": "Max Ernst began painting in 1909, the year he enrolled at the University of Bonn to read philosophy, art history, literature, psychology and psychiatry. That year he produced sketches in the garden of the Brühl castle as well as portraits of his sister and of himself, of which this early self-portrait is an example. Ernst went on to become a primary pioneer of the Dada movement and surrealism in Europe.",
+      "funFacts": [
+        "Ernst had no formal artistic training, yet his experimental attitude led him to invent the techniques of frottage and grattage.",
+        "While studying at Bonn he visited asylums and became fascinated with the artwork of mentally ill patients.",
+        "It was only in 1911, after befriending August Macke and joining the Die Rheinischen Expressionisten group, that Ernst decided to become an artist."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Ernst"
+    }
+  ]
+}

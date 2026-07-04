@@ -1,0 +1,107 @@
+{
+  "artistId": "statue-of-zeus",
+  "paintings": [
+    {
+      "id": "heemskerck-zeus",
+      "title": "The Statue of Jupiter at Olympia — Philips Galle after Maarten van Heemskerck, 1572",
+      "year": "1572",
+      "medium": "engraving",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Standbeeld_van_Zeus_in_Olympia_Olympy_Iovis_simvlacrvm_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16455.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Standbeeld_van_Zeus_in_Olympia_Olympy_Iovis_simvlacrvm_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16455.jpg/1920px-Standbeeld_van_Zeus_in_Olympia_Olympy_Iovis_simvlacrvm_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16455.jpg",
+      "width": 1920,
+      "height": 1557,
+      "story": "Heemskerck seats Phidias' god within a curved, colonnaded shrine, a flaming bolt in one hand and an orb in the other, his eagle at his feet — while in the foreground Olympic athletes wrestle and a victor is crowned. Since the statue had been lost a thousand years earlier and no copy survived, the engraving is guesswork built on ancient texts: details of the statue's true form are known only from Greek descriptions and representations on coins and art.",
+      "funFacts": [
+        "The real statue was about 12.4 m (41 ft) tall — the geographer Strabo wrote that if Zeus arose and stood erect he would unroof the temple.",
+        "Zeus' right hand actually held a small chryselephantine statue of Nike, goddess of victory."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia"
+    },
+    {
+      "id": "devos-zeus",
+      "title": "Olympy Iovis Simulachrum — the van de Passe workshop after Maerten de Vos, 1614",
+      "year": "1614",
+      "medium": "engraving",
+      "location": "from the series 'Die sieben Weltwunder' (The Seven Wonders of the World), 1614",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/PPN783779259_Olympy_Iovis_Simulachrum_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PPN783779259_Olympy_Iovis_Simulachrum_%28Die_sieben_Weltwunder%29_%281614%29.jpg/1920px-PPN783779259_Olympy_Iovis_Simulachrum_%28Die_sieben_Weltwunder%29_%281614%29.jpg",
+      "width": 1920,
+      "height": 1640,
+      "story": "The 1614 wonder series after Maerten de Vos — this plate signed by Simon van de Passe — shows the colossal Jupiter brandishing a thunderbolt, his eagle spreading its wings beneath him, while victors kneel to be crowned with olive wreaths. It is an imaginative reconstruction: the chryselephantine statue had been destroyed for over eleven centuries, and the engravers worked from the accounts of ancient writers such as Pausanias.",
+      "funFacts": [
+        "The statue was commissioned by the Eleans, custodians of the Olympic Games, for their newly constructed Temple of Zeus.",
+        "Pausanias records that the statue was kept constantly coated with olive oil to protect the ivory from the damp of the Altis grove."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia"
+    },
+    {
+      "id": "tempesta-zeus",
+      "title": "The Statue of Jupiter at Olympia — Antonio Tempesta, published 1610",
+      "year": "1610",
+      "medium": "etching",
+      "location": "Los Angeles County Museum of Art",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/The_Statue_of_Jupiter_at_Olympia_LACMA_65.37.289.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Statue_of_Jupiter_at_Olympia_LACMA_65.37.289.jpg/1920px-The_Statue_of_Jupiter_at_Olympia_LACMA_65.37.289.jpg",
+      "width": 1920,
+      "height": 1498,
+      "story": "Tempesta places the enthroned god in a round, open colonnade with the games in full swing before him — wrestlers grappling in the dust while spectators crowd around on foot and horseback. The etching belongs to his Seven Wonders series of 1610, theatrical reconstructions of monuments no living person had seen.",
+      "funFacts": [
+        "According to Suetonius, the emperor Caligula ordered famous statues of the gods, including the Jupiter at Olympia, brought from Greece so their heads could be replaced with his own.",
+        "The statue was chryselephantine — ivory plates and gold panels over a wooden framework."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia"
+    },
+    {
+      "id": "erlach-zeus",
+      "title": "The Statue of the Olympian Jupiter — Johann Bernhard Fischer von Erlach, 1721",
+      "year": "1721",
+      "medium": "copperplate engraving",
+      "location": "from 'Entwurff einer historischen Architectur', 1721",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Fischer_von_Erlach_Architektur_002.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Fischer_von_Erlach_Architektur_002.jpg",
+      "width": 1500,
+      "height": 1057,
+      "story": "Fischer von Erlach's plate from his 1721 comparative history of architecture presents a cutaway of the temple at Olympia, its coffered half-dome sheltering the gold-and-ivory god while worshippers prostrate themselves below. The caption states that the reconstruction follows 'the exact description of Pausanias' — the 2nd-century traveller whose account remains the fullest record of the lost statue.",
+      "funFacts": [
+        "The approximate date of the statue — the third quarter of the 5th century BC — was confirmed by the rediscovery of Phidias' workshop at Olympia in 1954–1958.",
+        "Finds in the workshop included tools for working gold and ivory, ivory chippings, precious stones and terracotta moulds."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia"
+    },
+    {
+      "id": "quatremere-jupiter",
+      "title": "Le Jupiter Olympien — Antoine-Chrysostome Quatremère de Quincy, 1815",
+      "year": "1815",
+      "medium": "colour plate",
+      "location": "from 'Le Jupiter olympien, ou l'art de la sculpture antique', Paris, 1815",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Le_Jupiter_Olympien_ou_l%27art_de_la_sculpture_antique.jpg",
+      "width": 684,
+      "height": 866,
+      "story": "The French architectural theorist Quatremère de Quincy devoted an entire treatise to the lost Zeus, publishing this gleaming restoration in 1815: Nike alighting on the god's right hand, the eagle-topped sceptre in his left, and a throne blazing with gold, ebony and painted ornament. His reconstruction dramatised the statue's documented richness at a time when antiquity was still imagined in white marble.",
+      "funFacts": [
+        "Quatremère de Quincy (1755–1849) was a French 'armchair archaeologist', architectural theorist and influential writer on art.",
+        "Pausanias described Zeus' gilded robe as carved with animals and lilies, and his golden sandals resting on a footstool decorated with an Amazonomachy."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia"
+    },
+    {
+      "id": "elis-coins-zeus",
+      "title": "Ancient coins of Elis depicting Phidias' Zeus",
+      "year": "coins struck at Elis; plate published early 20th century",
+      "medium": "engraved plate of ancient coins",
+      "location": "coins of Elis, Greece",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Forngrekiska_mynt_fr%C3%A5n_Elis_med_bilder_efter_Fidias_staty_av_Zeus_i_Olympias_Zeustempel.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Forngrekiska_mynt_fr%C3%A5n_Elis_med_bilder_efter_Fidias_staty_av_Zeus_i_Olympias_Zeustempel.jpg",
+      "width": 402,
+      "height": 195,
+      "story": "Coins of Elis, the city-state that controlled Olympia, carry likenesses of the statue made in antiquity: a laureate head of Zeus and, on the reverse, the god enthroned with sceptre and Nike. Wikipedia notes that no copy in marble or bronze survives and that only 'recognizable but only approximate versions' exist on the coins of Elis and on Roman coins and engraved gems — every later painting and print in this gallery ultimately leans on these tiny images.",
+      "funFacts": [
+        "The statue was lost and destroyed before the end of the 6th century AD, with conflicting accounts of the date and circumstances.",
+        "One Byzantine tradition, recorded by Georgios Kedrenos, says it was carried to Constantinople and destroyed in the great fire of the Palace of Lausus in 475 AD; alternatively it perished with the temple, badly burned in 425 AD."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Statue_of_Zeus_at_Olympia"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "artistId": "jackson-pollock",
+  "paintings": [
+    {
+      "id": "circle",
+      "title": "Circle",
+      "year": "c. 1938-1941",
+      "medium": "",
+      "location": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Circle_by_Jackson_Pollock.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Circle_by_Jackson_Pollock.jpg",
+      "width": 451,
+      "height": 420,
+      "story": "Circle is an early painting by Jackson Pollock, made around 1938 to 1941, years before he developed the drip technique that made him famous. During this period Pollock worked for the WPA Federal Art Project, and from 1938 through 1941 he underwent Jungian psychotherapy with Dr. Joseph L. Henderson, who engaged him through his art and encouraged him to make drawings. Jungian concepts and archetypes were expressed in his paintings of these years.",
+      "funFacts": [
+        "From 1938 to 1942, Pollock worked for the WPA Federal Art Project.",
+        "Pollock was introduced to the use of liquid paint in 1936 at an experimental workshop in New York City run by the Mexican muralist David Alfaro Siqueiros.",
+        "Pollock signed a gallery contract with Peggy Guggenheim in July 1943, which led to his first exhibition."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackson_Pollock"
+    },
+    {
+      "id": "peddler",
+      "title": "Peddler",
+      "year": "c. 1930-1935",
+      "medium": "",
+      "location": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Peddler_by_Jackson_Pollock.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Peddler_by_Jackson_Pollock.jpg",
+      "width": 506,
+      "height": 600,
+      "story": "Peddler is a figurative work from the very beginning of Pollock's career, made around 1930 to 1935. In 1930, following his older brother Charles, Pollock moved to New York City, where they both studied under Thomas Hart Benton at the Art Students League. Benton's rural American subject matter had little influence on Pollock's mature work, but his rhythmic use of paint and his fierce independence proved more lasting.",
+      "funFacts": [
+        "Pollock was heavily influenced by Mexican muralists, particularly Jose Clemente Orozco, whose fresco Prometheus he later called 'the greatest painting in North America'.",
+        "During his early life, Pollock explored Native American culture while on surveying trips with his father."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackson_Pollock"
+    }
+  ]
+}

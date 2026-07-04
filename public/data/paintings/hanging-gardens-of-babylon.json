@@ -1,0 +1,124 @@
+{
+  "artistId": "hanging-gardens-of-babylon",
+  "paintings": [
+    {
+      "id": "hanging-gardens-coloured",
+      "title": "The Hanging Gardens of Babylon — hand-coloured engraving, 19th century",
+      "year": "19th century",
+      "medium": "hand-coloured engraving",
+      "location": "artist unknown",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hanging_Gardens_of_Babylon.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Hanging_Gardens_of_Babylon.jpg",
+      "width": 725,
+      "height": 502,
+      "story": "The most reproduced image of the gardens: a hand-coloured engraving, probably made in the 19th century after the first excavations in the Assyrian capitals, depicting the fabled tiered gardens — winged lamassu statues, palms and fountains on colonnaded terraces — with the Tower of Babel rising in the background. It is pure imagination: Wikipedia notes that no extant Babylonian text mentions the gardens and no definitive archaeological evidence has ever been found in Babylon.",
+      "funFacts": [
+        "The gardens' Greek name comes from kremastós, 'overhanging', referring to trees planted on a raised structure such as a terrace.",
+        "The Hanging Gardens are the only one of the Seven Wonders whose location has not been definitively established."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon"
+    },
+    {
+      "id": "heemskerck-walls-babylon",
+      "title": "The Walls of Babylon — Philips Galle after Maarten van Heemskerck, 1572",
+      "year": "1572",
+      "medium": "engraving",
+      "location": "Rijksmuseum, Amsterdam",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Muren_van_Babylon_Babylonis_Mvri_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16453.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Muren_van_Babylon_Babylonis_Mvri_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16453.jpg/1920px-Muren_van_Babylon_Babylonis_Mvri_%28titel_op_object%29_De_acht_wereldwonderen_%28serietitel%29%2C_RP-P-1891-A-16453.jpg",
+      "width": 1920,
+      "height": 1517,
+      "story": "In Heemskerck's 1572 wonder series the Babylonian entry is Babylonis Muri — the Walls of Babylon. The legendary queen Semiramis wheels on a rearing horse with bow drawn in the foreground, her sculpted tomb behind her, while the city spreads beyond with a spiralling Tower of Babel and, at the right, arcaded terraces crowned with greenery — the hanging gardens slipping into the picture anyway. The Walls appear more than twice across the known ancient lists of wonders, sometimes in place of the gardens.",
+      "funFacts": [
+        "Antipater of Sidon's ancient wonder list praises 'the wall of lofty Babylon on which is a road for chariots'.",
+        "Besides the canonical seven, the Walls of Babylon, the Palace of Cyrus and the Pergamon Altar each appear more than twice in ancient wonder lists."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon"
+    },
+    {
+      "id": "tempesta-walls-babylon",
+      "title": "The Walls of Babylon — Antonio Tempesta, published 1610",
+      "year": "1610",
+      "medium": "etching",
+      "location": "Los Angeles County Museum of Art",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_Walls_of_Babylon_LACMA_65.37.292.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Walls_of_Babylon_LACMA_65.37.292.jpg/1920px-The_Walls_of_Babylon_LACMA_65.37.292.jpg",
+      "width": 1920,
+      "height": 1486,
+      "story": "Tempesta's Babylon plate likewise stars the city's fortifications: labourers raise the towered walls while the warrior-queen Semiramis, seen from behind on horseback, directs the work. The Latin verse beneath credits her with girdling Babylon in walls of squared stone bound with bitumen — the same queen to whom legend sometimes credited the hanging gardens themselves.",
+      "funFacts": [
+        "Legend attributes the gardens to Nebuchadnezzar II, said to have built them for his wife Amytis because she missed the green hills and valleys of her Median homeland.",
+        "The story was attested by the Babylonian priest Berossus, writing in about 290 BC, and later quoted by Josephus."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon"
+    },
+    {
+      "id": "kircher-hanging-gardens",
+      "title": "The Hanging Gardens — Athanasius Kircher, from 'Turris Babel', 1679",
+      "year": "1679",
+      "medium": "engraving",
+      "location": "from Athanasius Kircher's 'Turris Babel', 1679",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Athanasius_Kircher_-_Turris_Babel_-_Hanging_gardens_of_Babylon.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Athanasius_Kircher_-_Turris_Babel_-_Hanging_gardens_of_Babylon.jpg",
+      "width": 1387,
+      "height": 1059,
+      "story": "The Jesuit polymath Athanasius Kircher — honoured in his own day with the title 'Master of a Hundred Arts' — reconstructed the gardens for his 1679 book Turris Babel, a learned study of the monuments of Babylon. His banner titles them the 'hanging gardens of Semiramis, queen of the Babylonians, beside the Euphrates': a tidy Baroque terrace-palace with parterres, fountains and roof-top groves, the Tower of Babel spiralling in the distance.",
+      "funFacts": [
+        "Kircher published around 40 major works spanning comparative religion, geology and medicine.",
+        "One scholarly theory holds that the Greek and Roman descriptions of the gardens represent 'a romantic ideal of an eastern garden' rather than a real place."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon"
+    },
+    {
+      "id": "waldeck-semiramis-gardens",
+      "title": "The Hanging Gardens of Semiramis — H. Waldeck, c. 1900",
+      "year": "c. 1900",
+      "medium": "painting (reproduction)",
+      "location": "signed 'H. Waldeck'",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Waldeck_H%C3%A4ngende_G%C3%A4rten_der_Semiramis.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Waldeck_H%C3%A4ngende_G%C3%A4rten_der_Semiramis.jpg/1920px-Waldeck_H%C3%A4ngende_G%C3%A4rten_der_Semiramis.jpg",
+      "width": 1920,
+      "height": 1038,
+      "story": "This lush turn-of-the-century painting names the gardens after Semiramis, the legendary queen to whom they were sometimes attributed — 'the Hanging Gardens of Semiramis' is an alternative name recorded in the ancient tradition. A queen reclines on a carpeted terrace among dancers, musicians and a leashed leopard, with the garden terraces and domes of Babylon rising behind: pure orientalist romance, painted just as real archaeology in Mesopotamia was getting under way.",
+      "funFacts": [
+        "The construction of the gardens has been credited both to Nebuchadnezzar II and to the legendary queen Semiramis.",
+        "No extant Babylonian texts mention the gardens, and no definitive archaeological evidence has been found in Babylon."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon"
+    },
+    {
+      "id": "knab-hanging-gardens",
+      "title": "The Hanging Gardens of Babylon — Ferdinand Knab, 1886",
+      "year": "1886",
+      "medium": "painting (reproduction)",
+      "location": "from Ferdinand Knab's 1886 series of the Seven Wonders",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hanging_Gardens_of_Babylon_by_Ferdinand_Knab_%281886%29.png",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hanging_Gardens_of_Babylon_by_Ferdinand_Knab_%281886%29.png",
+      "width": 640,
+      "height": 411,
+      "story": "The Munich architectural painter Ferdinand Knab painted all Seven Wonders in 1886, and his vision of the gardens became one of the most widely reproduced: massive brick terraces carry vine-smothered pergolas above channels of water, watched by a sphinx and carved Assyrian reliefs, with ziggurat-like halls rising behind. Ancient writers described exactly such an ascending series of tiered gardens, 'resembling a large green mountain constructed of mud bricks'.",
+      "funFacts": [
+        "Ancient descriptions speak of tiered gardens containing a wide variety of trees, shrubs and vines.",
+        "One modern theory holds the legend really refers to the well-documented garden that the Assyrian king Sennacherib built at Nineveh."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon"
+    },
+    {
+      "id": "ashurbanipal-garden-relief",
+      "title": "The 'Garden Party' relief of Ashurbanipal, Nineveh, c. 645–640 BC",
+      "year": "c. 645–640 BC",
+      "medium": "gypsum wall relief (photograph)",
+      "location": "British Museum, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Assyrian_Relief_of_the_Banquet_of_Ashurbanipal_From_Nineveh_Gypsum_N_Palace_British_Museum_01.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Assyrian_Relief_of_the_Banquet_of_Ashurbanipal_From_Nineveh_Gypsum_N_Palace_British_Museum_01.jpg/1920px-Assyrian_Relief_of_the_Banquet_of_Ashurbanipal_From_Nineveh_Gypsum_N_Palace_British_Museum_01.jpg",
+      "width": 1920,
+      "height": 784,
+      "story": "The closest thing to an ancient image in this gallery: an Assyrian palace relief from Nineveh showing King Ashurbanipal and his queen banqueting under a pergola amid a luxuriant garden. It matters to the story because one of the three modern theories holds that the 'Hanging Gardens of Babylon' were really the famous royal gardens of Nineveh, built by Ashurbanipal's grandfather Sennacherib (704–681 BC).",
+      "funFacts": [
+        "Sennacherib built his garden in his capital Nineveh, on the River Tigris near the modern city of Mosul.",
+        "The relief was carved around 645–640 BCE and is now in the British Museum."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon"
+    }
+  ]
+}

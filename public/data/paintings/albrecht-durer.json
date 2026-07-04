@@ -1,0 +1,157 @@
+{
+  "artistId": "albrecht-durer",
+  "paintings": [
+    {
+      "id": "self-portrait-at-twenty-eight",
+      "title": "Self-Portrait at Twenty-Eight",
+      "year": "1500",
+      "medium": "oil on panel",
+      "location": "Alte Pinakothek, Munich",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/D%C3%BCrer_Alte_Pinakothek.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/D%C3%BCrer_Alte_Pinakothek.jpg/1920px-D%C3%BCrer_Alte_Pinakothek.jpg",
+      "width": 1920,
+      "height": 2707,
+      "story": "Completed early in 1500, just before his 29th birthday, this is the last of Dürer's three painted self-portraits and is considered the most personal, iconic and complex of them. Its resemblance to contemporary representations of Christ — the blessing-like position of the hands, the direct gaze, the sober and earthy tones — could be read as either stunning arrogance or blasphemy. Half-length, frontal and highly symmetrical, it presents Dürer without regard to time or place.",
+      "funFacts": [
+        "In its direct confrontation with the viewer, the self-portrait is unlike any that came before it.",
+        "Inscriptions float in the dark fields on either side of the artist's head."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Self-Portrait_(D%C3%BCrer,_Munich)"
+    },
+    {
+      "id": "young-hare",
+      "title": "Young Hare",
+      "year": "1502",
+      "medium": "watercolour and bodycolour on paper",
+      "location": "Albertina, Vienna",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg/1920px-Albrecht_D%C3%BCrer_-_Hare%2C_1502_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 2122,
+      "story": "Painted in 1502 in Dürer's Nuremberg workshop, this study of a hare is acknowledged as a masterpiece of observational art, rendered with almost photographic accuracy. It remained in Dürer's workshop until his death in 1528, passed to the collector Willibald Imhoff and then to Emperor Rudolf II, and has been in the Albertina in Vienna since 1691.",
+      "funFacts": [
+        "Despite its usual English title, the animal's physical characteristics identify it as a mature specimen — the German title simply means 'Field Hare'.",
+        "It was created during Dürer's intense period of nature studies from 1500 to 1505, alongside the Great Piece of Turf."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Young_Hare"
+    },
+    {
+      "id": "melencolia-i",
+      "title": "Melencolia I",
+      "year": "1514",
+      "medium": "engraving",
+      "location": "Various collections (impressions worldwide)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28_AGDdr3EHmNGyA%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28_AGDdr3EHmNGyA%29.jpg/1920px-Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28_AGDdr3EHmNGyA%29.jpg",
+      "width": 1920,
+      "height": 2426,
+      "story": "This large engraving of 1514 centres on an enigmatic winged female figure, head in hand, thought to personify melancholia. Around her lie tools of craft and carpentry — hourglass, scales, plane, hammer and saw — along with objects of alchemy, geometry and numerology, a magic square, and a ladder leading beyond the frame. One of the most famous of all old master prints, it has resisted definitive interpretation despite a vast art-historical literature.",
+      "funFacts": [
+        "A bat-like creature in the sky carries the text that became the print's title.",
+        "Dürer may have associated melancholia with creative activity, and some read the print as a veiled self-portrait."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Melencolia_I"
+    },
+    {
+      "id": "the-four-apostles",
+      "title": "The Four Apostles",
+      "year": "1526",
+      "medium": "oil on panel",
+      "location": "Alte Pinakothek, Munich",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Albrecht_D%C3%BCrer%2C_The_Four_Apostles.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Albrecht_D%C3%BCrer%2C_The_Four_Apostles.jpg/1920px-Albrecht_D%C3%BCrer%2C_The_Four_Apostles.jpg",
+      "width": 1920,
+      "height": 1933,
+      "story": "Created in 1526 as a pair of monumental oil panels, Dürer's last large-scale work depicts Saints John, Peter, Mark and Paul, two towering figures on each panel. Dürer gifted the diptych to the city of Nuremberg, and it stands as an early visual statement of his Protestant sympathies, emphasizing the authority of scripture over church hierarchy.",
+      "funFacts": [
+        "Despite the title, only John and Peter are strictly apostles — Mark was an Evangelist and Paul a missionary.",
+        "Each panel measures 215 by 76 centimetres."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Four_Apostles"
+    },
+    {
+      "id": "feast-of-the-rosary",
+      "title": "Feast of the Rosary",
+      "year": "1506",
+      "medium": "oil on panel",
+      "location": "National Gallery, Prague",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Albrecht_D%C3%BCrer_-_Feast_of_Rose_Garlands_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Albrecht_D%C3%BCrer_-_Feast_of_Rose_Garlands_-_Google_Art_Project.jpg/1920px-Albrecht_D%C3%BCrer_-_Feast_of_Rose_Garlands_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1624,
+      "story": "Painted in Venice in 1506 for the fraternity of German traders active at the Fondaco dei Tedeschi, the altarpiece was initially commissioned by the banker Jakob Fugger, intermediary between Emperor Maximilian I and Pope Julius II. It also relates to the series of works commemorating Mary of Burgundy, Maximilian's first wife, who was associated in a cult-like way with her name-saint, the Virgin Mary.",
+      "funFacts": [
+        "The Czech art historian Jaroslav Pešina called it 'probably the most superb painting that a German master has ever created'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Feast_of_the_Rosary"
+    },
+    {
+      "id": "adam-and-eve",
+      "title": "Adam and Eve",
+      "year": "1504",
+      "medium": "engraving",
+      "location": "Various collections (impressions worldwide)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Albrecht_D%C3%BCrer%2C_Adam_and_Eve%2C_1504%2C_Engraving.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Albrecht_D%C3%BCrer%2C_Adam_and_Eve%2C_1504%2C_Engraving.jpg/1920px-Albrecht_D%C3%BCrer%2C_Adam_and_Eve%2C_1504%2C_Engraving.jpg",
+      "width": 1920,
+      "height": 2439,
+      "story": "Dürer's 1504 engraving shows Adam and Eve in the Garden of Eden surrounded by symbolic animals, and it transformed how the first couple were popularly depicted in art. It embodies his lifelong search for the perfection of the human form, informed by his study of Italian Renaissance masters such as Giovanni Bellini, Mantegna and Leonardo. Three years later he returned to the subject in a pair of oil panels, now in the Prado — the first full-scale nude subjects in German painting.",
+      "funFacts": [
+        "Dürer met Giovanni Bellini in person during his first stay in Venice.",
+        "The 1507 painted version depicted the figures at human scale, unprecedented in German painting."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_and_Eve_(D%C3%BCrer)"
+    },
+    {
+      "id": "praying-hands",
+      "title": "Praying Hands",
+      "year": "c. 1508",
+      "medium": "pen-and-ink drawing on blue paper",
+      "location": "Albertina, Vienna",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Albrecht_D%C3%BCrer_-_Praying_Hands%2C_1508_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Albrecht_D%C3%BCrer_-_Praying_Hands%2C_1508_-_Google_Art_Project.jpg/1920px-Albrecht_D%C3%BCrer_-_Praying_Hands%2C_1508_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 2794,
+      "story": "This celebrated drawing in white heightening and black ink on Dürer's self-made blue paper shows two male hands clasped in prayer, with partly rolled-up sleeves. It was long considered a study for the hands of an apostle in the Heller Altarpiece, a triptych installed in Frankfurt and destroyed by fire in 1729. A more recent theory holds that its elaborate execution on precious paper makes it a virtuoso record of the painted hands, made to bring back from Italy to Nuremberg.",
+      "funFacts": [
+        "The corresponding hands appear on the right side of the Heller Altarpiece's central panel, though smaller than in the drawing.",
+        "Dürer made the blue-coloured paper himself."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Praying_Hands_(D%C3%BCrer)"
+    },
+    {
+      "id": "great-piece-of-turf",
+      "title": "Great Piece of Turf",
+      "year": "1503",
+      "medium": "watercolour and gouache",
+      "location": "Albertina, Vienna",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg/1920px-Albrecht_D%C3%BCrer_-_The_Large_Piece_of_Turf%2C_1503_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 2466,
+      "story": "At first glance a random assemblage of grasses and plants, this 1503 watercolour depicts an organized, monumental whole and is one of Dürer's most important plant studies. Its unconventional hyper-realism was revolutionary, introducing a peculiarly crisp portrayal of natural objects that went far beyond a simple sketch.",
+      "funFacts": [
+        "The vegetation corresponds to late April or early May, allowing the work to be dated to a specific season.",
+        "Moritz Thausing described it as a 'lifesize marvel of botanical accuracy'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Piece_of_Turf"
+    },
+    {
+      "id": "knight-death-and-the-devil",
+      "title": "Knight, Death and the Devil",
+      "year": "1513",
+      "medium": "engraving",
+      "location": "Various collections (impressions worldwide)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg/1920px-Albrecht_D%C3%BCrer%2C_Knight%2C_Death_and_Devil%2C_1513%2C_NGA_6637.jpg",
+      "width": 1920,
+      "height": 2488,
+      "story": "One of Dürer's three Meisterstiche — master prints — of 1513–14, made in a period when he almost ceased painting to focus on engraving. A stolid armoured knight rides with his faithful dog through a wild gorge, flanked by a goat-headed devil and Death on a pale horse holding an hourglass, yet he looks away from the creatures, almost contemptuous of the threats. The knight is often read as a symbol of courage and the resilience of faith on the Christian's earthly journey toward the heavenly city on the hill.",
+      "funFacts": [
+        "The engraving was widely copied and strongly influenced later German writers, including Friedrich Nietzsche.",
+        "Death's hourglass is a reminder of the shortness of life."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Knight,_Death_and_the_Devil"
+    }
+  ]
+}

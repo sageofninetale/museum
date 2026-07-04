@@ -1,0 +1,18 @@
+{
+  "islands": [
+    { "id": "indian-classical", "name": "Classical India", "startYear": 450, "endYear": 1200, "anchorYear": 600, "blurb": "", "wikipediaUrl": "" },
+    { "id": "mughal-rajput", "name": "Mughal & Rajput Courts", "startYear": 1550, "endYear": 1800, "anchorYear": 1650, "blurb": "", "wikipediaUrl": "" },
+    { "id": "indian-modern", "name": "Indian Modern", "startYear": 1870, "endYear": 1950, "anchorYear": 1905, "blurb": "", "wikipediaUrl": "" }
+  ],
+  "artists": [
+    { "id": "ajanta-painters", "name": "The Ajanta Painters", "periodId": "indian-classical", "birthYear": null, "deathYear": null, "activeStart": 450, "activeEnd": 490, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": true },
+    { "id": "basawan", "name": "Basawan", "periodId": "mughal-rajput", "birthYear": null, "deathYear": null, "activeStart": 1560, "activeEnd": 1600, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "ustad-mansur", "name": "Ustad Mansur", "periodId": "mughal-rajput", "birthYear": null, "deathYear": null, "activeStart": 1590, "activeEnd": 1624, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "bichitr", "name": "Bichitr", "periodId": "mughal-rajput", "birthYear": null, "deathYear": null, "activeStart": 1610, "activeEnd": 1660, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "nihal-chand", "name": "Nihal Chand", "periodId": "mughal-rajput", "birthYear": 1710, "deathYear": 1782, "activeStart": 1735, "activeEnd": 1775, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "raja-ravi-varma", "name": "Raja Ravi Varma", "periodId": "indian-modern", "birthYear": 1848, "deathYear": 1906, "activeStart": 1870, "activeEnd": 1906, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": true, "ceilingFresco": false },
+    { "id": "abanindranath-tagore", "name": "Abanindranath Tagore", "periodId": "indian-modern", "birthYear": 1871, "deathYear": 1951, "activeStart": 1895, "activeEnd": 1945, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "nandalal-bose", "name": "Nandalal Bose", "periodId": "indian-modern", "birthYear": 1882, "deathYear": 1966, "activeStart": 1905, "activeEnd": 1960, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false },
+    { "id": "amrita-sher-gil", "name": "Amrita Sher-Gil", "periodId": "indian-modern", "birthYear": 1913, "deathYear": 1941, "activeStart": 1930, "activeEnd": 1941, "nationality": "", "bio": "", "whyTheyMatter": "", "wikipediaUrl": "", "portraitUrl": "", "hero": false, "ceilingFresco": false }
+  ]
+}

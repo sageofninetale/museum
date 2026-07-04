@@ -1,0 +1,172 @@
+{
+  "artistId": "caravaggio",
+  "paintings": [
+    {
+      "id": "the-calling-of-saint-matthew",
+      "title": "The Calling of Saint Matthew",
+      "year": "1599–1600",
+      "medium": "oil on canvas",
+      "location": "Contarelli Chapel, San Luigi dei Francesi, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg/1920px-Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg",
+      "width": 1920,
+      "height": 1813,
+      "story": "Completed in 1599–1600 for the Contarelli Chapel in the French congregation's church of San Luigi dei Francesi, where it still hangs, the canvas captures the moment Jesus Christ calls the tax collector Matthew to follow him. Cardinal Matthieu Cointerel had left funds and instructions in his will for a chapel decorated with scenes of his namesake saint, and when the fashionable painter Giuseppe Cesari became too busy, Caravaggio's patron Cardinal Francesco Maria del Monte intervened to win him his first major church commission.",
+      "funFacts": [
+        "It hangs alongside two other Caravaggios of the same saint: The Martyrdom of Saint Matthew and The Inspiration of Saint Matthew.",
+        "Giuseppe Cesari, who frescoed the chapel's dome, was Caravaggio's former employer."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Calling_of_Saint_Matthew"
+    },
+    {
+      "id": "judith-beheading-holofernes",
+      "title": "Judith Beheading Holofernes",
+      "year": "c. 1598–1599 or 1602",
+      "medium": "oil on canvas",
+      "location": "Galleria Nazionale d'Arte Antica, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Caravaggio_-_Giuditta_e_Oloferne_%28ca._1599%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Caravaggio_-_Giuditta_e_Oloferne_%28ca._1599%29.jpg/1920px-Caravaggio_-_Giuditta_e_Oloferne_%28ca._1599%29.jpg",
+      "width": 1920,
+      "height": 1432,
+      "story": "The canvas shows the biblical widow Judith decapitating the Assyrian general Holofernes in his tent after he passed out drunk following a banquet. According to the biographer Giovanni Baglione, the work was commissioned by the Genoese banker Ottavio Costa. Remarkably, the painting was only rediscovered in 1950 and now belongs to the Galleria Nazionale d'Arte Antica in Palazzo Barberini.",
+      "funFacts": [
+        "A 2017–18 Milan exhibition argued for a later date of 1602, based on light preliminary sketches uncharacteristic of Caravaggio's early work.",
+        "A disputed second version, rediscovered by chance in 2014, went on sale in 2019 as 'Judith and Holofernes'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Judith_Beheading_Holofernes_(Caravaggio)"
+    },
+    {
+      "id": "supper-at-emmaus",
+      "title": "Supper at Emmaus",
+      "year": "1601",
+      "medium": "oil on canvas",
+      "location": "National Gallery, London",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/1602-3_Caravaggio%2CSupper_at_Emmaus_National_Gallery%2C_London.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1602-3_Caravaggio%2CSupper_at_Emmaus_National_Gallery%2C_London.jpg/1920px-1602-3_Caravaggio%2CSupper_at_Emmaus_National_Gallery%2C_London.jpg",
+      "width": 1920,
+      "height": 1365,
+      "story": "Painted in 1601 for the Roman nobleman Ciriaco Mattei, brother of Cardinal Girolamo Mattei, the picture depicts the moment the resurrected but incognito Jesus reveals himself to two disciples at Emmaus, just before vanishing from their sight. Cleopas wears a pilgrim's scallop shell and flings his arms out of the picture plane, while the standing innkeeper remains oblivious. The life-size figures, dark blank background and the still-life basket teetering over the table's edge make the painting startlingly immediate.",
+      "funFacts": [
+        "Jesus is shown beardless, perhaps following the Gospel of Mark's remark that he appeared to the disciples 'in another form'."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Caravaggio,_London)"
+    },
+    {
+      "id": "david-with-the-head-of-goliath",
+      "title": "David with the Head of Goliath",
+      "year": "c. 1605–1610",
+      "medium": "oil on canvas",
+      "location": "Galleria Borghese, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg/1920px-David_with_the_Head_of_Goliath-Caravaggio_%281610%29.jpg",
+      "width": 1920,
+      "height": 2376,
+      "story": "Recorded in Cardinal Scipione Borghese's collection by 1650, the painting shows a pensive, perturbed David holding Goliath's dangling, blood-dripping head — a composition more dramatic than the ledge-resting heads of earlier tradition. David's expression mingles sadness and compassion, creating an unusual psychological bond between victor and victim. Caravaggio painted the subject at least three times, with other versions in Vienna and Madrid.",
+      "funFacts": [
+        "The sword bears the abbreviated inscription 'H-AS OS', read as 'humilitas occidit superbiam' — 'humility kills pride'.",
+        "The head of Goliath bears Caravaggio's own features, and some scholars read the work as a double self-portrait — the young Caravaggio wistfully holding the head of the adult."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_with_the_Head_of_Goliath_(Caravaggio,_Rome)"
+    },
+    {
+      "id": "the-entombment-of-christ",
+      "title": "The Entombment of Christ",
+      "year": "1603–1604",
+      "medium": "oil on canvas",
+      "location": "Pinacoteca Vaticana, Vatican City",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/The_Entombment_of_Christ-Caravaggio_%28c.1602-3%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/The_Entombment_of_Christ-Caravaggio_%28c.1602-3%29.jpg/1920px-The_Entombment_of_Christ-Caravaggio_%28c.1602-3%29.jpg",
+      "width": 1920,
+      "height": 2852,
+      "story": "Painted in 1603–1604 for the second chapel on the right in Santa Maria in Vallicella, the Chiesa Nuova built for Saint Philip Neri's Oratory, the altarpiece belonged to a programme dedicating the church's altars to the mysteries of the Virgin. The original now hangs in the Vatican Pinacoteca, with a copy in the chapel it was made for.",
+      "funFacts": [
+        "Artists as diverse as Rubens, Fragonard, Géricault and Cézanne made copies of it."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Entombment_of_Christ_(Caravaggio)"
+    },
+    {
+      "id": "bacchus",
+      "title": "Bacchus",
+      "year": "c. 1596",
+      "medium": "oil on canvas",
+      "location": "Uffizi Gallery, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bacchus_by_Caravaggio_1.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bacchus_by_Caravaggio_1.jpg/1920px-Bacchus_by_Caravaggio_1.jpg",
+      "width": 1920,
+      "height": 2239,
+      "story": "Commissioned by Caravaggio's patron Cardinal Francesco Maria del Monte around 1596, the painting shows a youthful Bacchus reclining in classical fashion with grapes and vine leaves in his hair, offering the viewer a shallow goblet of red wine. Caravaggio depicts not simply the god but recognizably a boy dressed up as Bacchus, in a sensual scene that invites the viewer to join him.",
+      "funFacts": [
+        "Bacchus offers the wine with his left hand, which has led to speculation that Caravaggio painted the scene from a mirror, working directly from life without drawing.",
+        "Classical subjects like this decorated the private rooms of aristocrats, as allegories of a patron's interests."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bacchus_(Caravaggio)"
+    },
+    {
+      "id": "medusa",
+      "title": "Medusa",
+      "year": "1597",
+      "medium": "oil on canvas mounted on wood",
+      "location": "Uffizi Gallery, Florence",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Caravaggio_-_Medusa_-_Google_Art_Project.jpg/1920px-Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
+      "width": 1920,
+      "height": 1968,
+      "story": "Caravaggio painted two versions of the Medusa, in 1596 and around 1597, depicting the moment from Greek mythology when the Gorgon is slain by Perseus — yet the screaming faces are also self-portraits. The ceremonial shield was commissioned by Cardinal Francesco Maria del Monte as a gift for Ferdinando I de' Medici and entered the Medici collection. It hangs today, unsigned, in the Uffizi.",
+      "funFacts": [
+        "The painting is executed on a convex wooden parade shield.",
+        "Caravaggio painted his own features onto the dying Gorgon."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Medusa_(Caravaggio)"
+    },
+    {
+      "id": "the-beheading-of-saint-john-the-baptist",
+      "title": "The Beheading of Saint John the Baptist",
+      "year": "1608",
+      "medium": "oil on canvas",
+      "location": "St. John's Co-Cathedral, Valletta, Malta",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/La_decapitaci%C3%B3n_de_San_Juan_Bautista%2C_por_Caravaggio.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/La_decapitaci%C3%B3n_de_San_Juan_Bautista%2C_por_Caravaggio.jpg",
+      "width": 1772,
+      "height": 1225,
+      "story": "This enormous canvas, 3.7 by 5.2 metres, depicts the execution of John the Baptist as a servant girl waits with a golden platter to receive his head and a shocked woman looks on. Painted in 1608 for the Oratory of St. John's Co-Cathedral in Valletta, where it remains, it is widely considered Caravaggio's masterpiece and 'one of the most important works in Western painting'.",
+      "funFacts": [
+        "It is the only work Caravaggio ever signed — his signature runs in the blood spilling from the Baptist's throat.",
+        "The critic Jonathan Jones ranked it among the ten greatest works of art of all time."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Beheading_of_Saint_John_the_Baptist_(Caravaggio)"
+    },
+    {
+      "id": "basket-of-fruit",
+      "title": "Basket of Fruit",
+      "year": "c. 1599",
+      "medium": "oil on canvas",
+      "location": "Biblioteca Ambrosiana, Milan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Canestra_di_frutta_%28Caravaggio%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Canestra_di_frutta_%28Caravaggio%29.jpg/1920px-Canestra_di_frutta_%28Caravaggio%29.jpg",
+      "width": 1920,
+      "height": 1519,
+      "story": "A wicker basket of summer fruit perches on the very edge of a ledge: peach, apple and pear marked by wormholes and insect damage, figs splitting with ripeness, a quince with fungal spots, and four clusters of grapes, some berries overripe or withered. Painted around 1599, this unflinchingly honest still life — imperfections and all — hangs in the Ambrosian Library in Milan.",
+      "funFacts": [
+        "Botanists have identified the fruits' blemishes so precisely that specific pests and fungal diseases have been named for them."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Basket_of_Fruit_(Caravaggio)"
+    },
+    {
+      "id": "conversion-on-the-way-to-damascus",
+      "title": "The Conversion on the Way to Damascus",
+      "year": "1601",
+      "medium": "oil on canvas",
+      "location": "Cerasi Chapel, Santa Maria del Popolo, Rome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Conversion_on_the_Way_to_Damascus-Caravaggio_%28c.1600-1%29.jpg",
+      "textureUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Conversion_on_the_Way_to_Damascus-Caravaggio_%28c.1600-1%29.jpg/1920px-Conversion_on_the_Way_to_Damascus-Caravaggio_%28c.1600-1%29.jpg",
+      "width": 1920,
+      "height": 2523,
+      "story": "Painted in 1601 for the Cerasi Chapel of Santa Maria del Popolo, the canvas was commissioned in September 1600 by Monsignor Tiberio Cerasi, Treasurer-General to Pope Clement VIII. Across the chapel hangs Caravaggio's Crucifixion of Saint Peter, and on the altar between the two stands Annibale Carracci's Assumption of the Virgin, so Caravaggio had to fit his work to the chapel's overall iconographic programme. Despite much talk of rivalry between the two painters, there is no historical evidence of serious tensions.",
+      "funFacts": [
+        "Caravaggio won the commission fresh from his celebrated triumph in the Contarelli Chapel.",
+        "Carlo Maderno rebuilt the small chapel in Baroque style for Cerasi."
+      ],
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Conversion_on_the_Way_to_Damascus"
+    }
+  ]
+}
