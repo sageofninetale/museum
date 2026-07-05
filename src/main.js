@@ -34,7 +34,10 @@ const renderer = new THREE.WebGLRenderer({
   stencil: false,
   powerPreference: 'high-performance',
 });
-renderer.setPixelRatio(Math.min(window.devicePixelRatio, isTouchDevice ? 1.5 : 2));
+// capped at 1.5 everywhere — full devicePixelRatio (2 on Retina/M1 displays)
+// pushes ~1.8x more pixels through bloom+shadows than this, with little
+// visible sharpness gain on a screen this size
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 1.5));
 renderer.outputColorSpace = THREE.SRGBColorSpace;
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
 renderer.toneMappingExposure = 1.32;
@@ -56,6 +59,7 @@ function makeComposer(scene, cam, { bloomIntensity, bloomThreshold, vignette }) 
       luminanceSmoothing: 0.3,
       mipmapBlur: true,
       radius: 0.8,
+      resolutionScale: 0.5, // bloom is blurry by nature — half-res render target is unnoticeable, quarters the pixel cost
     }),
     new VignetteEffect({ offset: 0.26, darkness: vignette }),
   ];
